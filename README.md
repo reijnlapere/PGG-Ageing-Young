@@ -1,9 +1,9 @@
-# Projecttitel
-*Omschrijving van je concept in 1 zin* 
+# *PodsPodsPods*
+ Aan de hand van ons product zelfstandig de motoriek en het cognitief vermogen optimaliseren bij ouderen in de woonzorgcentra aan de hand van de voorgeschreven oefeningen van de kinesist.
 
-*Projectteam: Naam 1; Naam 2*
+Projectteam: Bojan Ronsijn; Reijn Lapere
 
-Datum
+Datum: 05/12/2024
 
 ## Samenvatting
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
