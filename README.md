@@ -125,6 +125,6 @@ Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
       - [report Koen](https://ugentbe-my.sharepoint.com/:w:/g/personal/bojan_ronsijn_ugent_be/Eb5akRwx1EFDgLtshaN8pfwBvc9m9OwPmZm85oWbvJYgQg?e=m1q4BL)
       - [report Heleen](https://ugentbe-my.sharepoint.com/:w:/g/personal/bojan_ronsijn_ugent_be/Eex1E2hSVhhDtkLlPwjKTxgBzzJCHWmrUyNa5yPFgqQUjA?e=NBjVTs)
       - [report benchmark-analyse](https://ugentbe-my.sharepoint.com/:w:/g/personal/bojan_ronsijn_ugent_be/ESvNCrzs3itHsM2775gqn1oBshy27IsrXXR007vszGeNiA?e=hcWYwF)
-      - [report Design ethnography]()
+      - [report Design ethnography](https://ugentbe-my.sharepoint.com/:w:/g/personal/bojan_ronsijn_ugent_be/ETITIzkx51lOpXYVTpnf9pkBVG9VxxgLL5VEyRNWKu__jA?e=YWsT41)
 
 - **Definition**
