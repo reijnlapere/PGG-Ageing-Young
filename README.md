@@ -16,6 +16,8 @@ Om dit probleem aan te pakken, hebben we verschillende onderzoeksactiviteiten ui
 > **Note**
 > - Volledige protocollen en rapporten zijn beschikbaar in de sectie [bijlagen](https://github.com/reijnlapere/PGG-Ageing-Young/edit/main/README.md#bijlagen).
 > - Ruwe data zoals foto's, notities en video-opnames zijn terug te vinden in de protocollen en reports.
+> - Alle geraadpleegde bronnen zijn te vinden in de sectie [bronnen](https://github.com/reijnlapere/PGG-Ageing-Young/edit/main/README.md#bronnen).
+
 
 ## Introductie
 De vergrijzing en het groeiende tekort aan zorgpersoneel in woonzorgcentra en revalidatiecentra creëren een dringende behoefte aan innovatieve oplossingen die zorgvragers zelfstandiger maken en zorgverleners ontlasten. Vooral in de revalidatie en cognitieve stimulatie is de vraag naar efficiënte, toegankelijke hulpmiddelen groot.
@@ -26,7 +28,6 @@ De doelstelling van het project is het bieden van een gebruiksvriendelijk en fle
 
 Met deze oplossing hopen we niet alleen de werkdruk in de zorg te verlichten, maar ook de levenskwaliteit en zelfstandigheid van zorgvragers te vergroten.
 
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)).
 
 ## Methodologie
 Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
@@ -56,41 +57,31 @@ Bestaande producten zoals de "Bob It"-spellen, de Tovertafel, en interactieve ta
 
 ### Resultaten  
 
-**Problemen bij motorische beperkingen**  
-Veel 65-plussers ervaren mobiliteitsproblemen, krachtverlies en coördinatieproblemen. Koen benadrukte dat beperkingen sterk verschillen afhankelijk van het type hersenletsel (ouderdom vs. trauma). Een gepersonaliseerde benadering is daarom essentieel.  
+- **Problematiek bij motorische beperkingen:** De belangrijkste problemen die 65-plussers met motorische beperkingen ondervinden, zijn gerelateerd aan mobiliteit, krachtverlies en coördinatieproblemen. Dit heeft invloed op hun vermogen om deel te nemen aan fysieke activiteiten, vooral als er sprake is van specifieke aandoeningen zoals niet-aangeboren hersenletsel (NAH). Koen benadrukte dat de beperkingen sterk variëren afhankelijk van het type hersenletsel (ouderdom vs. trauma), wat het noodzakelijk maakt om een gepersonaliseerde benadering toe te passen.
 
-**Personalisatie**  
-Personalisatie bleek cruciaal voor de effectiviteit van bewegingsprogramma’s. Bruno en Koen benadrukten het belang van oefeningen die aansluiten bij de capaciteiten van de deelnemer, van lichte oefeningen voor mensen met beperkte mobiliteit tot intensievere activiteiten voor mobielere ouderen. Een flexibel productontwerp is noodzakelijk om aanpassingen eenvoudig te maken.  
+- **Personalisatie:** Een belangrijke conclusie uit de interviews was dat personalisatie essentieel is om de effectiviteit van bewegingsprogramma’s te waarborgen. Zowel Bruno als Koen wezen erop dat oefeningen moeten worden aangepast op basis van het individuele niveau van de deelnemer. Dit kan variëren van lichte oefeningen voor mensen met beperkte mobiliteit tot intensievere oefeningen voor mensen die in staat zijn om te staan en zich te verplaatsen. Het ontwerp van het product moet de mogelijkheid bieden om deze niveaus gemakkelijk in te stellen en aan te passen.
 
-**Zintuiglijke stimulatie**  
-Het betrekken van meerdere zintuigen versterkt de respons van ouderen, vooral bij motorische of cognitieve beperkingen. Door visuele, auditieve en tactiele prikkels – zoals kleuren, geluiden en iconen – te integreren, kunnen oefeningen aantrekkelijker en begrijpelijker worden gemaakt. Bruno benadrukte het gebruik van kleuren om oefeningen aan te duiden, terwijl Koen adviseerde om iconen te gebruiken in plaats van tekst voor betere leesbaarheid.  
+- **Zintuiglijke stimulatie:** De impact van het betrekken van meerdere zintuigen werd herhaaldelijk benadrukt. Zowel Bruno als Koen gaven aan dat het brein van ouderen, met name diegenen die te maken hebben met motorische of cognitieve beperkingen, sterker reageert op oefeningen die gebruik maken van verschillende zintuiglijke prikkels, zoals visuele, auditieve en tactiele stimuli. Dit kan bijvoorbeeld worden bereikt door kleuren, geluiden en eenvoudige iconen te integreren in de interface van het product. Bruno raadde specifiek het gebruik van kleuren aan om verschillende oefeningen of posities aan te geven, terwijl Koen de voordelen van het gebruik van iconen in plaats van kleine tekst benadrukte om de leesbaarheid te vergroten.
 
-**Motivatie**  
-Motivatie bleek een uitdaging: sommige ouderen tonen enthousiasme, terwijl anderen weinig interesse hebben. Heleen en Koen benadrukten dat het product aantrekkelijk moet zijn, met spelelementen zoals een puntensysteem of competitie om gebruikers te stimuleren. Een "Bob It"-achtig spel werd gezien als een goede optie om voortgang te meten en doelen te bereiken.  
+- **Motivatie:** Een ander belangrijk onderwerp dat naar voren kwam, was de motivatie van de doelgroep. Heleen en Koen gaven aan dat motivatie vaak een uitdaging is, met sommige ouderen die enthousiast zijn over de activiteiten en anderen die weinig interesse tonen. Beide experts benadrukten dat het essentieel is om het product aantrekkelijk te maken, zodat het niet aanvoelt als een verplichting. De suggestie om een puntensysteem of een spelcomponent toe te voegen (zoals een "Bob It"-achtig spel) werd door beiden goed ontvangen. Dit zou deelnemers kunnen motiveren door hen een doel te geven om naar toe te werken en de mogelijkheid te bieden om hun voortgang te meten.
 
-**Gebruik van smart devices**  
-Hoewel smart devices nuttig kunnen zijn, ervaren ouderen vaak moeilijkheden met complexe technologie. Heleen benadrukte het belang van eenvoudige interfaces met grote knoppen en minimale kabels, zodat het product zelfstandig kan worden gebruikt. Bruno bevestigde dat een toegankelijke, gebruiksvriendelijke interface essentieel is voor succes.  
+- **Gebruik van smart devices:** Het gebruik van smart devices werd als een potentieel nuttige oplossing gepresenteerd, maar er waren belangrijke beperkingen. Heleen gaf aan dat het voor ouderen moeilijk kan zijn om met technologie om te gaan, vooral wanneer er meerdere kabels of complexe interfaces betrokken zijn. Ze benadrukte dat de interface eenvoudig en gebruiksvriendelijk moet zijn, zodat het product zelfstandig kan worden gebruikt, eventueel met minimale begeleiding. Dit werd ondersteund door Bruno, die aangaf dat het gebruik van een simpele interface en grote knoppen de toegankelijkheid zou verbeteren.
 
-**De rol van de begeleider**  
-Begeleiders blijven belangrijk bij de ondersteuning van fysieke activiteiten. Heleen stelde dat zorgpersoneel vaak een cruciale rol speelt in woonzorgcentra. Hoewel technologie taken kan verlichten, kan het de menselijke begeleiding niet volledig vervangen.  
+- **De rol van de begeleider:** Begeleiders zijn essentieel in woonzorgcentra om diverse aspecten van zorg te waarborgen. Het is daarom belangrijk dat het product zo ontworpen wordt dat het hen ontlast, zodat zij meer tijd kunnen besteden aan de cruciale taken en senioren niet achteruitgaan door gebrek aan beweging.
 
-**Benchmarkanalyse**  
-Bij de evaluatie van benchmarks zoals de SilverFit en MemoreBox bleek dat deze producten voornamelijk virtueel gericht zijn en een tastbaar aspect missen. De Tovertafel sprak zintuigen aan, maar het fysieke element blijft beperkt. Interactieve tafels, bijvoorbeeld voor schaakspellen, bieden mogelijkheden voor groepsinteractie, maar de interface moet eenvoudig blijven. Deze inzichten benadrukken de behoefte aan een product dat visuele, fysieke en sociale interactie combineert.  
+- **Benchmark Analyse:** Tijdens ons zoektocht naar verschillende benchmarks viel het op dat sommige producten, zoals de SilverFit, MemoreBox, en Jintronix, een vergelijkbare werking hebben. Deze producten zijn grotendeels virtueel gericht en missen een tastbaar aspect. Koen noemde bijvoorbeeld de Tovertafel, die de zintuigen aanspreekt door spellen te integreren die zowel cognitieve als motorische vaardigheden stimuleren. Ondanks het interactieve karakter van de Tovertafel, blijft het aanbod van tactiele elementen, zoals het aanraken van objecten, beperkt. Dit benadrukt het belang van een product dat zowel visueel als fysiek uitdaagt. Zo werd een ander product genoemd: een interactieve tafel voor groepsspelletjes, zoals schaak, dat kan variëren van eenvoudige tot complexe spellen, en goed aansluit bij de sociale interactie. Koen wees erop dat dergelijke producten ouderen kunnen helpen om cognitieve vaardigheden te behouden, maar wel met een toegankelijke, intuïtieve interface.
 
-### Conclusies  
-
-- **Personalisatie**: Het product moet eenvoudig aanpasbaar zijn, afgestemd op verschillende fysieke en cognitieve niveaus.  
-- **Zintuiglijke stimulatie**: Kleuren, iconen en auditieve feedback moeten geïntegreerd worden om oefeningen aantrekkelijk en begrijpelijk te maken.  
-- **Motivatie**: Gamificatie, zoals puntensystemen en competitie-elementen, kan de betrokkenheid verhogen.  
-- **Gebruiksvriendelijkheid**: De interface moet eenvoudig zijn, met grote knoppen en duidelijke pictogrammen.  
-- **Flexibiliteit**: Het product moet geschikt zijn voor individueel en groepsgebruik, met ondersteuning van een begeleider.  
-- **Sociale interactie**: Groepsspellen en samenwerking kunnen zowel fysieke als cognitieve vaardigheden versterken.  
+### Conclusies:
+Het product moet **persoonlijk aanpasbaar** zijn, zodat het verschillende niveaus van fysieke en cognitieve vaardigheden ondersteunt. **Zintuiglijke stimulatie** speelt een cruciale rol, met nadruk op kleurgebruik, visuele iconen en auditieve feedback. **Motivatie** wordt gestimuleerd door gamificatie, bijvoorbeeld door een puntensysteem of competitie tussen gebruikers. De interface moet **gebruiksvriendelijk** zijn, met duidelijke pictogrammen en grote tekst. Het product biedt verschillende niveaus van **flexibiliteit**, waardoor het zowel individueel als in kleine groepen kan worden gebruikt. **Sociale interactie** en samenwerking worden bevorderd door groepsactiviteiten en spellen met spelelementen, zoals de interactieve tafel.
 
 Met deze inzichten is de basis gelegd voor een effectief en toegankelijk product dat ouderen met motorische beperkingen helpt fysiek actief te blijven.  
 
 
-### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+> 📝 **Design Requirements**
+> 
+> - tekst
+> - tekst
+
 
 ## Definition
 Max. 1000 woorden
@@ -121,3 +112,19 @@ Max. 500 woorden
 Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 
 ## Bijlagen
+- **Discovery**
+    - protocols
+      - [protocol Bruno](https://ugentbe-my.sharepoint.com/:w:/g/personal/bojan_ronsijn_ugent_be/EeeWNA0WPgZAsyY5EEk4OJoBnG59VDVQjlWM_IEu12ziGQ?e=hTRWiw)  
+      - [protocol Koen](https://onedrive.live.com/personal/7c166ebc891b2cd7/_layouts/15/Doc.aspx?sourcedoc=%7B746bfa2d-9e8a-4560-8be3-04736148c3b5%7D&action=default&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3cvYy83YzE2NmViYzg5MWIyY2Q3L0VTMzZhM1NLbm1CRmktTUVjMkZJdzdVQngtSzBoSEpPdzBSUnNLdzVibUpOTWc_ZT1TaUl0YVQ&slrid=d03c6ba1-607e-6000-089b-34a2f6224374&originalPath=aHR0cHM6Ly8xZHJ2Lm1zL3cvYy83YzE2NmViYzg5MWIyY2Q3L0VTMzZhM1NLbm1CRmktTUVjMkZJdzdVQngtSzBoSEpPdzBSUnNLdzVibUpOTWc_cnRpbWU9UFpJdmVjOFczVWc&CID=875b781f-a8c8-4f2b-b976-8b17b4a1bc0d&_SRM=0:G:47)  
+      - [protocol Heleen](https://ugentbe-my.sharepoint.com/:w:/g/personal/bojan_ronsijn_ugent_be/ES4MZEchvepBls7GbUzu8uMBZr2KhHYPHu1iwPh676ioBw?e=eqPxfc)
+      - [protocol benchmark-analyse](https://ugentbe-my.sharepoint.com/:w:/g/personal/bojan_ronsijn_ugent_be/ESdxSERj3LFKrdyYvtYcxLwBVabwBSCOS9_h8qzEBTmUwg?e=UaAx3w)
+      - [protocol Design ethnography](https://ugentbe-my.sharepoint.com/:w:/g/personal/bojan_ronsijn_ugent_be/ESf16aIQR3NNqxQzOnJgagIBq8hPXHvNMrUJn1plxpLOcg?e=PJWCEV)
+
+    - reports
+      - [report Bruno](https://ugentbe-my.sharepoint.com/:w:/g/personal/bojan_ronsijn_ugent_be/Ee0RgxqAiUJHuObgjKCTFoIBWjQMaXDDnpY-mYWMVj5KSg?e=zcwUNe)
+      - [report Koen](https://ugentbe-my.sharepoint.com/:w:/g/personal/bojan_ronsijn_ugent_be/Eb5akRwx1EFDgLtshaN8pfwBvc9m9OwPmZm85oWbvJYgQg?e=m1q4BL)
+      - [report Heleen](https://ugentbe-my.sharepoint.com/:w:/g/personal/bojan_ronsijn_ugent_be/Eex1E2hSVhhDtkLlPwjKTxgBzzJCHWmrUyNa5yPFgqQUjA?e=NBjVTs)
+      - [report benchmark-analyse](https://ugentbe-my.sharepoint.com/:w:/g/personal/bojan_ronsijn_ugent_be/ESvNCrzs3itHsM2775gqn1oBshy27IsrXXR007vszGeNiA?e=hcWYwF)
+      - [report Design ethnography]()
+
+- **Definition**
