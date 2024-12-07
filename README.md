@@ -1,8 +1,7 @@
 # *PodsPodsPods*
- Aan de hand van ons product zelfstandig de motoriek en het cognitief vermogen optimaliseren bij ouderen in de woonzorgcentra aan de hand van de voorgeschreven oefeningen van de kinesist.
+Aan de hand van ons product kan de gebruiker (65+ in een woonzorgcentrum) zelfstandig de motoriek en het cognitief vermogen optimaliseren  aan de hand van de voorgeschreven oefeningen van de kinesist.
 
 Projectteam: Bojan Ronsijn; Reijn Lapere
-
 Datum: 05/12/2024
 
 ## Samenvatting
@@ -15,8 +14,14 @@ Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker 
 - Hero sketch/render/image
 
 ## Introductie
-Max 300 woorden.
-Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
+De vergrijzing en het groeiende tekort aan zorgpersoneel in woonzorgcentra en revalidatiecentra creëren een dringende behoefte aan innovatieve oplossingen die zorgvragers zelfstandiger maken en zorgverleners ontlasten. Vooral in de revalidatie en cognitieve stimulatie is de vraag naar efficiënte, toegankelijke hulpmiddelen groot.
+
+Ons project richt zich op het ontwikkelen van een interactief, multisensorisch systeem dat gebruikers zelfstandig kan helpen bij het verbeteren van hun motorische, cognitieve en reactieve vaardigheden. De kern van ons systeem bestaat uit een combinatie van slim gepositioneerde pods, een centrale interface en een ondersteunende app, met oefeningen gebaseerd op de Ronnie Gardiner Methode. Deze methode combineert ritme, beweging en sensorische prikkels voor optimale activering van lichaam en geest.
+
+De doelstelling van het project is het bieden van een gebruiksvriendelijk en flexibel systeem dat zelfstandig gebruik stimuleert. Een belangrijke voorwaarde is dat de gebruiker zonder constante begeleiding het systeem kan bedienen. Daarnaast moet het systeem eenvoudig aanpasbaar zijn aan individuele behoeften en niveaus, wat mogelijk wordt gemaakt door een door een kinesist ontworpen configuratie via een app.
+
+Met deze oplossing hopen we niet alleen de werkdruk in de zorg te verlichten, maar ook de levenskwaliteit en zelfstandigheid van zorgvragers te vergroten.
+
 Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)).
 
 ## Methodologie
