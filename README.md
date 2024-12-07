@@ -13,6 +13,10 @@ Om dit probleem aan te pakken, hebben we verschillende onderzoeksactiviteiten ui
 
 - Hero sketch/render/image
 
+> **Note**
+> - Volledige protocollen en rapporten zijn beschikbaar in de sectie [bijlagen](https://github.com/reijnlapere/PGG-Ageing-Young/edit/main/README.md#bijlagen).
+> - Ruwe data zoals foto's, notities en video-opnames zijn terug te vinden in de protocollen en reports.
+
 ## Introductie
 De vergrijzing en het groeiende tekort aan zorgpersoneel in woonzorgcentra en revalidatiecentra creëren een dringende behoefte aan innovatieve oplossingen die zorgvragers zelfstandiger maken en zorgverleners ontlasten. Vooral in de revalidatie en cognitieve stimulatie is de vraag naar efficiënte, toegankelijke hulpmiddelen groot.
 
@@ -85,7 +89,6 @@ Bij de evaluatie van benchmarks zoals de SilverFit en MemoreBox bleek dat deze p
 Met deze inzichten is de basis gelegd voor een effectief en toegankelijk product dat ouderen met motorische beperkingen helpt fysiek actief te blijven.  
 
 
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
 
