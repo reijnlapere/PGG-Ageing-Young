@@ -27,24 +27,24 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 ## Methodologie
 Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
 
-## Discovery  
+## Discovery  (N=20)
 
 ### Doelstellingen  
-Dit project onderzocht de uitdagingen van 65-plussers met motorische beperkingen in het dagelijks leven en tijdens sport- en bewegingslessen. De belangrijkste onderzoeksvragen waren:  
+Dit project onderzocht de uitdagingen van 65-plussers met motorische beperkingen. De belangrijkste onderzoeksvragen waren:  
 - Hoe kunnen zij effectief worden uitgedaagd zonder overbelasting?  
 - Wat is de rol van personalisatie bij het aanpassen van activiteiten?  
 - Hoe beïnvloedt het betrekken van zintuigen hun prestaties?  
 - Hoe kan technologie (zoals smart devices) effectief worden ingezet zonder complexiteit te introduceren?  
 
-Het doel was een product te ontwikkelen dat deze doelgroep motiveert om fysiek actief te blijven, aangepast aan hun individuele behoeften en niveaus.  
+Het doel was hierbij een helder geformuleerde "how might we" bekomen. 
 
 ### Materiaal & Methodes  
 
-#### Expert Interviews  
+#### Expert Interviews (N=3)
 Interviews met drie professionals – Bruno (onderzoeker van een gelijkaardig project), Heleen (begeleider in een woonzorgcentrum), en Koen (psycholoog voor ouderen met niet-aangeboren hersenletsel) – gaven inzichten in de uitdagingen van de doelgroep en effectieve benaderingen voor fysieke activiteiten.  
 
-#### Observatiesessie  
-Tijdens een observatiesessie met 65-plussers werden fysieke en cognitieve reacties op verschillende oefeningen geanalyseerd. Elementen zoals rekkers en stokken werden gebruikt, en de begeleiding door instructeurs speelde een cruciale rol. Zij wisselden oefeningen af, boden duidelijke en herhaalde instructies (verbaal en visueel) en besteedden persoonlijke aandacht aan deelnemers met specifieke behoeften. Daarnaast werd geobserveerd hoe visuele, auditieve en tactiele prikkels betrokkenheid en prestaties beïnvloedden.  
+#### Observatiesessie (N=17)
+Tijdens een observatiesessie met 65-plussers werden fysieke en cognitieve reacties op verschillende oefeningen geanalyseerd. Elementen zoals rekkers en stokken werden gebruikt, en de begeleiding door instructeurs werd geanalyseerd. Zij wisselden oefeningen af, boden duidelijke en herhaalde instructies (verbaal en visueel) en besteedden persoonlijke aandacht aan deelnemers met specifieke behoeften. Daarnaast werd geobserveerd hoe visuele, auditieve en tactiele prikkels betrokkenheid en prestaties beïnvloedden.  
 
 #### Benchmarking  
 Bestaande producten zoals de "Bob It"-spellen, de Tovertafel, en interactieve tafels werden geëvalueerd. Deze benchmarks boden inspiratie, maar vaak ontbrak een combinatie van fysieke en visuele interactie.  
