@@ -13,7 +13,7 @@ Om dit probleem aan te pakken, hebben we verschillende onderzoeksactiviteiten ui
 
 - Hero sketch/render/image
 
-> **Note**
+> [!Note]
 > - Volledige protocollen en rapporten zijn beschikbaar in de sectie [bijlagen](https://github.com/reijnlapere/PGG-Ageing-Young/edit/main/README.md#bijlagen).
 > - Ruwe data zoals foto's, notities en video-opnames zijn terug te vinden in de protocollen en reports.
 > - Alle geraadpleegde bronnen zijn te vinden in de sectie [bronnen](https://github.com/reijnlapere/PGG-Ageing-Young/edit/main/README.md#bronnen).
