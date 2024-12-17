@@ -13,7 +13,7 @@ Om dit probleem aan te pakken, hebben we verschillende onderzoeksactiviteiten ui
 
 - Hero sketch/render/image
 
-> **Note**
+> [!Note]
 > - Volledige protocollen en rapporten zijn beschikbaar in de sectie [bijlagen](https://github.com/reijnlapere/PGG-Ageing-Young/edit/main/README.md#bijlagen).
 > - Ruwe data zoals foto's, notities en video-opnames zijn terug te vinden in de protocollen en reports.
 > - Alle geraadpleegde bronnen zijn te vinden in de sectie [bronnen](https://github.com/reijnlapere/PGG-Ageing-Young/edit/main/README.md#bronnen).
@@ -22,7 +22,7 @@ Om dit probleem aan te pakken, hebben we verschillende onderzoeksactiviteiten ui
 ## Introductie
 De vergrijzing en het groeiende tekort aan zorgpersoneel in woonzorgcentra en revalidatiecentra creëren een dringende behoefte aan innovatieve oplossingen die zorgvragers zelfstandiger maken en zorgverleners ontlasten. Vooral in de revalidatie en cognitieve stimulatie is de vraag naar efficiënte, toegankelijke hulpmiddelen groot.
 
-Ons project richt zich op het ontwikkelen van een interactief, multisensorisch systeem dat gebruikers zelfstandig kan helpen bij het verbeteren van hun motorische, cognitieve en reactieve vaardigheden. De kern van ons systeem bestaat uit een combinatie van slim gepositioneerde pods, een centrale interface en een ondersteunende app, met oefeningen gebaseerd op de Ronnie Gardiner Methode. Deze methode combineert ritme, beweging en sensorische prikkels voor optimale activering van lichaam en geest.
+Ons project richt zich op het ontwikkelen van een interactief, multisensorisch systeem dat gebruikers zelfstandig kan helpen bij het verbeteren van hun motorische, cognitieve en reactieve vaardigheden. De kern van ons systeem bestaat uit een combinatie van slim gepositioneerde pods, een centrale interface en een ondersteunende app. Deze methode combineert ritme, beweging en sensorische prikkels voor optimale activering van lichaam en geest.
 
 De doelstelling van het project is het bieden van een gebruiksvriendelijk en flexibel systeem dat zelfstandig gebruik stimuleert. Een belangrijke voorwaarde is dat de gebruiker zonder constante begeleiding het systeem kan bedienen. Daarnaast moet het systeem eenvoudig aanpasbaar zijn aan individuele behoeften en niveaus, wat mogelijk wordt gemaakt door een door een kinesist ontworpen configuratie via een app.
 
@@ -77,8 +77,14 @@ Het product moet **persoonlijk aanpasbaar** zijn, zodat het verschillende niveau
 Met deze inzichten is de basis gelegd voor een effectief en toegankelijk product dat ouderen met motorische beperkingen helpt fysiek actief te blijven.  
 
 
-> 📝 **Design Requirements**
-> 
+<p align="center">
+  <img src="/images/IMG_1390.JPEG" width="49%">
+  <img src="/images/Schermafbeelding%202024-12-07%20154620.png" width="49%">
+    
+</p>
+
+>  [!IMPORTANT]
+> Design Requirements:
 > - tekst
 > - tekst
 
