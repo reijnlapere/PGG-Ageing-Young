@@ -1,4 +1,4 @@
-# *PodsPodsPods*
+# Selico
 Aan de hand van ons product kan de gebruiker (65+ in een woonzorgcentrum) zelfstandig de motoriek en het cognitief vermogen optimaliseren  aan de hand van de voorgeschreven oefeningen van de kinesist.
 
 Projectteam: Bojan Ronsijn; Reijn Lapere
@@ -89,12 +89,17 @@ Met deze inzichten is de basis gelegd voor een effectief en toegankelijk product
 > - tekst
 
 
-## Definition
-Max. 1000 woorden
-### Doestellingen
-Wat wilde je bereiken?
+## Definition (N=12)
+De _definition_ fase heeft als doel om duidelijke richtlijnen en specificaties op te stellen voor het ontwerp en de functionaliteit van Selico. Dit wordt gedaan door inzichten uit de gebruikstesten te analyseren en deze om te zetten in concrete ontwerp- en ontwikkelbeslissingen.
+### Doelstellingen
+Een conctrete en gebruiksvriendelijke methode bekomen om informatie tussen kinesiste en gebruiker uit te wisselen.
+Een finaal conceptueel ontwerp bekomen.
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
+- _quick-and-dirty_ prototype variaties van mat en interface
+- 4 ledlichtjes manueel te bedienen
+- app prototype variaties
+- gebruikersinterviews
+- gebruikerstesten
 ### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### Conclusies & implicaties
