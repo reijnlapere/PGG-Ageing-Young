@@ -30,7 +30,15 @@ Met deze oplossing hopen we niet alleen de werkdruk in de zorg te verlichten, ma
 
 
 ## Methodologie
-Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
+Het ontwikkelingsproces van Selico volgde een iteratieve en gebruiksgerichte aanpak, waarbij de behoeften van gebruikers centraal stonden. 
+
+In de eerste fase, de exploratiefase, onderzochten we de problematiek rondom motorische en cognitieve stimulatie bij ouderen in woonzorgcentra. Het tekort aan zorgpersoneel en de beperkte autonomie van ouderen vormden de kern van het probleem. Om dit goed te begrijpen, moesten we dieper gaan. We voerde expertinterviews uit met kinesisten, psychologen en zorgverleners. Daarnaast observeerden we een bewegingssessie in een woonzorgcentrum. Hier analyseerden we hoe visuele, auditieve en tactiele prikkels de prestaties en betrokkenheid beïnvloedden. Een benchmarkanalyse van bestaande producten, zoals de Tovertafel en Bob It, gaf inzicht in wat al beschikbaar was en waar de hiaten lagen. Deze onderzoeken resulteerden in een scherp geformuleerde probleemstelling en eerste ontwerpvereisten.
+
+In de definitiefase verdiepten we ons verder in het probleem en starten we met het opstellen van een storyboard om de volledige user journey vast te leggen. Deze aanpak bracht verschillende aspecten en componenten van het product aan het licht die nader gespecificeerd moesten worden. Het testen van deze componenten werd opgesplitst in twee afzonderlijke testfasen, waarbij voor elke fase prototypes werden ontwikkeld die gericht waren op specifieke eigenschappen of functionaliteiten van het product.
+
+Met deze prototypes zochten we meteen de eerste gebruikers op om feedback te verzamelen.Per testfase zochten we minimaal 5 verschillende gebruikers en een kinesist. Op basis van deze inzichten werden de nodige aanpassingen doorgevoerd, met als doel een gebruiksvriendelijk en frictieloos ontwerp te creëren dat een optimale user experience biedt. Na elke testfase werd een analyse uitgevoerd, waarbij we essentiële design requirements vaststelden. Deze requirements dienden als leidraad voor het ontwikkelen van ons finaal concept.
+
+
 
 ## Discovery  (N=20)
 
@@ -83,10 +91,6 @@ Met deze inzichten is de basis gelegd voor een effectief en toegankelijk product
     
 </p>
 
->  [!IMPORTANT]
-> Design Requirements:
-> - tekst
-> - tekst
 
 
 ## Definition (N=12)
@@ -104,6 +108,11 @@ Een finaal conceptueel ontwerp bekomen.
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
+
+>  [!IMPORTANT]
+> Design Requirements:
+> - tekst
+> - tekst
 
 ## Bill of materials
 - Welk
