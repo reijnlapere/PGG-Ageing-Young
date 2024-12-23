@@ -87,8 +87,8 @@ Met deze inzichten is de basis gelegd voor een effectief en toegankelijk product
 
 
 <p align="center">
-  <img src="/images/IMG_1390.JPEG" width="49%">
-  <img src="/images/Schermafbeelding%202024-12-07%20154620.png" width="49%">
+  <img src="images/bewegingssessie.JPEG" width="49%">
+  <img src="images/mapping.png" width="49%">
     
 </p>
 
