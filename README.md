@@ -38,7 +38,8 @@ In de definitiefase verdiepten we ons verder in het probleem en starten we met h
 
 Met deze prototypes zochten we meteen de eerste gebruikers op om feedback te verzamelen.Per testfase zochten we minimaal 5 verschillende gebruikers en een kinesist. Op basis van deze inzichten werden de nodige aanpassingen doorgevoerd, met als doel een gebruiksvriendelijk en frictieloos ontwerp te creëren dat een optimale user experience biedt. Na elke testfase werd een analyse uitgevoerd, waarbij we essentiële design requirements vaststelden. Deze requirements dienden als leidraad voor het ontwikkelen van ons finaal concept.
 
-
+<p align="center">
+  <img src="/images/IMG_1390.JPEG" width="49%">
 
 ## Discovery  (N=20)
 
