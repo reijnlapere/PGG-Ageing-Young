@@ -1,5 +1,5 @@
 # Selico
-Aan de hand van ons product kan de gebruiker (65+ in een woonzorgcentrum) zelfstandig de motoriek en het cognitief vermogen optimaliseren  aan de hand van de voorgeschreven oefeningen van de kinesist.
+Met ons product kan de gebruiker (65+ in een woonzorgcentrum) zelfstandig de motoriek en het cognitief vermogen verbeteren aan de hand van de voorgeschreven oefeningen van de kinesist.
 
 Projectteam: Bojan Ronsijn; Reijn Lapere
 Datum: 05/12/2024
@@ -9,7 +9,7 @@ Het groeiende tekort aan personeel in zorg- en revalidatiecentra, in combinatie 
 
 Om dit probleem aan te pakken, hebben we verschillende onderzoeksactiviteiten uitgevoerd. We hebben expertinterviews gehouden met zorgverleners, kinesisten en andere professionals met ervaring in het vak, en een benchmarkanalyse uitgevoerd. We observeerden een bewegingssessie in een woonzorgcentrum en voerden twee testfases uit, waarbij we gebruikerstests en scenario’s doorliepen om de praktische toepassing te evalueren. We verdiepten ons ook in bewezen Ronnie Gardiner Methode, die effectief cognitieve en motorische vaardigheden stimuleert door middel van ritme en multisensorische prikkels.
 
-"PodsPodsPods" is een interactief systeem dat de gebruiker multisensorisch uitdaagt door middel van licht, trillingen en druk. Het systeem stelt kinesisten in staat om gepersonaliseerde oefeningen te ontwerpen die de gebruiker zelfstandig kan uitvoeren, zonder constante begeleiding. Door deze autonomie te vergroten, helpt het systeem zorgverleners te ontlasten, wat de werkdruk vermindert. Het biedt een innovatieve oplossing voor de huidige tekortkomingen in de zorg, waar de behoefte aan effectieve, zelfstandige therapie groeit.
+"Selico" is een interactief systeem dat de gebruiker multisensorisch uitdaagt door middel van licht, trillingen en druk. Het systeem stelt kinesisten in staat om gepersonaliseerde oefeningen te ontwerpen die de gebruiker zelfstandig kan uitvoeren, zonder constante begeleiding. Door deze autonomie te vergroten, helpt het systeem zorgverleners te ontlasten, wat de werkdruk vermindert. Het biedt een innovatieve oplossing voor de huidige tekortkomingen in de zorg, waar de behoefte aan effectieve, zelfstandige therapie groeit.
 
 - Hero sketch/render/image
 
