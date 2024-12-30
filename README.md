@@ -118,12 +118,20 @@ Uit de eerste concept generatie hadden we als interface een cilindrische interfa
 Een pluspunt was zeker de feedbackstem (aan de hand van een speaker en ingesproken fragmenten werden afgespeeld) in de interface die de bewoner hielp het product te gebruiken. Wat er opviel bij het memory spel is dat je als gebruiker niet duidelijk weet wanneer je moet kijken en onthouden en wanneer je het werkelijk moet doen. 
 
 <p align="center">
-  <img src="images/W2 Photo5.png" width="49%">
-  <img src="images/W2 Photo2.png" width="49%">
-    
+  <img src="images/W2 Photo5.png" width="50%">
+  <img src="images/W2 Photo2.png" width="48%">  
 </p>
 
 #### Pod's
+Uit onze eerste wave bleek al snel dat de manier om de pod’s te kunnen onderscheiden een belangrijke factor is origineel hadden we elke pod een kleur gegeven aan de onderkant. Dit was absoluut geen goede oplossing omdat de gebruikers in de eerste plaats wanneer ze de pod’s omdraaiden om de kleur te kunnen zien dan dachten dat dat de boven kant was en in de tweede plaats niet direct wisten waar de moesten kijken. Dit hebben we meegenomen naar onze 2de wave en hebben we vier variaties gemaakt op de accentkleur van de pod’s. De voorkeur ging naar de kleur op de rand maar wel dikker dan die we nu hebben (Groene Pod) De kinesist in w1 had ook graag gezien dat we de pod’s meer in de ruimte konden verspreiden en ook de kinesist in w2 vond het een goed idee om ze aan de muren te hangen. Nog een observatie was wanneer de pod’s op het lichaam hangen ze niet altijd in het gezichtsveld zitten waardoor je soms moet zoeken naar de pod die licht geeft.
+
+<p align="center">
+  <img src="images/IMG_1780.JPEG" width="24%">
+  <img src="images/IMG_1781.JPEG" width="24%">
+  <img src="images/IMG_1782.JPEG" width="24%">
+  <img src="images/IMG_1783.JPEG" width="24%">
+</p>
+
 #### Matten
 #### Communicatie
 ### Conclusies & implicaties
