@@ -108,7 +108,9 @@ Een finaal conceptueel ontwerp bekomen.
 - gebruikersinterviews
 - gebruikerstesten
 ### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+#### Communicatie (N=/1)
+#### Pods & Matten (N=6)
+#### Interface (N=6)
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
 
