@@ -109,7 +109,7 @@ Een finaal conceptueel ontwerp bekomen.
 - app prototype variaties
 - gebruikersinterviews
 - gebruikerstesten
-- 
+
 ### Resultaten
 Aan de hand van gebruikerstesten kunnen we met behulp van potentiële gebruikers ons concept kritisch evalueren. We hebben 2 waves gedaan, de eerste wave was op de dementie afdeling in WZC T’Huis en de andere was op de afdeling waar de bewoners motorisch beperkt zijn. Onze eerste en tweede wave liepen als volgt, we beginnen met ons voor te stellen aan de kinesist en het concept uit te leggen vervolgens vragen we de mening en of er mogelijke pijnpunten zijn. Hierna laten we de kinesist alles uitleggen aan de bewoner en kijken we hoe dit verloopt en uiteindelijk (enkel 2de wave) simuleren we het spel en vragen we achteraf naar feedback.
 
@@ -137,21 +137,55 @@ Oorspronkelijk hebben we twee matten een voor de voeten en een voor de handen. D
 
 <p align="center">
   <img src="images/IMG_1682.JPEG" width="49%">
-  <img src="images/IMG_1792.JPEG" width="49%">  
+  <img src="images/IMG_1792.JPEG" width="49%">
 </p>
 <p align="center">
   <img src="images/IMG_1788.JPEG" width="49%">
-  <img src="images/IMG_1787.JPEG" width="49%">  
+  <img src="images/IMG_1787.JPEG" width="49%">
 </p>
 
 #### Communicatie
+De communicatie tussen kinesist en gebruiker is een cruciaal onderdeel in ons product. We willen dat de gebruiker gepersonaliseerde pod-posities krijgt van de kinesist zodat de gebruiker specifieke spiermassa’s kan beoefenen. Als verschillende oplossingen hadden we een fysiek boekje waarbij je verschillende, letters, cijfers en symbolen had met velcro of als stickers. Met dezelfde tekens hadden we een app gemaakt waarin de kinesist alles kon ingeven en dit dan kan afdrukken maar wat de bewoners moeten lezen en begrijpen bleef hetzelfde. Deze combinatie van tekens verwezen naar coördinaten op een van de twee matten. Uit de eerste wave bleek al snel dat de gebruikers daar niet goed mee konden om gaan. Ook vraagt dit een kleine inleiding voor elke nieuwe gebruiker over hoe ze het moeten lezen. Als we willen dat het product zelfstand kan gebruikt worden zal dit beter moeten. Vervolgens hebben we het versimpeld naar een figuurtje per plaats waar de pod kan komen. Dit ging al beter maar was toch nog niet ideaal.
+
+<p align="center">
+  <img src="images/W2 Photo6.png" width="49%">
+  <img src="images/Rating communicatie kine.png" width="49%">
+</p>
+<p align="center">
+  <img src="images/IMG_1790.JPEG" width="41%">
+  <img src="images/App indeling1.jpg" width="26%">
+  <img src="images/App indeling2.jpg" width="26%">
+</p>
+
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+De meeste bewoners kozen van de afzonderlijke drukknoppen. Ook ging de voorkeur van de knoppen naar de voorkant van de interface i.p.v. de bovenkant zodat wanneer de interface voor je geplaatst wordt en de mat voor da handen zit ertussen dan moet je minder ver reiken. Wat we ook zeker moeten toevoegen is een punten- en/of een levenssysteem. Zo een systeem voegt een spelelement toe dat gebruikers motiveert en uitdaagt ook kunnen we de spellen progressief moeilijker maken. Bij het memory spel moet er een duidelijk onderscheid zijn tussen het “onthouden” en “reproduceren” dit kan aan de hand van geluid of kleur.
+<br>
+<br>
+> “Hoeveel punten heb ik”
+<br>
+Een belangrijke functie die we kunnen toevoegen bij de pod’s is een trilfunctie. Op deze manier kunnen de pod’s die aan het lichaam hangen sneller ontdekt worden wanneer ze licht geven. De klant had ook graag gehad dat de pod’s aan de muur konden hangen met behulp van zuignappen.
+De mat voor de voeten kunnen we optioneel maken. Ook moet er zeker een antislip laag aan de matten bevestigd worden.
+Uit de punten matrix blijkt dat de kinesisten het liefst met een app werken en vervolgens in een map steken voor de bewoners op. Om het voor de bewoners nog makkelijker te maken zullen we het systeem van de tekens vervangen door mapping. Op deze manier zien ze op schaal waar de pod’s zich moeten bevinden en kunnen ze het makkelijker in de echte wereld plaatsen.
+
+<p align="center">
+  <img src="images/W2 Photo4.png" width="60%">
+</p>
 
 >  [!IMPORTANT]
 > Design Requirements:
-> - tekst
-> - tekst
+> - Onderzijde mat antislip
+> - Drukknoppen i.p.v. draaiknop
+> - Interface makkelijk te gebruiken wanneer mat al klaarligt
+> - Trilfunctie in pod’s
+> - Dikke gekleurde rand op pod’s
+> - Score systeem
+> - progressief moeilijker
+> - Levenssysteem als feedback bij een fout
+> - Onderscheid onthouden en reproduceren
+> - Voetenmat optioneel
+> - Geluidseffecten als feedback toevoegen
+> - Mapping gebruiken in de app
+
 
 ## Bill of materials
 - Welk
