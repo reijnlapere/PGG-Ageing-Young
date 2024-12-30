@@ -98,19 +98,34 @@ Met deze inzichten is de basis gelegd voor een effectief en toegankelijk product
 
 ## Definition (N=12)
 De _definition_ fase heeft als doel om duidelijke richtlijnen en specificaties op te stellen voor het ontwerp en de functionaliteit van Selico. Dit wordt gedaan door inzichten uit de gebruikstesten te analyseren en deze om te zetten in concrete ontwerp- en ontwikkelbeslissingen.
+
 ### Doelstellingen
 Een conctrete en gebruiksvriendelijke methode bekomen om informatie tussen kinesiste en gebruiker uit te wisselen.
 Een finaal conceptueel ontwerp bekomen.
+
 ### Materiaal & methoden
 - _quick-and-dirty_ prototype variaties van mat en interface
 - 4 ledlichtjes manueel te bedienen
 - app prototype variaties
 - gebruikersinterviews
 - gebruikerstesten
+- 
 ### Resultaten
-#### Communicatie (N=/1)
-#### Pods & Matten (N=6)
-#### Interface (N=6)
+Aan de hand van gebruikerstesten kunnen we met behulp van potentiële gebruikers ons concept kritisch evalueren. We hebben 2 waves gedaan, de eerste wave was op de dementie afdeling in WZC T’Huis en de andere was op de afdeling waar de bewoners motorisch beperkt zijn. Onze eerste en tweede wave liepen als volgt, we beginnen met ons voor te stellen aan de kinesist en het concept uit te leggen vervolgens vragen we de mening en of er mogelijke pijnpunten zijn. Hierna laten we de kinesist alles uitleggen aan de bewoner en kijken we hoe dit verloopt en uiteindelijk (enkel 2de wave) simuleren we het spel en vragen we achteraf naar feedback.
+
+#### Interface
+Uit de eerste concept generatie hadden we als interface een cilindrische interface waar de pod’s inzitten en waarbij de startknop en spelknoppen bovenaan waren. Maar om wat variatie te creëren hebben we ook een kubische interface gemaakt. Hoewel het bleek dat voor de gebruikers het geen verschil maakte vond de kinesist het de kubische interface beter in functie van opslag. Hierop hebben we verder geïtereerd en vroegen in W2 (wave 2) aan de bewoners aan de hand van een mockup of ze liever een enkele draaiknop hadden of afzonderlijke drukknoppen.
+Een pluspunt was zeker de feedbackstem (aan de hand van een speaker en ingesproken fragmenten werden afgespeeld) in de interface die de bewoner hielp het product te gebruiken. Wat er opviel bij het memory spel is dat je als gebruiker niet duidelijk weet wanneer je moet kijken en onthouden en wanneer je het werkelijk moet doen. 
+
+<p align="center">
+  <img src="images/W2 Photo5.png" width="49%">
+  <img src="images/W2 Photo2.png" width="49%">
+    
+</p>
+
+#### Pod's
+#### Matten
+#### Communicatie
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
 
