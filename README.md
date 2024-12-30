@@ -105,17 +105,18 @@ Een finaal conceptueel ontwerp bekomen.
 
 ### Materiaal & methoden
 - _quick-and-dirty_ prototype variaties van mat en interface
+- Storyboard
 - 4 ledlichtjes manueel te bedienen
 - app prototype variaties
 - gebruikersinterviews
 - gebruikerstesten
 
 ### Resultaten
-Aan de hand van gebruikerstesten kunnen we met behulp van potentiële gebruikers ons concept kritisch evalueren. We hebben 2 waves gedaan, de eerste wave was op de dementie afdeling in WZC T’Huis en de andere was op de afdeling waar de bewoners motorisch beperkt zijn. Onze eerste en tweede wave liepen als volgt, we beginnen met ons voor te stellen aan de kinesist en het concept uit te leggen vervolgens vragen we de mening en of er mogelijke pijnpunten zijn. Hierna laten we de kinesist alles uitleggen aan de bewoner en kijken we hoe dit verloopt en uiteindelijk (enkel 2de wave) simuleren we het spel en vragen we achteraf naar feedback.
+Aan de hand van gebruikerstesten kunnen we met behulp van potentiële gebruikers ons concept kritisch evalueren. We hebben 2 _waves_ gedaan, de eerste wave was op de dementie afdeling in WZC T’Huis en de andere was op de afdeling waar de bewoners motorisch beperkt zijn. Onze eerste en tweede wave liepen als volgt, we beginnen met ons voor te stellen aan de kinesist en het concept uit te leggen vervolgens vragen we de mening en of er mogelijke pijnpunten zijn. Hierna doorlopen we het _storyboard_:we laten de kinesist alles uitleggen aan de bewoner en kijken we hoe dit verloopt en uiteindelijk (enkel 2de wave) simuleren we het spel en vragen we achteraf naar feedback.
 
 #### Interface
-Uit de eerste concept generatie hadden we als interface een cilindrische interface waar de pod’s inzitten en waarbij de startknop en spelknoppen bovenaan waren. Maar om wat variatie te creëren hebben we ook een kubische interface gemaakt. Hoewel het bleek dat voor de gebruikers het geen verschil maakte vond de kinesist het de kubische interface beter in functie van opslag. Hierop hebben we verder geïtereerd en vroegen in W2 (wave 2) aan de bewoners aan de hand van een mockup of ze liever een enkele draaiknop hadden of afzonderlijke drukknoppen.
-Een pluspunt was zeker de feedbackstem (aan de hand van een speaker en ingesproken fragmenten werden afgespeeld) in de interface die de bewoner hielp het product te gebruiken. Wat er opviel bij het memory spel is dat je als gebruiker niet duidelijk weet wanneer je moet kijken en onthouden en wanneer je het werkelijk moet doen. 
+Uit de eerste concept generatie hadden we als interface een cilindrische interface waar de pod’s inzitten en waarbij de startknop en spelknoppen bovenaan waren. Maar om wat variatie te creëren hebben we ook een kubische interface gemaakt. Hoewel het bleek dat voor de gebruikers het geen verschil maakte vond de kinesist het de kubische interface beter in functie van opslag. Hierop hebben we verder geïtereerd en vroegen in W2 (wave 2) aan de bewoners aan de hand van een _mockup_ of ze liever een enkele draaiknop hadden of afzonderlijke drukknoppen.
+Een pluspunt was zeker de feedbackstem (aan de hand van een speaker en ingesproken fragmenten werden afgespeeld) in de interface die de bewoner hielp het product te gebruiken. Wat er opviel bij het _memory_ spel is dat je als gebruiker niet duidelijk weet wanneer je moet kijken en onthouden en wanneer je het werkelijk moet doen. 
 
 <p align="center">
   <img src="images/W2 Photo5.png" width="50%">
@@ -133,7 +134,7 @@ Uit onze eerste wave bleek al snel dat de manier om de pod’s te kunnen ondersc
 </p>
 
 #### Matten
-Oorspronkelijk hebben we twee matten een voor de voeten en een voor de handen. Die voor de handen kon in alle gevallen gebuikt worden al was het maar met een hand maar die voor de voeten werd vaker achterwege gelaten, vanwege rolstoel gebruik. We willen natuurlijk dat het product zelfstandig kan gebruikt worden dus dat betekent ook de mat voor de voeten op de grond leggen (onder tafel) wat een hoge barrier to entry kan zijn. Ook stoten we op een klein probleem wanneer we het zo willen dat de bewoner met de voeten 360° kan bewegen omdat dan de stoel of rolstoel in de weg kan zitten. Voor onze mat van de handen hebben we geleerd uit de eerste wave deze groter te maken. Dit hebben we gedaan door de lengte van de mat zo groot mogelijk te maken zodat de uiterste pod’s nog net bereikbaar zijn voor de gemiddelde 65-plusser hiervoor hebben we gebruikt gemaakt van de DINBelg. We merkten ook snel bij de mat voor de voeten dat deze makkelijk weggleed.
+Oorspronkelijk hebben we twee matten een voor de voeten en een voor de handen. Die voor de handen kon in alle gevallen gebuikt worden al was het maar met een hand maar die voor de voeten werd vaker achterwege gelaten, vanwege rolstoel gebruik. We willen natuurlijk dat het product zelfstandig kan gebruikt worden dus dat betekent ook de mat voor de voeten op de grond leggen (onder tafel) wat een hoge _barrier to entry_ kan zijn. Ook stoten we op een klein probleem wanneer we het zo willen dat de bewoner met de voeten 360° kan bewegen omdat dan de stoel of rolstoel in de weg kan zitten. Voor onze mat van de handen hebben we geleerd uit de eerste wave deze groter te maken. Dit hebben we gedaan door de lengte van de mat zo groot mogelijk te maken zodat de uiterste pod’s nog net bereikbaar zijn voor de gemiddelde 65-plusser hiervoor hebben we gebruikt gemaakt van de DINBelg. We merkten ook snel bij de mat voor de voeten dat deze makkelijk weggleed.
 
 <p align="center">
   <img src="images/IMG_1682.JPEG" width="49%">
