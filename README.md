@@ -133,6 +133,17 @@ Uit onze eerste wave bleek al snel dat de manier om de pod’s te kunnen ondersc
 </p>
 
 #### Matten
+Oorspronkelijk hebben we twee matten een voor de voeten en een voor de handen. Die voor de handen kon in alle gevallen gebuikt worden al was het maar met een hand maar die voor de voeten werd vaker achterwege gelaten, vanwege rolstoel gebruik. We willen natuurlijk dat het product zelfstandig kan gebruikt worden dus dat betekent ook de mat voor de voeten op de grond leggen (onder tafel) wat een hoge barrier to entry kan zijn. Ook stoten we op een klein probleem wanneer we het zo willen dat de bewoner met de voeten 360° kan bewegen omdat dan de stoel of rolstoel in de weg kan zitten. Voor onze mat van de handen hebben we geleerd uit de eerste wave deze groter te maken. Dit hebben we gedaan door de lengte van de mat zo groot mogelijk te maken zodat de uiterste pod’s nog net bereikbaar zijn voor de gemiddelde 65-plusser hiervoor hebben we gebruikt gemaakt van de DINBelg. We merkten ook snel bij de mat voor de voeten dat deze makkelijk weggleed.
+
+<p align="center">
+  <img src="images/IMG_1682.JPEG" width="49%">
+  <img src="images/IMG_1792.JPEG" width="49%">  
+</p>
+<p align="center">
+  <img src="images/IMG_1788.JPEG" width="49%">
+  <img src="images/IMG_1787.JPEG" width="49%">  
+</p>
+
 #### Communicatie
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
