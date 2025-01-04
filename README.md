@@ -197,15 +197,16 @@ Uit de punten matrix blijkt dat de kinesisten het liefst met een app werken en v
 
 
 ## Bill of materials
-- Welk
-- Materiaal
-- Heb
-- Je
-- Nu
-- Nodig
-- Voor
-- Je
-- Prototype
+- Force Sense Resistors (FSRs)
+- RGB Led's
+- Processor (Arduino)
+- Versterker (MP3-Module)
+- Voeding
+- ERM-motor
+- Antis-slip (rubber, PVC)
+- Scharnieren
+- Kabels (geleiders)
+  
 
 ## Kritische reflectie
 Max. 500 woorden
