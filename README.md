@@ -95,6 +95,11 @@ Met deze inzichten is de basis gelegd voor een effectief en toegankelijk product
 </p>
 
 
+>  [!IMPORTANT]
+> Design Requirements:
+> - D1.1 De spellen maken onderscheid tussen het onthouden en reproduceren van acties.
+> - D3.2 De interface bevat een scoresysteem dat ontworpen is om gebruikers te motiveren en competitie te stimuleren.
+
 
 ## Definition (N=12)
 De _definition_ fase heeft als doel om duidelijke richtlijnen en specificaties op te stellen voor het ontwerp en de functionaliteit van Selico. Dit wordt gedaan door inzichten uit de gebruikstesten te analyseren en deze om te zetten in concrete ontwerp- en ontwikkelbeslissingen.
@@ -174,18 +179,21 @@ Uit de punten matrix blijkt dat de kinesisten het liefst met een app werken en v
 
 >  [!IMPORTANT]
 > Design Requirements:
-> - Onderzijde mat antislip
-> - Drukknoppen i.p.v. draaiknop
-> - Interface makkelijk te gebruiken wanneer mat al klaarligt
-> - Trilfunctie in pod’s
-> - Dikke gekleurde rand op pod’s
-> - Score systeem
-> - progressief moeilijker
-> - Levenssysteem als feedback bij een fout
-> - Onderscheid onthouden en reproduceren
-> - Voetenmat optioneel
-> - Geluidseffecten als feedback toevoegen
-> - Mapping gebruiken in de app
+> - D1.2 De positiemat is optioneel beschikbaar en ontworpen voor middelmatige bewegingen zoals voor- en achterwaarts bewegen.
+> - D1.3 De moeilijkheidsgraad van de spellen neemt progressief toe naarmate de gebruiker langer bezig is.
+> - D2.1 De pods zijn uitgerust met een trilfunctie om tactiele feedback te bieden en multimotorische uitdagingen te stimuleren tijdens het spel.
+> - D2.2 De pods zijn eenvoudig te positioneren dankzij een gekleurde markering die correspondeert met de juiste plaatsing op de positie-mat.
+> - D2.3 De pods zijn eenvoudig in te drukken en reageren gevoelig op druk voor een intuïtieve gebruikerservaring.
+> - D2.4 De pods kunnen met een enkelvoudig verbindingselement in 1 stap aan de positie-mat worden bevestigd.
+> - D3.1 De interface maakt gebruik van drukgevoelige knoppen die zich binnen het zicht en bereik van de gebruiker bevinden.
+> - D3.3 Voor spellen zonder scores is een levenssysteem geïmplementeerd, waarbij fouten leiden tot verlies van levens.
+> - D3.4 De interface beschikt over een geïntegreerde geluidsinstallatie die zowel geluidseffecten als auditieve feedback biedt.
+> - D3.5 De interface biedt opbergruimte voor alle bijbehorende componenten van het product.
+> - D3.6 De onderzijde van de positie-mat is voorzien van een antislipmateriaal om stabiliteit op tafel te garanderen.
+> - D4.7 De interface heeft een robuuste en praktische vorm, zodat deze eenvoudig kan worden opgeborgen en gestapeld.
+> - D4.1 De mobiele applicatie bevat een doorklikfunctie en een beperkt aantal icoontjes voor een overzichtelijke interface.
+> - D4.2 De mobiele applicatie is compatibel met smartphones en computers.
+> - D4.3 De mobiele applicatie beschikt over een printfunctie.
 
 
 ## Bill of materials
@@ -202,6 +210,30 @@ Uit de punten matrix blijkt dat de kinesisten het liefst met een app werken en v
 ## Kritische reflectie
 Max. 500 woorden
 
+## Tussentijds Overzicht Design Requirements
+|ID|Design Requirement|Source|Date|
+|:---|:---|:---|:---|
+|**Groep 1**|**Algemeen**|
+|1.1|De spellen maken onderscheid tussen het onthouden en reproduceren van acties.|Expert interview|16/10/2024|
+|1.2|De positiemat is optioneel beschikbaar en ontworpen voor middelmatige bewegingen zoals voor- en achterwaarts bewegen. |User test W2|10/12/2024|
+|1.3|De moeilijkheidsgraad van de spellen neemt progressief toe naarmate de gebruiker langer bezig is.|Usertest W2|10/12/2024|
+|**Groep 2**|**Pods**|
+|2.1|De pods zijn uitgerust met een trilfunctie om tactiele feedback te bieden en multimotorische uitdagingen te stimuleren tijdens het spel.|User test W2|10/12/2024|
+|2.2|De pods zijn eenvoudig te positioneren dankzij een gekleurde markering die correspondeert met de juiste plaatsing op de positie-mat.|User test W1|02/12/2024|
+|2.3|De pods zijn eenvoudig in te drukken en reageren gevoelig op druk voor een intuïtieve gebruikerservaring.|Usertest W1|02/12/2024|
+|2.4|De pods kunnen met een enkelvoudig verbindingselement in 1 stap aan de positie-mat worden bevestigd.|Usertest W1|02/12/2024|
+|**Groep 3**|**Centrale interface en componenten**|
+|3.1|De interface maakt gebruik van drukgevoelige knoppen die zich binnen het zicht en bereik van de gebruiker bevinden.|User test W2|10/12/2024|
+|3.2|De interface bevat een scoresysteem dat ontworpen is om gebruikers te motiveren en competitie te stimuleren.|expert interview|12/10/2024|
+|3.3|Voor spellen zonder scores is een levenssysteem geïmplementeerd, waarbij fouten leiden tot verlies van levens.|user test W2|10/12/2024|
+|3.4|De interface beschikt over een geïntegreerde geluidsinstallatie die zowel geluidseffecten als auditieve feedback biedt.|User test W1|05/03/2024|
+|3.5|De interface biedt opbergruimte voor alle bijbehorende componenten van het product.|Usertest W1|02/12/2024|
+|3.6|De onderzijde van de positie-mat is voorzien van een antislipmateriaal om stabiliteit op tafel te garanderen.|User test W2|10/12/2024|
+|3.7|De interface heeft een robuuste en praktische vorm, zodat deze eenvoudig kan worden opgeborgen en gestapeld.|Usertest W1|02/12/2024|
+|**Groep 4**|**Mobiele interface**|
+|4.1|De mobiele applicatie bevat een doorklikfunctie en een beperkt aantal icoontjes voor een overzichtelijke interface.|User test W2|10/12/2024|
+|4.2|De mobiele applicatie is compatibel met smartphones en computers.|Usertest W1|02/12/2024|
+|4.3|De mobiele applicatie beschikt over een printfunctie.|Usertest W1|02/12/2024|
 ## Bronnen
 Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 
