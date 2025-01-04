@@ -226,7 +226,7 @@ Max. 500 woorden
 |3.1|De interface maakt gebruik van drukgevoelige knoppen die zich binnen het zicht en bereik van de gebruiker bevinden.|User test W2|10/12/2024|
 |3.2|De interface bevat een scoresysteem dat ontworpen is om gebruikers te motiveren en competitie te stimuleren.|expert interview|12/10/2024|
 |3.3|Voor spellen zonder scores is een levenssysteem geïmplementeerd, waarbij fouten leiden tot verlies van levens.|user test W2|10/12/2024|
-|3.4|De interface beschikt over een geïntegreerde geluidsinstallatie die zowel geluidseffecten als auditieve feedback biedt.|User test W1|05/03/2024|
+|3.4|De interface beschikt over een geïntegreerde geluidsinstallatie die zowel geluidseffecten als auditieve feedback biedt.|User test W1|02/12/2024|
 |3.5|De interface biedt opbergruimte voor alle bijbehorende componenten van het product.|Usertest W1|02/12/2024|
 |3.6|De onderzijde van de positie-mat is voorzien van een antislipmateriaal om stabiliteit op tafel te garanderen.|User test W2|10/12/2024|
 |3.7|De interface heeft een robuuste en praktische vorm, zodat deze eenvoudig kan worden opgeborgen en gestapeld.|Usertest W1|02/12/2024|
