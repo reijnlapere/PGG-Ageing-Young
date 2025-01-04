@@ -213,9 +213,7 @@ Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
       - [protocol Heleen](https://ugentbe-my.sharepoint.com/:w:/g/personal/bojan_ronsijn_ugent_be/ES4MZEchvepBls7GbUzu8uMBZr2KhHYPHu1iwPh676ioBw?e=eqPxfc)
       - [protocol benchmark-analyse](https://ugentbe-my.sharepoint.com/:w:/g/personal/bojan_ronsijn_ugent_be/ESdxSERj3LFKrdyYvtYcxLwBVabwBSCOS9_h8qzEBTmUwg?e=UaAx3w)
       - [protocol Design ethnography](https://ugentbe-my.sharepoint.com/:w:/g/personal/bojan_ronsijn_ugent_be/ESf16aIQR3NNqxQzOnJgagIBq8hPXHvNMrUJn1plxpLOcg?e=PJWCEV)
-      - [protocol W1 Kinesist](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/Aging%20young/deliverables/definition/PROTOCOL%20W1%20CONCEPT%20TEST%20MET%20KINESIST.docx?d=w22ca6882f6054446a3ce72453c1a6903&csf=1&web=1&e=Q4fHLV)
-      - [protocol W1 Bewoners](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/Aging%20young/deliverables/definition/PROTOCOL%20W1%20CONCEPT%20TEST%20MET%20SENIOREN.docx?d=wfce3aedb92834edca27b6f4732f117b0&csf=1&web=1&e=jlPKr4)
-      - [protocol W2](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/Aging%20young/deliverables/definition/PROTOCOL%20WAVE%202.docx?d=wd2699bcb19284b24acafc802f9193ebf&csf=1&web=1&e=WbXeUc)
+
 
     - reports
       - [report Bruno](https://ugentbe-my.sharepoint.com/:w:/g/personal/bojan_ronsijn_ugent_be/Ee0RgxqAiUJHuObgjKCTFoIBWjQMaXDDnpY-mYWMVj5KSg?e=zcwUNe)
@@ -223,10 +221,17 @@ Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
       - [report Heleen](https://ugentbe-my.sharepoint.com/:w:/g/personal/bojan_ronsijn_ugent_be/Eex1E2hSVhhDtkLlPwjKTxgBzzJCHWmrUyNa5yPFgqQUjA?e=NBjVTs)
       - [report benchmark-analyse](https://ugentbe-my.sharepoint.com/:w:/g/personal/bojan_ronsijn_ugent_be/ESvNCrzs3itHsM2775gqn1oBshy27IsrXXR007vszGeNiA?e=hcWYwF)
       - [report Design ethnography](https://ugentbe-my.sharepoint.com/:w:/g/personal/bojan_ronsijn_ugent_be/ETITIzkx51lOpXYVTpnf9pkBVG9VxxgLL5VEyRNWKu__jA?e=YWsT41)
-      - [report W1 Kinesist](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/Aging%20young/deliverables/definition/ANALYSE%20W1%20USABILITY%20RESEARCH%20KINESIST.docx?d=wc771e41056384f61896f43ce4a2d4b38&csf=1&web=1&e=gjBaFi)
-      - [report W1 Bewoners](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/Aging%20young/deliverables/definition/ANALYSE%20W1%20USABILITY%20RESEARCH%20BEWONERS.docx?d=wda13b06253c348859bd442da25a591c3&csf=1&web=1&e=FceTyS)
-      - [report W2](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/Aging%20young/deliverables/definition/ANALYSE%20WAVE%202.docx?d=wc018febc11a5433f87d1e66e60c89bfd&csf=1&web=1&e=3u3AXT)
-    
-    [Storyboard](https://ugentbe-my.sharepoint.com/:i:/r/personal/bojan_ronsijn_ugent_be/Documents/Aging%20young/deliverables/definition/storyboard.jpg?csf=1&web=1&e=QR8v5c)
+
 
 - **Definition**
+  - [Storyboard](https://ugentbe-my.sharepoint.com/:i:/r/personal/bojan_ronsijn_ugent_be/Documents/Aging%20young/deliverables/definition/storyboard.jpg?csf=1&web=1&e=QR8v5c)
+  - protocols
+    - [protocol W1 Kinesist](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/Aging%20young/deliverables/definition/PROTOCOL%20W1%20CONCEPT%20TEST%20MET%20KINESIST.docx?d=w22ca6882f6054446a3ce72453c1a6903&csf=1&web=1&e=Q4fHLV)
+    - [protocol W1 Bewoners](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/Aging%20young/deliverables/definition/PROTOCOL%20W1%20CONCEPT%20TEST%20MET%20SENIOREN.docx?d=wfce3aedb92834edca27b6f4732f117b0&csf=1&web=1&e=jlPKr4)
+    - [protocol W2](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/Aging%20young/deliverables/definition/PROTOCOL%20WAVE%202.docx?d=wd2699bcb19284b24acafc802f9193ebf&csf=1&web=1&e=WbXeUc)
+
+  - reports
+    - [report W1 Kinesist](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/Aging%20young/deliverables/definition/ANALYSE%20W1%20USABILITY%20RESEARCH%20KINESIST.docx?d=wc771e41056384f61896f43ce4a2d4b38&csf=1&web=1&e=gjBaFi)
+    - [report W1 Bewoners](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/Aging%20young/deliverables/definition/ANALYSE%20W1%20USABILITY%20RESEARCH%20BEWONERS.docx?d=wda13b06253c348859bd442da25a591c3&csf=1&web=1&e=FceTyS)
+    - [report W2](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/Aging%20young/deliverables/definition/ANALYSE%20WAVE%202.docx?d=wc018febc11a5433f87d1e66e60c89bfd&csf=1&web=1&e=3u3AXT)
+  
