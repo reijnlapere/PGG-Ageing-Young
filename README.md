@@ -209,7 +209,18 @@ Uit de punten matrix blijkt dat de kinesisten het liefst met een app werken en v
   
 
 ## Kritische reflectie
-Max. 500 woorden
+Tijdens het eerste semester hebben we gewerkt aan ons project Selico, waarin we ons richtten op de discovery- en definition-fase. Dit proces heeft niet alleen geleid tot waardevolle resultaten, maar ook tot belangrijke inzichten in onze werkwijze en aanpak.
+
+Een van de grootste succesfactoren was onze sterke planning en effectieve communicatie. Vanaf het begin hebben we duidelijke afspraken gemaakt over deadlines, taakverdeling en werkwijzen. Regelmatige check-ins zorgden ervoor dat iedereen op de hoogte bleef van de voortgang, en eventuele knelpunten konden tijdig worden aangepakt. Dit heeft ons in staat gesteld om het project zonder noemenswaardige vertragingen te voltooien, wat we als een groot pluspunt beschouwen.
+
+Wat betreft onze uitvoering van het onderzoek, waren de onderzoeksvragen in sommige gevallen aan de brede kant. Hoewel dit ons een uitgebreid perspectief gaf, bleek het soms lastig om diepgaande analyses te maken. Desondanks hebben we veel waardevolle informatie verkregen, die ons een stevige basis gaf om onze ideeën verder te ontwikkelen. Deze ervaring heeft ons geleerd om in de toekomst specifieker te zijn bij het formuleren van onderzoeksvragen, zodat we nog meer gefocuste en gedetailleerde resultaten kunnen behalen.
+
+Een ander sterk punt was de samenwerking binnen ons team. We brachten onze unieke kwaliteiten en inzichten mee, wat leidde tot een divers en creatief proces. Dit werd vooral zichtbaar tijdens brainstormsessies en de evaluatie van onderzoeksresultaten, waarin we elkaar aanvulden en scherp hielden. Deze samenwerking zorgde niet alleen voor goede resultaten, maar ook voor een prettige werksfeer.
+
+Hoewel er ruimte is voor verbetering, kijken we met veel voldoening terug op dit eerste semester. We zijn trots op wat we hebben bereikt en hebben veel geleerd over het uitvoeren van onderzoek en het werken in een team. De lessen die we hebben opgedaan, zoals het nauwer afbakenen van onderzoeksvragen en het blijven streven naar efficiëntie, zullen we meenemen naar toekomstige projecten.
+
+Al met al zijn we erg tevreden over het verloop van dit semester en de resultaten die we met Selico hebben bereikt. We kijken ernaar uit om de volgende fase van ons project in te gaan met de inzichten en vaardigheden die we hebben opgedaan.
+
 
 ## Tussentijds Overzicht Design Requirements
 |ID|Design Requirement|Source|Date|
