@@ -239,7 +239,7 @@ Al met al zijn we erg tevreden over het verloop van dit semester en de resultate
 |3.2|De interface bevat een scoresysteem dat ontworpen is om gebruikers te motiveren en competitie te stimuleren.|expert interview|12/10/2024|
 |3.3|Voor spellen zonder scores is een levenssysteem geïmplementeerd, waarbij fouten leiden tot verlies van levens.|user test W2|10/12/2024|
 |3.4|De interface beschikt over een geïntegreerde geluidsinstallatie die zowel geluidseffecten als auditieve feedback biedt.|User test W1|02/12/2024|
-|3.5|De interface biedt opbergruimte voor alle bijbehorende componenten van het product.|Usertest W1|02/12/2024|
+|3.5|De interface biedt opbergruimte voor alle bijbehorende componenten van het product.|User test W1|02/12/2024|
 |3.6|De onderzijde van de positie-mat is voorzien van een antislipmateriaal om stabiliteit op tafel te garanderen.|User test W2|10/12/2024|
 |3.7|De interface heeft een robuuste en praktische vorm, zodat deze eenvoudig kan worden opgeborgen en gestapeld.|User test W1|02/12/2024|
 |**Groep 4**|**Mobiele interface**|
