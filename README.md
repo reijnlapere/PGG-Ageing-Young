@@ -228,12 +228,12 @@ Al met al zijn we erg tevreden over het verloop van dit semester en de resultate
 |**Groep 1**|**Algemeen**|
 |1.1|De spellen maken onderscheid tussen het onthouden en reproduceren van acties.|Expert interview|16/10/2024|
 |1.2|De positiemat is optioneel beschikbaar en ontworpen voor middelmatige bewegingen zoals voor- en achterwaarts bewegen. |User test W2|10/12/2024|
-|1.3|De moeilijkheidsgraad van de spellen neemt progressief toe naarmate de gebruiker langer bezig is.|Usertest W2|10/12/2024|
+|1.3|De moeilijkheidsgraad van de spellen neemt progressief toe naarmate de gebruiker langer bezig is.|User test W2|10/12/2024|
 |**Groep 2**|**Pods**|
 |2.1|De pods zijn uitgerust met een trilfunctie om tactiele feedback te bieden en multimotorische uitdagingen te stimuleren tijdens het spel.|User test W2|10/12/2024|
 |2.2|De pods zijn eenvoudig te positioneren dankzij een gekleurde markering die correspondeert met de juiste plaatsing op de positie-mat.|User test W1|02/12/2024|
-|2.3|De pods zijn eenvoudig in te drukken en reageren gevoelig op druk voor een intuïtieve gebruikerservaring.|Usertest W1|02/12/2024|
-|2.4|De pods kunnen met een enkelvoudig verbindingselement in 1 stap aan de positie-mat worden bevestigd.|Usertest W1|02/12/2024|
+|2.3|De pods zijn eenvoudig in te drukken en reageren gevoelig op druk voor een intuïtieve gebruikerservaring.|User test W1|02/12/2024|
+|2.4|De pods kunnen met een enkelvoudig verbindingselement in 1 stap aan de positie-mat worden bevestigd.|User test W1|02/12/2024|
 |**Groep 3**|**Centrale interface en componenten**|
 |3.1|De interface maakt gebruik van drukgevoelige knoppen die zich binnen het zicht en bereik van de gebruiker bevinden.|User test W2|10/12/2024|
 |3.2|De interface bevat een scoresysteem dat ontworpen is om gebruikers te motiveren en competitie te stimuleren.|expert interview|12/10/2024|
@@ -241,11 +241,11 @@ Al met al zijn we erg tevreden over het verloop van dit semester en de resultate
 |3.4|De interface beschikt over een geïntegreerde geluidsinstallatie die zowel geluidseffecten als auditieve feedback biedt.|User test W1|02/12/2024|
 |3.5|De interface biedt opbergruimte voor alle bijbehorende componenten van het product.|Usertest W1|02/12/2024|
 |3.6|De onderzijde van de positie-mat is voorzien van een antislipmateriaal om stabiliteit op tafel te garanderen.|User test W2|10/12/2024|
-|3.7|De interface heeft een robuuste en praktische vorm, zodat deze eenvoudig kan worden opgeborgen en gestapeld.|Usertest W1|02/12/2024|
+|3.7|De interface heeft een robuuste en praktische vorm, zodat deze eenvoudig kan worden opgeborgen en gestapeld.|User test W1|02/12/2024|
 |**Groep 4**|**Mobiele interface**|
 |4.1|De mobiele applicatie bevat een doorklikfunctie en een beperkt aantal icoontjes voor een overzichtelijke interface.|User test W2|10/12/2024|
-|4.2|De mobiele applicatie is compatibel met smartphones en computers.|Usertest W1|02/12/2024|
-|4.3|De mobiele applicatie beschikt over een printfunctie.|Usertest W1|02/12/2024|
+|4.2|De mobiele applicatie is compatibel met smartphones en computers.|User test W1|02/12/2024|
+|4.3|De mobiele applicatie beschikt over een printfunctie.|User test W1|02/12/2024|
 ## Bronnen
 Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 
