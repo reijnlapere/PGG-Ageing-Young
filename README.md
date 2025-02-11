@@ -5,7 +5,7 @@ Projectteam: Bojan Ronsijn; Reijn Lapere
 Datum: 05/12/2024
 
 ## Samenvatting
-Het groeiende tekort aan personeel in zorg- en revalidatiecentra, in combinatie met de stijgende vraag naar effectieve revalidatie- en stimulatiemethoden, vraagt om innovatieve oplossingen. Hedendaagse methoden vereisen vaak begeleiding, waardoor de werkdruk voor zorgverleners toeneemt en de autonomie van gebruikers wordt beperkt.
+Het groeiende tekort aan personeel in zorg- en revalidatiecentra, in combinatie met de stijgende vraag naar effectieve revalidatie- en stimulatiemethoden, vraagt om innovatieve oplossingen. Hedendaagse methoden vereisen vaak begeleiding, waardoor de werkdruk voor zorgverleners toeneemt en de autonomie van gebruikers wordt beperkt. -BRONVERMELDING MIRO
 
 Om dit probleem aan te pakken, hebben we verschillende onderzoeksactiviteiten uitgevoerd. We hebben expertinterviews gehouden met zorgverleners, kinesisten en andere professionals met ervaring in het vak, en een benchmarkanalyse uitgevoerd. We observeerden een bewegingssessie in een woonzorgcentrum en voerden twee testfases uit, waarbij we gebruikerstests en scenario’s doorliepen om de praktische toepassing te evalueren. We verdiepten ons ook in bewezen Ronnie Gardiner Methode, die effectief cognitieve en motorische vaardigheden stimuleert door middel van ritme en multisensorische prikkels.
 
@@ -247,7 +247,18 @@ Al met al zijn we erg tevreden over het verloop van dit semester en de resultate
 |4.2|De mobiele applicatie is compatibel met smartphones en computers.|User test W1|02/12/2024|
 |4.3|De mobiele applicatie beschikt over een printfunctie.|User test W1|02/12/2024|
 ## Bronnen
-Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
+[^1]: Van Cauwenberge, G. (2024, July 22). Uitdagingen en opportuniteiten in de ouderenzorg: de visie van Johan Staes (VLOZO). NextConomy. 
+https://www.nextconomy.be/2024/07/uitdagingen-en-opportuniteiten-in-de-ouderenzorg-de-visie-van-johan-staes-vlozo/ 
+![image](https://github.com/user-attachments/assets/10a75d03-0ad0-4445-872b-5197d7b23676)
+
+[^2]: Personeelstekort dwingt Vlaamse ziekenhuizen en woonzorgcentra om zorgaanbod af te bouwen - Zorgnet-Icuro. (n.d.-b). Zorgnet-Icuro.
+ https://www.zorgneticuro.be/nieuws/personeelstekort-dwingt-vlaamse-ziekenhuizen-en-woonzorgcentra-om-zorgaanbod-af-te-bouwen 
+![image](https://github.com/user-attachments/assets/dbe41b5f-4a3f-4836-806c-c5027ac03125)
+
+[^3]: Recordaantal woonzorgcentra op zwarte lijst door personeelstekort. (n.d.). 
+PVDA. https://www.pvda.be/nieuws/recordaantal-woonzorgcentra-op-zwarte-lijst-door-personeelstekort 
+![image](https://github.com/user-attachments/assets/baa2000e-2909-43cf-a9a6-97b5d82d9014)
+
 
 ## Bijlagen
 - **Discovery**
