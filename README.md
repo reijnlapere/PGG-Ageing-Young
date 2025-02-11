@@ -5,7 +5,7 @@ Projectteam: Bojan Ronsijn; Reijn Lapere
 Datum: 05/12/2024
 
 ## Samenvatting
-Het groeiende tekort aan personeel in zorg- en revalidatiecentra, in combinatie met de stijgende vraag naar effectieve revalidatie- en stimulatiemethoden, vraagt om innovatieve oplossingen. Hedendaagse methoden vereisen vaak begeleiding, waardoor de werkdruk voor zorgverleners toeneemt en de autonomie van gebruikers wordt beperkt. -BRONVERMELDING MIRO
+Het groeiende tekort aan personeel in zorg- en revalidatiecentra, in combinatie met de stijgende vraag naar effectieve revalidatie- en stimulatiemethoden, vraagt om innovatieve oplossingen. Hedendaagse methoden vereisen vaak begeleiding, waardoor de werkdruk voor zorgverleners toeneemt en de autonomie van gebruikers wordt beperkt [^1], [^2], [^3].
 
 Om dit probleem aan te pakken, hebben we verschillende onderzoeksactiviteiten uitgevoerd. We hebben expertinterviews gehouden met zorgverleners, kinesisten en andere professionals met ervaring in het vak, en een benchmarkanalyse uitgevoerd. We observeerden een bewegingssessie in een woonzorgcentrum en voerden twee testfases uit, waarbij we gebruikerstests en scenario’s doorliepen om de praktische toepassing te evalueren. We verdiepten ons ook in bewezen Ronnie Gardiner Methode, die effectief cognitieve en motorische vaardigheden stimuleert door middel van ritme en multisensorische prikkels.
 
