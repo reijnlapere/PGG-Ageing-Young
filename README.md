@@ -230,6 +230,8 @@ Het eindpunt van deze ontwikkelingsfase is een geoptimaliseerd ontwerp van de po
 
 ### Materiaal en methoden 
 
+[^4]
+
 ### Resultaten
 
 ### Conclusies & implicaties 
@@ -270,6 +272,9 @@ https://www.nextconomy.be/2024/07/uitdagingen-en-opportuniteiten-in-de-ouderenzo
 [^3]: Recordaantal woonzorgcentra op zwarte lijst door personeelstekort. (n.d.). 
 PVDA. https://www.pvda.be/nieuws/recordaantal-woonzorgcentra-op-zwarte-lijst-door-personeelstekort 
 ![image](https://github.com/user-attachments/assets/baa2000e-2909-43cf-a9a6-97b5d82d9014)
+
+[^4]: Ouderen lichaamsafmetingen. (n.d.). https://www.dinbelg.be/ouderentotaal.htm
+
 
 
 ## Bijlagen
