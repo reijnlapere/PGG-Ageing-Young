@@ -306,9 +306,15 @@ Ook werd er besloten de scope van het product te verschuiven van een volledig ze
 > - D2.7 De pods moeten bestand zijn tegen uiteenlopende drukwaarden (variërend van lichte aanrakingen tot stevige indrukken).
 
 ## Prototype
+In _Develop 1_ lag de focus op ergonomie, zowel op sensorieel als lichamelijk vlak. Daarnaast werd deels al aan detaildesign gewerkt en werden verschillende concepten en systemen verder uitgewerkt. Hierdoor was een hogere kwaliteit vereist dan bij snelle, experimentele prototypes. Bovendien moesten de systemen in staat zijn om elektronische componenten te bevatten of op te bergen. Om deze reden werd gekozen voor 3D-printen, een snelle productietechniek die het mogelijk maakt om efficiënt verschillende vormen te produceren en indien nodig achteraf handmatige aanpassingen door te voeren. Aangezien ook de look and feel van het product een belangrijke rol speelde, werd bewust gekozen voor verfijndere materialen. De eerste indruk is immers van groot belang, en het doel was om deze binnen de beschikbare tijd zo goed mogelijk te optimaliseren. De test werd, zoals eerder beschreven in _Materiaal en Methoden_, opgedeeld in verschillende onderdelen. In de volgende sectie worden de verschillende ontwerpen en de bijbehorende ontwerpkeuzes verder toegelicht.
 
+#### De pods en hun omvang. 
 <p align="center">
   <img src="images/pod design for the....jpg" width="100%">
+  
+#### Het opspansysteem. 
+
+#### De arduino en bijhorende code. 
   
 ```c++
 #include <ArduinoBLE.h>
