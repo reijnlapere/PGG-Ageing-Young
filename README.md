@@ -231,9 +231,9 @@ Het eindpunt van deze ontwikkelingsfase is een geoptimaliseerd ontwerp van de po
 ### Materiaal en methoden 
 Deze test richtte zich voornamelijk op de sensorische en fysieke aspecten van de pods, oftewel "the sense" en "the body", met als doel de ergonomie te verbeteren. Dit werd onderzocht aan de hand van antropometrische berekeningen, gebruikmakend van de DINBelg-database[^4], en verschillende tests, waaronder: welke pod-grootte het meest geschikt is, hoe goed gebruikers de trillingen waarnemen, hoe eenvoudig de pods te bevestigen zijn en hoeveel druk erop wordt uitgeoefend tijdens het gebruik. De test werd uitgevoerd met vijf deelnemers: Christina, Francine, Armand, Robert en Walter, allen ouder dan 65 jaar en met uiteenlopende motorische beperkingen
 
-Pod 1 – Design for the Mean. 
-Pod 2 – Design for the Tall. 
-Pod 3 – Design for the Tall met aangepaste rand. 
+- Pod 1 – Design for the Mean. 
+- Pod 2 – Design for the Tall. 
+- Pod 3 – Design for the Tall met aangepaste rand. 
 
 De test bestond uit verschillende onderdelen:
 - Evaluatie van gebruikservaring per pod (subjectieve waardering).
@@ -241,20 +241,69 @@ De test bestond uit verschillende onderdelen:
 - Meting van krachtuitoefening op de pods.
 - Test van de gebruiksvriendelijkheid bij het opspannen en verwijderen van de band.
 
+De benodigde prototypes en bijbehorende designkeuzes worden hieronder uitgebreid toegelicht onder het kopje _Prototypes_. Wat betreft de hardware zijn verschillende ontworpen pods meegenomen, evenals een weegschaal voor het meten van druk (gewicht), een opspanband, de Arduino 33 IOT en de bijbehorende beschermende behuizing. De druk die op de pods werd uitgeoefend, is gemeten met behulp van de weegschaal, waarbij het gewicht tijdens het indrukken van de pod werd geregistreerd. Door deze waarden te integreren in de formule: 
+- F = m . g
 
-
-
- - Prototype van de pods
-- Prototype van de armband
-- Chrono
-- Weegschaal
-- SUS-lijst
-
-
+kon de drukkracht worden berekend en vervolgens de benodigde veerconstante worden bepaald. Dit was essentieel om te garanderen dat de pod correct werd ingedrukt en het signaal succesvol werd doorgegeven aan de centrale interface. Daarnaast zijn verschillende handelingen, zoals het gebruik van de opspanband, getimed. Dit diende als indicator voor de gebruiksvriendelijkheid en intuïtiviteit van het product. De metingen zijn telkens uitgevoerd zonder voorafgaande instructie aan de gebruiker over de werking van het systeem. Ten slotte zijn diverse resultaten vastgelegd met behulp van een SUS-systeem (System Usability Scale), waarbij gebruikers verschillende aspecten van het product hebben beoordeeld op een schaal van 1 tot 5. Dit maakt het mogelijk om subjectieve voorkeuren en ervaringen te analyseren en bredere trends in de gebruiksvriendelijkheid van het ontwerp vast te stellen.
 
 ### Resultaten
+Grootte van de Pods
+Uit de testresultaten (Tabel 1) blijkt dat Pod 1 het best werd beoordeeld met een gemiddelde score van 4,2/5. Pod 3 behaalde een 3,8/5 en Pod 2 had de laagste score 3,0/5.  
+
+#### Tabel 1: Beoordeling van Pod-groottes  
+
+| Pod-type | Christina | Francine | Armand | Robert | Walter | Gemiddelde score |
+|----------|----------|----------|--------|--------|--------|-----------------|
+| **Pod 1** | 5 | 3 | 5 | 5 | 3 | **4.2** |
+| **Pod 2** | 3 | 3 | 3 | 3 | 3 | **3.0** |
+| **Pod 3** | 3 | 5 | 3 | 3 | 5 | **3.8** |
+
+Dit bevestigt dat een ontwerp gericht op de gemiddelde gebruiker de beste ergonomische balans biedt.  
+
+#### Trillingswaarneming  
+
+Verschillende trillingspatronen werden getest en beoordeeld op waarneembaarheid en comfort, weergegeven in (tabel 2). De constante trilling en de lange dubbele trilling (1s) scoorden het best (beide 4,0/5), terwijl "complexere trillingen" zoals golvende of opkomende trillingen significant slechter werden waargenomen (scores tussen 1,2 en 2,0).  
+
+#### Tabel 2: Beoordeling van trillingspatronen  
+
+| Trillingspatroon                                      | C  | F  | A  | R  | W  | Gemiddelde Score |
+|-------------------------------------------------------|----|----|----|----|----|------------------|
+| Constante trilling                                    | 3  | 4  | 4  | 4  | 5  | **4.0**         |
+| Dubbele trilling (1s)                                 | 4  | 5  | 2  | 5  | 4  | **4.0**         |
+| Dubbele trilling (0.5s)                               | 5  | 3  | 3  | 3  | 3  | **3.4**         |
+| Dubbele opkomende trilling (0.4s laag, 0.3s hoog, 0.8s uit)  | 3  | 2  | 2  | 2  | 1  | **2.0**         |
+| Dubbele opkomende trilling (0.2s laag, 0.1s hoog, 0.3s uit)  | 2  | 1  | 1  | 1  | 1  | **1.2**         |
+| Dalende trilling (0.25s hoog, 0.2s laag, 0.3s uit)    | 2  | 1  | 1  | 1  | 2  | **1.4**         |
+| Dubbel golvende trilling (0.15s laag, 0.3s hoog, 0.15s laag, 0.3s uit) | 1  | 2  | 2  | 2  | 2  | **1.8**         |
+| Constant wisselende snelle trilling (0.2s uit)       | 2  | 1  | 1  | 1  | 1  | **1.2**         |
+
+Uit de test blijkt dat sterkere trillingsmotoren nodig zijn om de waarneembaarheid te garanderen. 
+
+#### Drukuitoefening op de Pods  
+De op de pods uitgeoefende kracht varieerde van 292 g tot 3194 g, zoals weergegeven in onderstaande grafiek. Deze variatie was afhankelijk van de gebruiker; sommige deelnemers gaven lichte tikjes, terwijl anderen krachtiger drukten. De grote spreiding in deze krachten onderstreept de noodzaak van een evenwichtige drukverdeling. Het berekenen van de veerconstante bleek overbodig, aangezien de gemeten waarden sterk uiteenliepen. Essentieel is dat de gebruikte veren ervoor zorgen dat bij de laagst waargenomen drukwaarde het signaal correct wordt doorgevoerd. Daarnaast moet de afscherming zo worden ontworpen dat zelfs bij de hoogst waargenomen drukwaarde de pod niet kan worden ingekeken en de elektronica beschermd blijft.
+
+_grafiek_
+
+#### Gebruikservaring: Opspannen en Afdoen van de Band  
+
+Het verwijderen van de band verliep zonder problemen. Het opspannen vergde daarentegen in sommige gevallen meer moeite, aangezien hierbij slechts één hand kon worden gebruikt, wat voor de meeste gebruikers een uitdaging vormde. De gemiddelde tijd om de band af te doen bedroeg 35,3 seconden, terwijl een kinesist de band in 34 seconden kon aanbrengen. Dit toont aan dat, ondanks het ontbreken van voorafgaande instructies, het opspansysteem intuïtief en eenvoudig in gebruik is.
+Bovendien werd na enkele herhalingen een duidelijke leercurve waargenomen, waarbij de handelingen steeds sneller en efficiënter verliepen.
 
 ### Conclusies & implicaties 
+
+- Pod 1 (Design for the Mean) blijkt het meest geschikt voor de doelgroep.
+- Trillingsmotoren moeten krachtiger zijn om consistent waarneembaar te blijven.
+- Constante trillingen zijn het meest geliefd en moeten als standaardfeedback worden gebruikt.
+- Het opspannen en verwijderen van de band verloopt vlotter na gewenning, maar kan in sommige gevallen moeilijk blijven zonder hulp.
+  
+Ook werd er besloten de scope van het product te verschuiven van een volledig zelfstandige ervaring – inclusief het klaarzetten, spelen en opruimen – naar een opzet waarbij begeleiding mogelijk is tijdens de installatie, afhankelijk van de behoeften van de gebruiker. Zodra het systeem is opgezet, kan de gebruiker vervolgens volledig zelfstandig aan de slag. Deze aanpassing verhoogt de gebruiksvriendelijkheid en verlaagt de drempel om het product te gebruiken. Gebruikers worden niet geconfronteerd met onnodige obstakels bij de start, wat het proces toegankelijker maakt. Bovendien is niet het opzetten van het systeem de meest tijdrovende factor, maar eerder de simulatie van het spel zelf.
+
+>  [!IMPORTANT]
+> Design Requirements:
+> - De Pods moeten afgestemd zijn op de gemiddelde gebruiker, _design for the mean_ voor het optimaliseren van de ergonomie.
+> - De pods moeten beschikken over zowel visueel als sensorische signalen die direct opgemerkt moet kunnen worden.
+> - Het opspannen en verwijderen van de band moet vlot en intuïtief verlopen en binnen 45 seconden voltooid zijn.
+> - De pods moeten bestand zijn tegen uiteenlopende drukwaarden (variërend van lichte aanrakingen tot stevige indrukken).
 
 ## Prototype
 
@@ -449,7 +498,10 @@ void loop() {
 |2.1|De pods moeten opgemerkt worden door de gebruiker zowel op de tafel als op de ledematen.|User test W2|10/12/2024|
 |2.2|De pods zijn eenvoudig te positioneren.|User test W1|02/12/2024|
 |2.3|De pods zijn eenvoudig in te drukken en reageren gevoelig op druk voor een intuïtieve gebruikerservaring.|User test W1|02/12/2024|
-|2.4|De pods moet worden ontwerpen voor de _mean_. |Develop 1|10/03/2025|
+|2.4|De Pods moeten afgestemd zijn op de gemiddelde gebruiker, _design for the mean_ voor het optimaliseren van de ergonomie.|Develop 1|10/03/2025|
+|2.5|De pods moeten beschikken over zowel visueel als sensorische signalen die direct opgemerkt moet kunnen worden.|Develop 1|10/03/2025|
+|2.6|Het opspannen en verwijderen van de band moet vlot en intuïtief verlopen en binnen 45 seconden voltooid zijn.|Develop 1|10/03/2025|
+|2.7|De pods moeten bestand zijn tegen uiteenlopende drukwaarden (variërend van lichte aanrakingen tot stevige indrukken).|Develop 1|10/03/2025|
 |**Groep 3**|**Centrale interface en componenten**|
 |3.1|De interface kan worden bediend binnen het bereik van de gebruiker (percentage).|User test W2|10/12/2024|
 |3.2|De interface motiveert, stimuleert en daagt de gebruiker uit.|expert interview|12/10/2024|
