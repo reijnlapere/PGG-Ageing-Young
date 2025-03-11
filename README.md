@@ -300,10 +300,10 @@ Ook werd er besloten de scope van het product te verschuiven van een volledig ze
 
 >  [!IMPORTANT]
 > Design Requirements:
-> - De Pods moeten afgestemd zijn op de gemiddelde gebruiker, _design for the mean_ voor het optimaliseren van de ergonomie.
-> - De pods moeten beschikken over zowel visueel als sensorische signalen die direct opgemerkt moet kunnen worden.
-> - Het opspannen en verwijderen van de band moet vlot en intuïtief verlopen en binnen 45 seconden voltooid zijn.
-> - De pods moeten bestand zijn tegen uiteenlopende drukwaarden (variërend van lichte aanrakingen tot stevige indrukken).
+> - D2.4 De Pods moeten afgestemd zijn op de gemiddelde gebruiker, _design for the mean_ voor het optimaliseren van de ergonomie.
+> - D2.5 De pods moeten beschikken over zowel visueel als sensorische signalen die direct opgemerkt moet kunnen worden.
+> - D2.6 Het opspannen en verwijderen van de band moet vlot en intuïtief verlopen en binnen 45 seconden voltooid zijn.
+> - D2.7 De pods moeten bestand zijn tegen uiteenlopende drukwaarden (variërend van lichte aanrakingen tot stevige indrukken).
 
 ## Prototype
 
