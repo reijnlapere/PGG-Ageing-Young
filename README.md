@@ -193,7 +193,7 @@ Uit de puntenmatrix blijkt dat kinesisten de voorkeur geven aan het gebruik van 
 > - D4.3 De mobiele applicatie beschikt over een printfunctie.
 
 
-## Bill of materials
+### Bill of materials
 - Force Sense Resistors (FSRs)
 - RGB Led's
 - Processor (Arduino)
@@ -205,7 +205,7 @@ Uit de puntenmatrix blijkt dat kinesisten de voorkeur geven aan het gebruik van 
 - Kabels (geleiders)
   
 
-## Kritische reflectie
+### Kritische reflectie
 Tijdens het eerste semester is gewerkt aan het project Selico, waarbij de focus lag op de discovery- en definition-fase. Dit proces heeft niet alleen geleid tot waardevolle resultaten, maar ook tot belangrijke inzichten in de werkwijze en aanpak.
 
 Een van de belangrijkste succesfactoren werd gevormd door een sterke planning, die in Trello werd opgesteld, en door effectieve communicatie. Vanaf de start zijn duidelijke afspraken gemaakt met betrekking tot deadlines, taakverdeling en werkwijzen. Door regelmatige check-ins werd ervoor gezorgd dat alle betrokkenen op de hoogte bleven van de voortgang en dat eventuele knelpunten tijdig konden worden aangepakt. Hierdoor kon het project zonder noemenswaardige vertragingen worden afgerond, wat als een groot voordeel wordt beschouwd.
@@ -218,6 +218,23 @@ Hoewel er ruimte is voor verbetering, wordt met voldoening teruggekeken op het e
 
 Over het geheel genomen wordt het verloop van het semester als positief ervaren en wordt tevredenheid uitgesproken over de behaalde resultaten binnen het project Selico. De volgende fase van het project zal worden aangegaan met de verworven inzichten en vaardigheden.
 
+## Develop 1 - Sensorische en Fysieke Evaluatie voor Ergonomische Optimalisatie. (N=5)
+
+Het eindpunt van deze ontwikkelingsfase is een geoptimaliseerd ontwerp van de pods, waarbij we op basis van sensorische en fysieke tests kunnen aantonen welke verbeteringen zijn aangebracht op het gebied van ergonomie en gebruiksgemak.
+
+### Doelstellingen. 
+- De optimale grootte van de pod bepalen op basis van ergonomische en antropometrische analyses.
+- De effectiviteit en waarneembaarheid van verschillende trillingspatronen evalueren.
+- Onderzoeken hoe eenvoudig de pods kunnen worden bevestigd en verwijderd.
+- De krachtregistratie tijdens het gebruik analyseren om optimale drukverdeling te verzekeren.
+
+### Materiaal en methoden 
+
+### Resultaten
+
+### Conclusies & implicaties 
+
+## Prototype
 
 ## Tussentijds Overzicht Design Requirements
 |ID|Design Requirement|Source|Date|
