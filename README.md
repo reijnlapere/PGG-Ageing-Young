@@ -5,7 +5,7 @@ Projectteam: Bojan Ronsijn; Reijn Lapere
 Datum: 05/12/2024
 
 ## Samenvatting
-Het groeiende tekort aan personeel in zorg- en revalidatiecentra, in combinatie met de stijgende vraag naar effectieve revalidatie- en stimulatiemethoden, vraagt om innovatieve oplossingen. Hedendaagse methoden vereisen vaak begeleiding, waardoor de werkdruk voor zorgverleners toeneemt en de autonomie van gebruikers wordt beperkt.
+Het groeiende tekort aan personeel in zorg- en revalidatiecentra, in combinatie met de stijgende vraag naar effectieve revalidatie- en stimulatiemethoden, vraagt om innovatieve oplossingen. Hedendaagse methoden vereisen vaak begeleiding, waardoor de werkdruk voor zorgverleners toeneemt en de autonomie van gebruikers wordt beperkt [^1], [^2], [^3].
 
 Om dit probleem aan te pakken, hebben we verschillende onderzoeksactiviteiten uitgevoerd. We hebben expertinterviews gehouden met zorgverleners, kinesisten en andere professionals met ervaring in het vak, en een benchmarkanalyse uitgevoerd. We observeerden een bewegingssessie in een woonzorgcentrum en voerden twee testfases uit, waarbij we gebruikerstests en scenario’s doorliepen om de praktische toepassing te evalueren. We verdiepten ons ook in bewezen Ronnie Gardiner Methode, die effectief cognitieve en motorische vaardigheden stimuleert door middel van ritme en multisensorische prikkels.
 
@@ -95,6 +95,11 @@ Met deze inzichten is de basis gelegd voor een effectief en toegankelijk product
 </p>
 
 
+>  [!IMPORTANT]
+> Design Requirements:
+> - D1.1 De spellen maken onderscheid tussen het onthouden en reproduceren van acties.
+> - D3.2 De interface bevat een scoresysteem dat ontworpen is om gebruikers te motiveren en competitie te stimuleren.
+
 
 ## Definition (N=12)
 De _definition_ fase heeft als doel om duidelijke richtlijnen en specificaties op te stellen voor het ontwerp en de functionaliteit van Selico. Dit wordt gedaan door inzichten uit de gebruikstesten te analyseren en deze om te zetten in concrete ontwerp- en ontwikkelbeslissingen.
@@ -105,17 +110,18 @@ Een finaal conceptueel ontwerp bekomen.
 
 ### Materiaal & methoden
 - _quick-and-dirty_ prototype variaties van mat en interface
+- Storyboard
 - 4 ledlichtjes manueel te bedienen
 - app prototype variaties
 - gebruikersinterviews
 - gebruikerstesten
 
 ### Resultaten
-Aan de hand van gebruikerstesten kunnen we met behulp van potentiële gebruikers ons concept kritisch evalueren. We hebben 2 waves gedaan, de eerste wave was op de dementie afdeling in WZC T’Huis en de andere was op de afdeling waar de bewoners motorisch beperkt zijn. Onze eerste en tweede wave liepen als volgt, we beginnen met ons voor te stellen aan de kinesist en het concept uit te leggen vervolgens vragen we de mening en of er mogelijke pijnpunten zijn. Hierna laten we de kinesist alles uitleggen aan de bewoner en kijken we hoe dit verloopt en uiteindelijk (enkel 2de wave) simuleren we het spel en vragen we achteraf naar feedback.
+Aan de hand van gebruikerstesten wordt het concept kritisch geëvalueerd met behulp van potentiële gebruikers. Tijdens het onderzoek zijn twee _waves_ getest. De eerste _wave_ vond plaats op de dementieafdeling van WZC T’Huis, terwijl de tweede werd uitgevoerd op de afdeling waar de bewoners motorisch beperkt zijn. Bij beide testfases werd gestart met een kennismaking met de kinesist, waarna het concept werd toegelicht. Vervolgens werd de mening van de kinesist gevraagd en werden mogelijke pijnpunten in kaart gebracht. Daarna werd het _storyboard_ doorlopen: de kinesist gaf een uitleg aan de bewoner, terwijl geobserveerd werd hoe dit proces verliep. In de tweede _wave_ werd bovendien het spel gesimuleerd, waarna feedback werd verzameld.
 
 #### Interface
-Uit de eerste concept generatie hadden we als interface een cilindrische interface waar de pod’s inzitten en waarbij de startknop en spelknoppen bovenaan waren. Maar om wat variatie te creëren hebben we ook een kubische interface gemaakt. Hoewel het bleek dat voor de gebruikers het geen verschil maakte vond de kinesist het de kubische interface beter in functie van opslag. Hierop hebben we verder geïtereerd en vroegen in W2 (wave 2) aan de bewoners aan de hand van een mockup of ze liever een enkele draaiknop hadden of afzonderlijke drukknoppen.
-Een pluspunt was zeker de feedbackstem (aan de hand van een speaker en ingesproken fragmenten werden afgespeeld) in de interface die de bewoner hielp het product te gebruiken. Wat er opviel bij het memory spel is dat je als gebruiker niet duidelijk weet wanneer je moet kijken en onthouden en wanneer je het werkelijk moet doen. 
+Uit de eerste conceptgeneratie werd een cilindrische interface ontwikkeld, waarin de pods waren geplaatst en waarbij de startknop en spelknoppen zich aan de bovenzijde bevonden. Ter bevordering van variatie werd tevens een kubische interface ontworpen. Hoewel uit gebruikersonderzoek bleek dat dit voor de gebruikers geen verschil maakte, werd door de kinesist aangegeven dat de kubische interface geschikter was voor opslag. Op basis hiervan werd verder geïtereerd, en in _Wave 2_ (W2) werd aan de bewoners, met behulp van een _mockup,_ gevraagd of de voorkeur uitging naar een enkele draaiknop dan wel afzonderlijke drukknoppen.
+Een positief aspect was de toevoeging van een feedbackstem, waarbij een speaker werd gebruikt om ingesproken fragmenten af te spelen, ter ondersteuning van de bewoner bij het gebruik van het product. Bij het _memory_-spel werd opgemerkt dat het voor de gebruiker niet altijd duidelijk was wanneer er gekeken en onthouden moest worden en wanneer de daadwerkelijke uitvoering verwacht werd.
 
 <p align="center">
   <img src="images/W2 Photo5.png" width="50%">
@@ -123,7 +129,7 @@ Een pluspunt was zeker de feedbackstem (aan de hand van een speaker en ingesprok
 </p>
 
 #### Pod's
-Uit onze eerste wave bleek al snel dat de manier om de pod’s te kunnen onderscheiden een belangrijke factor is origineel hadden we elke pod een kleur gegeven aan de onderkant. Dit was absoluut geen goede oplossing omdat de gebruikers in de eerste plaats wanneer ze de pod’s omdraaiden om de kleur te kunnen zien dan dachten dat dat de boven kant was en in de tweede plaats niet direct wisten waar de moesten kijken. Dit hebben we meegenomen naar onze 2de wave en hebben we vier variaties gemaakt op de accentkleur van de pod’s. De voorkeur ging naar de kleur op de rand maar wel dikker dan die we nu hebben (Groene Pod) De kinesist in w1 had ook graag gezien dat we de pod’s meer in de ruimte konden verspreiden en ook de kinesist in w2 vond het een goed idee om ze aan de muren te hangen. Nog een observatie was wanneer de pod’s op het lichaam hangen ze niet altijd in het gezichtsveld zitten waardoor je soms moet zoeken naar de pod die licht geeft.
+Uit de eerste testfase werd al snel duidelijk dat een onderscheidende markering van de pods een essentiële factor is. Aanvankelijk werd ervoor gekozen om elke pod aan de onderzijde van een specifieke kleur te voorzien. Deze oplossing bleek echter niet effectief, aangezien gebruikers bij het omdraaien van de pods de onderzijde vaak als bovenzijde interpreteerden. Bovendien was het voor hen niet onmiddellijk duidelijk waar zij moesten kijken om de kleur te herkennen. Deze bevindingen werden meegenomen naar de tweede testfase, waarin vier varianten van de accentkleur op de pods werden ontwikkeld. De voorkeur werd gegeven aan een accentkleur op de rand van de pod, zij het in een dikkere uitvoering dan de huidige (zoals toegepast bij de groene pod). Daarnaast werd door de kinesist in de eerste testweek gesuggereerd om de pods ruimer te verspreiden, een voorstel dat door de kinesist in de tweede testweek werd aangevuld met het idee om de pods ook aan de muren te bevestigen. Een bijkomende observatie was dat wanneer de pods op het lichaam werden bevestigd, deze niet altijd binnen het gezichtsveld vielen, waardoor gebruikers soms moesten zoeken naar de pod die licht gaf.
 
 <p align="center">
   <img src="images/IMG_1780.JPEG" width="24%">
@@ -133,7 +139,7 @@ Uit onze eerste wave bleek al snel dat de manier om de pod’s te kunnen ondersc
 </p>
 
 #### Matten
-Oorspronkelijk hebben we twee matten een voor de voeten en een voor de handen. Die voor de handen kon in alle gevallen gebuikt worden al was het maar met een hand maar die voor de voeten werd vaker achterwege gelaten, vanwege rolstoel gebruik. We willen natuurlijk dat het product zelfstandig kan gebruikt worden dus dat betekent ook de mat voor de voeten op de grond leggen (onder tafel) wat een hoge barrier to entry kan zijn. Ook stoten we op een klein probleem wanneer we het zo willen dat de bewoner met de voeten 360° kan bewegen omdat dan de stoel of rolstoel in de weg kan zitten. Voor onze mat van de handen hebben we geleerd uit de eerste wave deze groter te maken. Dit hebben we gedaan door de lengte van de mat zo groot mogelijk te maken zodat de uiterste pod’s nog net bereikbaar zijn voor de gemiddelde 65-plusser hiervoor hebben we gebruikt gemaakt van de DINBelg. We merkten ook snel bij de mat voor de voeten dat deze makkelijk weggleed.
+Oorspronkelijk werden twee matten voorzien: één voor de handen en één voor de voeten. De mat voor de handen kon in alle gevallen worden gebruikt, zelfs wanneer slechts één hand werd ingezet. De mat voor de voeten daarentegen werd vaker achterwege gelaten, voornamelijk vanwege het gebruik van rolstoelen. Aangezien het product zelfstandig gebruikt moet kunnen worden, dient ook de mat voor de voeten op de grond te worden geplaatst (onder de tafel). Dit kan echter een aanzienlijke barrière tot gebruik vormen. Daarnaast werd een probleem vastgesteld met betrekking tot de bewegingsvrijheid van de voeten in een 360°-radius, aangezien de (rol)stoel hierbij een obstakel kan vormen. Uit de eerste testfase werd geconcludeerd dat de mat voor de handen in omvang vergroot diende te worden. Dit werd gerealiseerd door de lengte van de mat zo groot mogelijk te maken, zodat de uiterste pods nog net bereikbaar bleven voor de gemiddelde 65-plusser. Hierbij werd gebruikgemaakt van de DINBelg-normen. Verder werd vastgesteld dat de mat voor de voeten gemakkelijk verschoof tijdens gebruik.
 
 <p align="center">
   <img src="images/IMG_1682.JPEG" width="49%">
@@ -145,7 +151,7 @@ Oorspronkelijk hebben we twee matten een voor de voeten en een voor de handen. D
 </p>
 
 #### Communicatie
-De communicatie tussen kinesist en gebruiker is een cruciaal onderdeel in ons product. We willen dat de gebruiker gepersonaliseerde pod-posities krijgt van de kinesist zodat de gebruiker specifieke spiermassa’s kan beoefenen. Als verschillende oplossingen hadden we een fysiek boekje waarbij je verschillende, letters, cijfers en symbolen had met velcro of als stickers. Met dezelfde tekens hadden we een app gemaakt waarin de kinesist alles kon ingeven en dit dan kan afdrukken maar wat de bewoners moeten lezen en begrijpen bleef hetzelfde. Deze combinatie van tekens verwezen naar coördinaten op een van de twee matten. Uit de eerste wave bleek al snel dat de gebruikers daar niet goed mee konden om gaan. Ook vraagt dit een kleine inleiding voor elke nieuwe gebruiker over hoe ze het moeten lezen. Als we willen dat het product zelfstand kan gebruikt worden zal dit beter moeten. Vervolgens hebben we het versimpeld naar een figuurtje per plaats waar de pod kan komen. Dit ging al beter maar was toch nog niet ideaal.
+De communicatie tussen de kinesist en de gebruiker wordt beschouwd als een essentieel onderdeel van het product. Het is de bedoeling dat de gebruiker gepersonaliseerde pod-posities ontvangt van de kinesist, zodat specifieke spiermassa’s geoefend kunnen worden. Aanvankelijk werden verschillende oplossingen overwogen. Eén optie betrof een fysiek boekje met letters, cijfers en symbolen, die met velcro of als stickers konden worden bevestigd. Daarnaast werd een applicatie ontwikkeld waarin de kinesist de benodigde informatie kon invoeren, waarna deze kon worden afgedrukt. De weergegeven tekens bleven echter identiek aan die in het fysieke boekje, waardoor de bewoners deze op dezelfde manier moesten interpreteren. Deze tekens verwezen naar coördinaten op een van de twee matten. Uit de eerste testfase bleek dat de gebruikers moeite hadden met deze methode. Bovendien was een korte introductie noodzakelijk voor elke nieuwe gebruiker om de instructies correct te kunnen lezen. Indien het product zelfstandig gebruikt moet kunnen worden, dient dit aspect te worden verbeterd. Om die reden werd de methode vereenvoudigd door per mogelijke pod-positie een uniek figuur te gebruiken. Hoewel deze aanpassing tot een verbeterde ervaring leidde, werd vastgesteld dat de oplossing nog steeds niet optimaal was.
 
 <p align="center">
   <img src="images/W2 Photo6.png" width="49%">
@@ -158,14 +164,14 @@ De communicatie tussen kinesist en gebruiker is een cruciaal onderdeel in ons pr
 </p>
 
 ### Conclusies & implicaties
-De meeste bewoners kozen van de afzonderlijke drukknoppen. Ook ging de voorkeur van de knoppen naar de voorkant van de interface i.p.v. de bovenkant zodat wanneer de interface voor je geplaatst wordt en de mat voor da handen zit ertussen dan moet je minder ver reiken. Wat we ook zeker moeten toevoegen is een punten- en/of een levenssysteem. Zo een systeem voegt een spelelement toe dat gebruikers motiveert en uitdaagt ook kunnen we de spellen progressief moeilijker maken. Bij het memory spel moet er een duidelijk onderscheid zijn tussen het “onthouden” en “reproduceren” dit kan aan de hand van geluid of kleur.
+De meeste bewoners gaven de voorkeur aan afzonderlijke drukknoppen. Daarnaast werd er een voorkeur waargenomen voor de positionering van de knoppen aan de voorkant van de interface in plaats van aan de bovenkant. Dit zorgt ervoor dat, wanneer de interface voor de gebruiker wordt geplaatst en de mat voor de handen zich ertussen bevindt, er minder ver gereikt hoeft te worden. Daarnaast dient een punten- en/of levenssysteem te worden toegevoegd. Een dergelijk systeem voegt een spelelement toe dat gebruikers motiveert en uitdaagt. Bovendien kan hierdoor de moeilijkheidsgraad van de spellen progressief worden verhoogd. Bij het memoryspel dient een duidelijk onderscheid te worden gemaakt tussen het “onthouden” en het “reproduceren”. Dit kan worden gerealiseerd door middel van geluid of kleur.
 <br>
 <br>
 > “Hoeveel punten heb ik”
 <br>
-Een belangrijke functie die we kunnen toevoegen bij de pod’s is een trilfunctie. Op deze manier kunnen de pod’s die aan het lichaam hangen sneller ontdekt worden wanneer ze licht geven. De klant had ook graag gehad dat de pod’s aan de muur konden hangen met behulp van zuignappen.
-De mat voor de voeten kunnen we optioneel maken. Ook moet er zeker een antislip laag aan de matten bevestigd worden.
-Uit de punten matrix blijkt dat de kinesisten het liefst met een app werken en vervolgens in een map steken voor de bewoners op. Om het voor de bewoners nog makkelijker te maken zullen we het systeem van de tekens vervangen door mapping. Op deze manier zien ze op schaal waar de pod’s zich moeten bevinden en kunnen ze het makkelijker in de echte wereld plaatsen.
+Een belangrijke functie die aan de pods kan worden toegevoegd, is een trilfunctie. Op deze manier kunnen de pods die aan het lichaam bevestigd zijn, sneller worden waargenomen wanneer zij licht geven. Daarnaast werd aangegeven dat de pods aan de muur bevestigd moeten kunnen worden met behulp van zuignappen.
+De mat voor de voeten kan optioneel worden aangeboden. Daarnaast dient er een antisliplaag op de matten te worden aangebracht.
+Uit de puntenmatrix blijkt dat kinesisten de voorkeur geven aan het gebruik van een app, waarna de gegevens in een map voor de bewoners worden opgeslagen. Om het systeem voor de bewoners verder te vereenvoudigen, zal het huidige systeem van tekens worden vervangen door mapping. Op deze manier wordt op schaal weergegeven waar de pods zich moeten bevinden, waardoor deze eenvoudiger in de praktijk kunnen worden geplaatst.
 
 <p align="center">
   <img src="images/W2 Photo4.png" width="60%">
@@ -173,36 +179,98 @@ Uit de punten matrix blijkt dat de kinesisten het liefst met een app werken en v
 
 >  [!IMPORTANT]
 > Design Requirements:
-> - Onderzijde mat antislip
-> - Drukknoppen i.p.v. draaiknop
-> - Interface makkelijk te gebruiken wanneer mat al klaarligt
-> - Trilfunctie in pod’s
-> - Dikke gekleurde rand op pod’s
-> - Score systeem
-> - progressief moeilijker
-> - Levenssysteem als feedback bij een fout
-> - Onderscheid onthouden en reproduceren
-> - Voetenmat optioneel
-> - Geluidseffecten als feedback toevoegen
-> - Mapping gebruiken in de app
+> - D1.2 De positiemat is optioneel beschikbaar en ontworpen voor middelmatige bewegingen te ondersteunen. 
+> - D1.3 De moeilijkheidsgraad van de spellen neemt progressief toe naarmate de gebruiker langer bezig is.
+> - D2.1 De pods moeten opgemerkt worden door de gebruiker zowel op de tafel als op de ledematen.
+> - D2.2 De pods zijn eenvoudig te positioneren.
+> - D2.3 De pods zijn eenvoudig in te drukken en reageren gevoelig op druk voor een intuïtieve gebruikerservaring.
+> - D3.1 De interface kan worden bediend binnen het bereik van de gebruiker (percentage).
+> - D3.3 De interface biedt auditieve feedback wanneer nodig.
+> - D3.4 De interface biedt opbergruimte voor alle bijbehorende componenten van het product.
+> - D3.5 De interface heeft een robuuste en praktische vorm, zodat deze eenvoudig kan worden opgeborgen en gestapeld.
+> - D4.1 De mobiele applicatie is overzichtelijk en efficiënt te gebruiken (binnen een tijd van..).
+> - D4.2 De mobiele applicatie is compatibel met smartphones en computers.
+> - D4.3 De mobiele applicatie beschikt over een printfunctie.
 
 
-## Bill of materials
-- Welk
-- Materiaal
-- Heb
-- Je
-- Nu
-- Nodig
-- Voor
-- Je
-- Prototype
+### Bill of materials
+- Force Sense Resistors (FSRs)
+- RGB Led's
+- Processor (Arduino)
+- Versterker (MP3-Module)
+- Voeding
+- ERM-motor
+- Antis-slip (rubber, PVC)
+- Scharnieren
+- Kabels (geleiders)
+  
 
-## Kritische reflectie
-Max. 500 woorden
+### Kritische reflectie
+Tijdens het eerste semester is gewerkt aan het project Selico, waarbij de focus lag op de discovery- en definition-fase. Dit proces heeft niet alleen geleid tot waardevolle resultaten, maar ook tot belangrijke inzichten in de werkwijze en aanpak.
 
+Een van de belangrijkste succesfactoren werd gevormd door een sterke planning, die in Trello werd opgesteld, en door effectieve communicatie. Vanaf de start zijn duidelijke afspraken gemaakt met betrekking tot deadlines, taakverdeling en werkwijzen. Door regelmatige check-ins werd ervoor gezorgd dat alle betrokkenen op de hoogte bleven van de voortgang en dat eventuele knelpunten tijdig konden worden aangepakt. Hierdoor kon het project zonder noemenswaardige vertragingen worden afgerond, wat als een groot voordeel wordt beschouwd.
+
+Tijdens de discovery-fase werd vastgesteld hoe waardevol audio-opnames en ‘rough data’ zijn en welke informatie verloren gaat indien deze niet in rekening worden gebracht. Deze bevindingen zijn meegenomen naar de definition-fase om een optimale analyse mogelijk te maken. Wat betreft de uitvoering van het onderzoek, werd vastgesteld dat de onderzoeksvragen in sommige gevallen te breed waren geformuleerd. Hoewel hierdoor een uitgebreid perspectief werd verkregen, bleek het soms een uitdaging om diepgaande analyses uit te voeren. Daarnaast werd pas in een later stadium duidelijk dat bepaalde aspecten verder hadden kunnen worden uitgediept. Desondanks is waardevolle informatie verzameld, die als een stevige basis diende voor de verdere ontwikkeling van ideeën. Deze ervaring heeft aangetoond dat in de toekomst specifieker geformuleerde onderzoeksvragen kunnen bijdragen aan gefocuste en gedetailleerde resultaten.
+
+Ook de samenwerking binnen het team werd als een sterk punt ervaren. De verschillende kwaliteiten en inzichten van de teamleden droegen bij aan een divers en creatief proces. Dit werd met name zichtbaar tijdens brainstormsessies en bij de evaluatie van onderzoeksresultaten, waarbij teamleden elkaar aanvulden en kritisch hielden. Deze samenwerking resulteerde niet alleen in kwalitatieve resultaten, maar ook in een constructieve en aangename werksfeer.
+
+Hoewel er ruimte is voor verbetering, wordt met voldoening teruggekeken op het eerste semester. Trots heerst over de behaalde resultaten en de opgedane inzichten met betrekking tot onderzoek en teamwork. De lessen die hieruit zijn getrokken, zoals het nauwkeuriger afbakenen van onderzoeksvragen en het blijven streven naar efficiëntie, zullen worden toegepast in toekomstige projecten.
+
+Over het geheel genomen wordt het verloop van het semester als positief ervaren en wordt tevredenheid uitgesproken over de behaalde resultaten binnen het project Selico. De volgende fase van het project zal worden aangegaan met de verworven inzichten en vaardigheden.
+
+## Develop 1 - Sensorische en Fysieke Evaluatie voor Ergonomische Optimalisatie. (N=5)
+
+Het eindpunt van deze ontwikkelingsfase is een geoptimaliseerd ontwerp van de pods, waarbij we op basis van sensorische en fysieke tests kunnen aantonen welke verbeteringen zijn aangebracht op het gebied van ergonomie en gebruiksgemak.
+
+### Doelstellingen. 
+- De optimale grootte van de pod bepalen op basis van ergonomische en antropometrische analyses.
+- De effectiviteit en waarneembaarheid van verschillende trillingspatronen evalueren.
+- Onderzoeken hoe eenvoudig de pods kunnen worden bevestigd en verwijderd.
+- De krachtregistratie tijdens het gebruik analyseren om optimale drukverdeling te verzekeren.
+
+### Materiaal en methoden 
+
+### Resultaten
+
+### Conclusies & implicaties 
+
+## Prototype
+
+## Tussentijds Overzicht Design Requirements
+|ID|Design Requirement|Source|Date|
+|:---|:---|:---|:---|
+|**Groep 1**|**Algemeen**|
+|1.1|De spellen maken onderscheid tussen het onthouden en reproduceren van acties.|Expert interview|16/10/2024|
+|1.2|De positiemat is optioneel beschikbaar en ontworpen voor middelmatige bewegingen te ondersteunen. |User test W2|10/12/2024|
+|1.3|De moeilijkheidsgraad van de spellen neemt progressief toe naarmate de gebruiker langer bezig is.|User test W2|10/12/2024|
+|**Groep 2**|**Pods**|
+|2.1|De pods moeten opgemerkt worden door de gebruiker zowel op de tafel als op de ledematen.|User test W2|10/12/2024|
+|2.2|De pods zijn eenvoudig te positioneren.|User test W1|02/12/2024|
+|2.3|De pods zijn eenvoudig in te drukken en reageren gevoelig op druk voor een intuïtieve gebruikerservaring.|User test W1|02/12/2024|
+|2.4|De pods moet worden ontwerpen voor de _mean_. |Develop 1|10/03/2025|
+|**Groep 3**|**Centrale interface en componenten**|
+|3.1|De interface kan worden bediend binnen het bereik van de gebruiker (percentage).|User test W2|10/12/2024|
+|3.2|De interface motiveert, stimuleert en daagt de gebruiker uit.|expert interview|12/10/2024|
+|3.3|De interface biedt auditieve feedback wanneer nodig.|User test W1|02/12/2024|
+|3.4|De interface biedt opbergruimte voor alle bijbehorende componenten van het product.|User test W1|02/12/2024|
+|3.5|De interface heeft een robuuste en praktische vorm, zodat deze eenvoudig kan worden opgeborgen en gestapeld.|User test W1|02/12/2024|
+|**Groep 4**|**Mobiele interface**|
+|4.1|De mobiele applicatie is overzichtelijk en efficiënt te gebruiken (binnen een tijd van..).|User test W2|10/12/2024|
+|4.2|De mobiele applicatie is compatibel met smartphones en computers.|User test W1|02/12/2024|
+|4.3|De mobiele applicatie beschikt over een printfunctie.|User test W1|02/12/2024|
 ## Bronnen
-Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
+[^1]: Van Cauwenberge, G. (2024, July 22). Uitdagingen en opportuniteiten in de ouderenzorg: de visie van Johan Staes (VLOZO). NextConomy. 
+https://www.nextconomy.be/2024/07/uitdagingen-en-opportuniteiten-in-de-ouderenzorg-de-visie-van-johan-staes-vlozo/ 
+![image](https://github.com/user-attachments/assets/10a75d03-0ad0-4445-872b-5197d7b23676)
+
+[^2]: Personeelstekort dwingt Vlaamse ziekenhuizen en woonzorgcentra om zorgaanbod af te bouwen - Zorgnet-Icuro. (n.d.-b). Zorgnet-Icuro.
+ https://www.zorgneticuro.be/nieuws/personeelstekort-dwingt-vlaamse-ziekenhuizen-en-woonzorgcentra-om-zorgaanbod-af-te-bouwen 
+![image](https://github.com/user-attachments/assets/dbe41b5f-4a3f-4836-806c-c5027ac03125)
+
+[^3]: Recordaantal woonzorgcentra op zwarte lijst door personeelstekort. (n.d.). 
+PVDA. https://www.pvda.be/nieuws/recordaantal-woonzorgcentra-op-zwarte-lijst-door-personeelstekort 
+![image](https://github.com/user-attachments/assets/baa2000e-2909-43cf-a9a6-97b5d82d9014)
+
 
 ## Bijlagen
 - **Discovery**
@@ -213,6 +281,7 @@ Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
       - [protocol benchmark-analyse](https://ugentbe-my.sharepoint.com/:w:/g/personal/bojan_ronsijn_ugent_be/ESdxSERj3LFKrdyYvtYcxLwBVabwBSCOS9_h8qzEBTmUwg?e=UaAx3w)
       - [protocol Design ethnography](https://ugentbe-my.sharepoint.com/:w:/g/personal/bojan_ronsijn_ugent_be/ESf16aIQR3NNqxQzOnJgagIBq8hPXHvNMrUJn1plxpLOcg?e=PJWCEV)
 
+
     - reports
       - [report Bruno](https://ugentbe-my.sharepoint.com/:w:/g/personal/bojan_ronsijn_ugent_be/Ee0RgxqAiUJHuObgjKCTFoIBWjQMaXDDnpY-mYWMVj5KSg?e=zcwUNe)
       - [report Koen](https://ugentbe-my.sharepoint.com/:w:/g/personal/bojan_ronsijn_ugent_be/Eb5akRwx1EFDgLtshaN8pfwBvc9m9OwPmZm85oWbvJYgQg?e=m1q4BL)
@@ -220,4 +289,16 @@ Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
       - [report benchmark-analyse](https://ugentbe-my.sharepoint.com/:w:/g/personal/bojan_ronsijn_ugent_be/ESvNCrzs3itHsM2775gqn1oBshy27IsrXXR007vszGeNiA?e=hcWYwF)
       - [report Design ethnography](https://ugentbe-my.sharepoint.com/:w:/g/personal/bojan_ronsijn_ugent_be/ETITIzkx51lOpXYVTpnf9pkBVG9VxxgLL5VEyRNWKu__jA?e=YWsT41)
 
+
 - **Definition**
+  - [Storyboard](https://ugentbe-my.sharepoint.com/:i:/r/personal/bojan_ronsijn_ugent_be/Documents/Aging%20young/deliverables/definition/storyboard.jpg?csf=1&web=1&e=QR8v5c)
+  - protocols
+    - [protocol W1 Kinesist](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/Aging%20young/deliverables/definition/PROTOCOL%20W1%20CONCEPT%20TEST%20MET%20KINESIST.docx?d=w22ca6882f6054446a3ce72453c1a6903&csf=1&web=1&e=Q4fHLV)
+    - [protocol W1 Bewoners](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/Aging%20young/deliverables/definition/PROTOCOL%20W1%20CONCEPT%20TEST%20MET%20SENIOREN.docx?d=wfce3aedb92834edca27b6f4732f117b0&csf=1&web=1&e=jlPKr4)
+    - [protocol W2](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/Aging%20young/deliverables/definition/PROTOCOL%20WAVE%202.docx?d=wd2699bcb19284b24acafc802f9193ebf&csf=1&web=1&e=WbXeUc)
+
+  - reports
+    - [report W1 Kinesist](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/Aging%20young/deliverables/definition/ANALYSE%20W1%20USABILITY%20RESEARCH%20KINESIST.docx?d=wc771e41056384f61896f43ce4a2d4b38&csf=1&web=1&e=gjBaFi)
+    - [report W1 Bewoners](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/Aging%20young/deliverables/definition/ANALYSE%20W1%20USABILITY%20RESEARCH%20BEWONERS.docx?d=wda13b06253c348859bd442da25a591c3&csf=1&web=1&e=FceTyS)
+    - [report W2](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/Aging%20young/deliverables/definition/ANALYSE%20WAVE%202.docx?d=wc018febc11a5433f87d1e66e60c89bfd&csf=1&web=1&e=3u3AXT)
+  
