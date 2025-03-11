@@ -229,13 +229,28 @@ Het eindpunt van deze ontwikkelingsfase is een geoptimaliseerd ontwerp van de po
 - De krachtregistratie tijdens het gebruik analyseren om optimale drukverdeling te verzekeren.
 
 ### Materiaal en methoden 
-- Prototype van de pods
+Deze test richtte zich voornamelijk op de sensorische en fysieke aspecten van de pods, oftewel "the sense" en "the body", met als doel de ergonomie te verbeteren. Dit werd onderzocht aan de hand van antropometrische berekeningen, gebruikmakend van de DINBelg-database[^4], en verschillende tests, waaronder: welke pod-grootte het meest geschikt is, hoe goed gebruikers de trillingen waarnemen, hoe eenvoudig de pods te bevestigen zijn en hoeveel druk erop wordt uitgeoefend tijdens het gebruik. De test werd uitgevoerd met vijf deelnemers: Christina, Francine, Armand, Robert en Walter, allen ouder dan 65 jaar en met uiteenlopende motorische beperkingen
+
+Pod 1 – Design for the Mean. 
+Pod 2 – Design for the Tall. 
+Pod 3 – Design for the Tall met aangepaste rand. 
+
+De test bestond uit verschillende onderdelen:
+- Evaluatie van gebruikservaring per pod (subjectieve waardering).
+- Test van trillingspatronen op waarneembaarheid en voorkeur.
+- Meting van krachtuitoefening op de pods.
+- Test van de gebruiksvriendelijkheid bij het opspannen en verwijderen van de band.
+
+
+
+
+ - Prototype van de pods
 - Prototype van de armband
 - Chrono
 - Weegschaal
 - SUS-lijst
 
-[^4]
+
 
 ### Resultaten
 
