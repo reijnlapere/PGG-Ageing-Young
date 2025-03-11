@@ -238,7 +238,7 @@ Het eindpunt van deze ontwikkelingsfase is een geoptimaliseerd ontwerp van de po
 
 ## Prototype
 
-```py
+```c++
 #include <ArduinoBLE.h>
 
 long previousMillis = 0;
