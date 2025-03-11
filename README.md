@@ -229,6 +229,11 @@ Het eindpunt van deze ontwikkelingsfase is een geoptimaliseerd ontwerp van de po
 - De krachtregistratie tijdens het gebruik analyseren om optimale drukverdeling te verzekeren.
 
 ### Materiaal en methoden 
+- Prototype van de pods
+- Prototype van de armband
+- Chrono
+- Weegschaal
+- SUS-lijst
 
 [^4]
 
@@ -401,8 +406,22 @@ void loop() {
 }
 ```
 
-
-
+<p align="center">
+  <img src="images/tril-1.png" width="45%">
+  <img src="images/tril-2.png" width="45%">
+</p>
+<p align="center">
+  <img src="images/tril-3.png" width="45%">
+  <img src="images/tril-4.png" width="45%">
+</p>
+<p align="center">
+  <img src="images/tril-5.png" width="45%">
+  <img src="images/tril-6.png" width="45%">
+</p>
+<p align="center">
+  <img src="images/tril-7.png" width="45%">
+  <img src="images/tril-8.png" width="45%">
+</p>
 
 ## Tussentijds Overzicht Design Requirements
 |ID|Design Requirement|Source|Date|
