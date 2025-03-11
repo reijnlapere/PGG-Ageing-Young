@@ -280,7 +280,7 @@ Verschillende trillingspatronen werden getest en beoordeeld op waarneembaarheid 
 Uit de test blijkt dat sterkere trillingsmotoren nodig zijn om de waarneembaarheid te garanderen. 
 
 #### Drukuitoefening op de Pods  
-De op de pods uitgeoefende kracht varieerde van 292 g tot 3194 g, zoals weergegeven in onderstaande grafiek. Deze variatie was afhankelijk van de gebruiker; sommige deelnemers gaven lichte tikjes, terwijl anderen krachtiger drukten. De grote spreiding in deze krachten onderstreept de noodzaak van een evenwichtige drukverdeling. Het berekenen van de veerconstante bleek overbodig, aangezien de gemeten waarden sterk uiteenliepen. Essentieel is dat de gebruikte veren ervoor zorgen dat bij de laagst waargenomen drukwaarde het signaal correct wordt doorgevoerd. Daarnaast moet de afscherming zo worden ontworpen dat zelfs bij de hoogst waargenomen drukwaarde de pod niet kan worden ingekeken en de elektronica beschermd blijft.
+De op de pods uitgeoefende kracht varieerde van 292 g tot 3194 g, zoals weergegeven in onderstaande grafiek. Deze variatie was afhankelijk van de capaciteit en intenties van de gebruiker; sommige deelnemers gaven lichte tikjes, terwijl anderen krachtiger drukten. De grote spreiding in deze krachten onderstreept de noodzaak van een evenwichtige drukverdeling. Het berekenen van de veerconstante bleek overbodig, aangezien de gemeten waarden sterk uiteenliepen. Essentieel is dat de gebruikte veren ervoor zorgen dat bij de laagst waargenomen drukwaarde het signaal correct wordt doorgevoerd. Daarnaast moet de afscherming zo worden ontworpen dat zelfs bij de hoogst waargenomen drukwaarde de pod niet kan worden ingekeken en de elektronica beschermd blijft.
 
 _grafiek_
 
