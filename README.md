@@ -307,6 +307,9 @@ Ook werd er besloten de scope van het product te verschuiven van een volledig ze
 
 ## Prototype
 
+<p align="center">
+  <img src="images/pod design for the....jpg" width="100%">
+  
 ```c++
 #include <ArduinoBLE.h>
 
