@@ -282,7 +282,8 @@ Uit de test blijkt dat sterkere trillingsmotoren nodig zijn om de waarneembaarhe
 #### Drukuitoefening op de Pods  
 De op de pods uitgeoefende kracht varieerde van 292 g tot 3194 g, zoals weergegeven in onderstaande grafiek. Deze variatie was afhankelijk van de capaciteit en intenties van de gebruiker; sommige deelnemers gaven lichte tikjes, terwijl anderen krachtiger drukten. De grote spreiding in deze krachten onderstreept de noodzaak van een evenwichtige drukverdeling. Het berekenen van de veerconstante bleek overbodig, aangezien de gemeten waarden sterk uiteenliepen. Essentieel is dat de gebruikte veren ervoor zorgen dat bij de laagst waargenomen drukwaarde het signaal correct wordt doorgevoerd. Daarnaast moet de afscherming zo worden ontworpen dat zelfs bij de hoogst waargenomen drukwaarde de pod niet kan worden ingekeken en de elektronica beschermd blijft.
 
-_grafiek_
+<p align="center">
+  <img src="images/boxplot_trilwaarden.jpeg"30%">
 
 #### Gebruikservaring: Opspannen en Afdoen van de Band  
 
@@ -313,12 +314,19 @@ Ook werd er besloten de scope van het product te verschuiven van een volledig ze
 In _Develop 1_ lag de focus op ergonomie, zowel op sensorieel als lichamelijk vlak. Daarnaast werd deels al aan detaildesign gewerkt en werden verschillende concepten en systemen verder uitgewerkt. Hierdoor was een hogere kwaliteit vereist dan bij snelle, experimentele prototypes. Bovendien moesten de systemen in staat zijn om elektronische componenten te bevatten of op te bergen. Om deze reden werd gekozen voor 3D-printen, een snelle productietechniek die het mogelijk maakt om efficiënt verschillende vormen te produceren en indien nodig achteraf handmatige aanpassingen door te voeren. Aangezien ook de look and feel van het product een belangrijke rol speelde, werd bewust gekozen voor verfijndere materialen. De eerste indruk is immers van groot belang, en het doel was om deze binnen de beschikbare tijd zo goed mogelijk te optimaliseren. De test werd, zoals eerder beschreven in _Materiaal en Methoden_, opgedeeld in verschillende onderdelen. In de volgende sectie worden de verschillende ontwerpen en de bijbehorende ontwerpkeuzes verder toegelicht.
 
 #### De pods en hun omvang. 
-<p align="center">
-  <img src="images/pod design for the....jpg" width="100%">
-  
-#### Het opspansysteem. 
+Bij het ontwerpen van de pods en hun varianten is rekening gehouden met de antropometrische maten uit de DINBelg-database[^4]. Specifiek werd de handbreedte als parameter genomen voor het ontwerp van het contactoppervlak van de pod. Om een inclusieve benadering te garanderen, werd aanvankelijk gekozen voor een ontwerp gebaseerd op het 95e percentiel (P95), zodat 95% van de gebruikers de pod effectief kon gebruiken. Aangezien de maatbepaling specifiek gekoppeld is aan het contactoppervlak en niet aan de volledige omvang van de pod, werd tevens besloten om variatie in de afmetingen door te voeren. Een ontwerp dat exclusief gericht is op P95 kan namelijk resulteren in een te grote knop, wat onpraktisch is bij het opspannen van de pod. Daarom zijn drie verschillende maten ontwikkeld, zoals weergegeven in onderstaande figuur.
 
-#### De arduino en bijhorende code. 
+<p align="center">
+  <img src="images/pod design for the....jpg" width="50%">
+
+Twee van deze pods beschikken over een drukvlak met een diameter van 91 mm, wat overeenkomt met P95 van de handbreedte. Ondanks deze gelijke drukvlakmaat verschillen deze twee varianten in hun totale omvang. De derde pod is ontworpen volgens de Design for the Mean-methode en heeft een drukvlakdiameter van 82 mm, wat overeenkomt met het 50e percentiel (P50) in de antropometrische tabellen.
+
+De constructie van de pod is schematisch weergegeven in onderstaande figuur.
+
+<p align="center">
+  <img src="images/explodedview_constructie_pod.jpeg"50%">
+
+Hierin wordt de gelaagde opbouw geïllustreerd, inclusief de integratie van een deel van het opspansysteem aan de onderzijde van de pod. De pod maakt gebruik van drie veren, die indrukking van het drukvlak mogelijk maken. Daarnaast is een specifiek ontwerp voorzien voor de positionering van het drukoppervlak, evenals een trilmotor die aan de binnenzijde van de pod is vastgeklemd. Hierdoor kunnen trillingen efficiënt door het materiaal worden overgedragen. De trilmotor is verbonden met een Arduino Nano 33 IoT, die extern aan de pod werd bevestigd tijdens de tests vanwege plaatsgebrek in de pod zelf. De Arduino is geprogrammeerd om via Bluetooth verbinding te maken, waardoor een signaal vanuit de "LightBlue"-applicatie op een smartphone kan worden doorgestuurd. Dit signaal activeert een vooraf geprogrammeerde trilling in de trilmotor. De bijbehorende code wordt hieronder weergegeven. 
   
 ```c++
 #include <ArduinoBLE.h>
@@ -499,6 +507,8 @@ void loop() {
   <img src="images/tril-7.png" width="45%">
   <img src="images/tril-8.png" width="45%">
 </p>
+
+#### Het opspansysteem. 
 
 ## Tussentijds Overzicht Design Requirements
 |ID|Design Requirement|Source|Date|
