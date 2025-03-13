@@ -519,6 +519,9 @@ Bij het ontwerpen van het opspansysteem stond gebruiksgemak centraal. Daarom wer
   <img src="images/POD_AANSPAN2.jpeg"width=32%">
   <img src="images/POD_AANSPAN1.jpeg"width=32%">
   <img src="images/POD-AANSPAN3.jpeg"width=32%">
+<p align="center">
+  <img src="images/Tekening verbinding.png"width=45%">
+
 
 
 ## Tussentijds Overzicht Design Requirements
