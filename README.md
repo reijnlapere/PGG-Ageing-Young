@@ -516,9 +516,9 @@ Het opspansysteem was een cruciaal element dat nader onderzocht werd, aangezien 
 Bij het ontwerpen van het opspansysteem stond gebruiksgemak centraal. Daarom werd een mechanisme ontwikkeld waarbij de pod eenvoudig op de band kan worden bevestigd door middel van een simpele contact- en draaibeweging, zoals weergegeven in onderstaande figuur. Daarnaast is aan zowel de onderzijde van de pod als aan het opspansysteem een magneet toegevoegd. Deze creëert een subtiele "snap" bij contact, wat niet alleen de bevestiging vergemakkelijkt maar ook bijdraagt aan een verbeterde gebruikerservaring en tastbare feedback.Verder is de band van het prototype ontworpen met een klittenbandsluiting (velcro), waardoor het eenvoudig en intuïtief kan worden bevestigd volgens een algemeen bekende methode.
 
 <p align="center">
-  <img src="images/POD_AANSPAN2.jpeg"width=33%">
-  <img src="images/POD_AANSPAN1.jpeg"width=33%">
-  <img src="images/POD-AANSPAN3.jpeg"width=33%">
+  <img src="images/POD_AANSPAN2.jpeg"width=32%">
+  <img src="images/POD_AANSPAN1.jpeg"width=32%">
+  <img src="images/POD-AANSPAN3.jpeg"width=32%">
 
 
 ## Tussentijds Overzicht Design Requirements
@@ -594,5 +594,5 @@ PVDA. https://www.pvda.be/nieuws/recordaantal-woonzorgcentra-op-zwarte-lijst-doo
     - [report W2](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/Aging%20young/deliverables/definition/ANALYSE%20WAVE%202.docx?d=wc018febc11a5433f87d1e66e60c89bfd&csf=1&web=1&e=3u3AXT)
 
 - **Develop 1**
-  - [protocol]()
-  - [report]()
+  - [protocol D1](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/PROTOCOL%20D1%20(1).docx?d=wd670608060e64fdbaccb529f3c922b15&csf=1&web=1&e=BTqGAU)
+  - [report D1](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/ANALYSE%20D1.docx?d=w3240dc8576814b338d3c99e8e6cf9007&csf=1&web=1&e=Gf9v5o)
