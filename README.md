@@ -283,7 +283,7 @@ Uit de test blijkt dat sterkere trillingsmotoren nodig zijn om de waarneembaarhe
 De op de pods uitgeoefende kracht varieerde van 292 g tot 3194 g, zoals weergegeven in onderstaande grafiek. Deze variatie was afhankelijk van de capaciteit en intenties van de gebruiker; sommige deelnemers gaven lichte tikjes, terwijl anderen krachtiger drukten. De grote spreiding in deze krachten onderstreept de noodzaak van een evenwichtige drukverdeling. Het berekenen van de veerconstante bleek overbodig, aangezien de gemeten waarden sterk uiteenliepen. Essentieel is dat de gebruikte veren ervoor zorgen dat bij de laagst waargenomen drukwaarde het signaal correct wordt doorgevoerd. Daarnaast moet de afscherming zo worden ontworpen dat zelfs bij de hoogst waargenomen drukwaarde de pod niet kan worden ingekeken en de elektronica beschermd blijft.
 
 <p align="center">
-  <img src="images/boxplot_trilwaarden.jpeg"30%">
+  <img src="images/boxplot_trilwaarden.jpeg" width="20%">
 
 #### Gebruikservaring: Opspannen en Afdoen van de Band  
 
@@ -317,14 +317,14 @@ In _Develop 1_ lag de focus op ergonomie, zowel op sensorieel als lichamelijk vl
 Bij het ontwerpen van de pods en hun varianten is rekening gehouden met de antropometrische maten uit de DINBelg-database[^4]. Specifiek werd de handbreedte als parameter genomen voor het ontwerp van het contactoppervlak van de pod. Om een inclusieve benadering te garanderen, werd aanvankelijk gekozen voor een ontwerp gebaseerd op het 95e percentiel (P95), zodat 95% van de gebruikers de pod effectief kon gebruiken. Aangezien de maatbepaling specifiek gekoppeld is aan het contactoppervlak en niet aan de volledige omvang van de pod, werd tevens besloten om variatie in de afmetingen door te voeren. Een ontwerp dat exclusief gericht is op P95 kan namelijk resulteren in een te grote knop, wat onpraktisch is bij het opspannen van de pod. Daarom zijn drie verschillende maten ontwikkeld, zoals weergegeven in onderstaande figuur.
 
 <p align="center">
-  <img src="images/pod design for the....jpg" width="50%">
+  <img src="images/pod design for the....jpg" width="70%">
 
 Twee van deze pods beschikken over een drukvlak met een diameter van 91 mm, wat overeenkomt met P95 van de handbreedte. Ondanks deze gelijke drukvlakmaat verschillen deze twee varianten in hun totale omvang. De derde pod is ontworpen volgens de Design for the Mean-methode en heeft een drukvlakdiameter van 82 mm, wat overeenkomt met het 50e percentiel (P50) in de antropometrische tabellen.
 
 De constructie van de pod is schematisch weergegeven in onderstaande figuur.
 
 <p align="center">
-  <img src="images/explodedview_constructie_pod.jpeg"50%">
+  <img src="images/explodedview_constructie_pod.jpeg" width="70%">
 
 Hierin wordt de gelaagde opbouw geïllustreerd, inclusief de integratie van een deel van het opspansysteem aan de onderzijde van de pod. De pod maakt gebruik van drie veren, die indrukking van het drukvlak mogelijk maken. Daarnaast is een specifiek ontwerp voorzien voor de positionering van het drukoppervlak, evenals een trilmotor die aan de binnenzijde van de pod is vastgeklemd. Hierdoor kunnen trillingen efficiënt door het materiaal worden overgedragen. De trilmotor is verbonden met een Arduino Nano 33 IoT, die extern aan de pod werd bevestigd tijdens de tests vanwege plaatsgebrek in de pod zelf. De Arduino is geprogrammeerd om via Bluetooth verbinding te maken, waardoor een signaal vanuit de "LightBlue"-applicatie op een smartphone kan worden doorgestuurd. Dit signaal activeert een vooraf geprogrammeerde trilling in de trilmotor. De bijbehorende code wordt hieronder weergegeven. 
   
@@ -491,24 +491,35 @@ void loop() {
 }
 ```
 
+De verschillende trillingen die naar de pod worden gestuurd, worden grafisch weergegeven in onderstaande figuren. Op de y-as worden de Pulse Width Modulation (PWM)-waarden uitgezet, die evenredig zijn met de trillingsintensiteit van de motor. De x-as vertegenwoordigt de tijd in milliseconden (ms). Door deze grafische voorstelling wordt het eenvoudiger om visueel te interpreteren hoe de trillingen zich voordeden, werden opgewekt en varieerden tijdens de tests.
+
 <p align="center">
-  <img src="images/tril-1.png" width="45%">
-  <img src="images/tril-2.png" width="45%">
+  <img src="images/tril-1.png" width="35%">
+  <img src="images/tril-2.png" width="35%">
+  </p>
+<p align="center">
+  <img src="images/tril-3.png" width="35%">
+  <img src="images/tril-4.png" width="35%">
 </p>
 <p align="center">
-  <img src="images/tril-3.png" width="45%">
-  <img src="images/tril-4.png" width="45%">
+  <img src="images/tril-5.png" width="35%">
+  <img src="images/tril-6.png" width="35%">
 </p>
 <p align="center">
-  <img src="images/tril-5.png" width="45%">
-  <img src="images/tril-6.png" width="45%">
-</p>
-<p align="center">
-  <img src="images/tril-7.png" width="45%">
-  <img src="images/tril-8.png" width="45%">
+  <img src="images/tril-7.png" width="35%">
+  <img src="images/tril-8.png" width="35%">
 </p>
 
-#### Het opspansysteem. 
+#### Het opspansysteem.
+Het opspansysteem was een cruciaal element dat nader onderzocht werd, aangezien het ervoor zorgt dat de pods stevig bevestigd kunnen worden op de ledematen van de gebruiker. Dit verhoogt de bewegingsvrijheid binnen de toepassing en vergroot de flexibiliteit voor de kinesist.
+
+Bij het ontwerpen van het opspansysteem stond gebruiksgemak centraal. Daarom werd een mechanisme ontwikkeld waarbij de pod eenvoudig op de band kan worden bevestigd door middel van een simpele contact- en draaibeweging, zoals weergegeven in onderstaande figuur. Daarnaast is aan zowel de onderzijde van de pod als aan het opspansysteem een magneet toegevoegd. Deze creëert een subtiele "snap" bij contact, wat niet alleen de bevestiging vergemakkelijkt maar ook bijdraagt aan een verbeterde gebruikerservaring en tastbare feedback.Verder is de band van het prototype ontworpen met een klittenbandsluiting (velcro), waardoor het eenvoudig en intuïtief kan worden bevestigd volgens een algemeen bekende methode.
+
+<p align="center">
+  <img src="images/POD_AANSPAN2.jpeg"width=33%">
+  <img src="images/POD_AANSPAN1.jpeg"width=33%">
+  <img src="images/POD-AANSPAN3.jpeg"width=33%">
+
 
 ## Tussentijds Overzicht Design Requirements
 |ID|Design Requirement|Source|Date|
