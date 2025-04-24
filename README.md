@@ -556,7 +556,90 @@ Tussen de tests van de verschillende prototypes door bespraken we telkens een aa
 In een laatste fase van de test werden visuele en vormgevingsaspecten op een meer objectieve manier geëvalueerd. De deelnemers kregen vijf verschillende moodboards voorgeschoteld, die ze één voor één bekeken en vervolgens met elkaar vergeleken. Het doel hiervan was om inzicht te krijgen in de esthetische voorkeuren van de doelgroep en de gewenste stijlkenmerken. Daarna volgde de evaluatie van iconografische elementen. We legden verschillende varianten van pictogrammen voor: aan/uit-knoppen, navigatiesymbolen en spelselectie-icoontjes. De bedoeling hiervan was niet alleen om te achterhalen welke ontwerpen het mooist werden gevonden, maar vooral om te bepalen welke het meest intuïtief werden begrepen. Dit is cruciaal om verwarring bij het gebruik van de centrale interface te vermijden.
 De benodigde prototypes en ontwerpkeuzes worden verder toegelicht onder het puntje *Prototypes*. 
 
+### Prototypes
+Voor het testen van de verschillende userflows en mechanische prototypes werd na overleg beslist om elk prototype onder te brengen in een fysiek volume dat de uiteindelijke interface benadert. Oorspronkelijk was het plan om te werken met een plat sensorial board, maar omwille van drie belangrijke redenen werd hiervan afgeweken: 
+1) Gebruikers kunnen zich via een driedimensionaal volume beter voorstellen hoe het eindresultaat eruit zal zien.
+2) De verticale oriëntatie van de interfaces en het volume benadert realistischer de manier waarop de interfaces effectief gebruikt zullen worden
+3) Het sensorial board bleek te beperkt qua variatie, aangezien het enkel rekening hield met druk- en schuifelementen.
+De prototypes werden zodanig ontworpen dat de verschillende interactievlakken (planes) verwisselbaar waren, zodat meerdere varianten binnen hetzelfde centrale volume konden worden getest.
+
+#### Vier drukknoppen
+Het prototype met vier drukknoppen bestond uit vier verschillende fysieke knoppen, bedoeld om te testen welke vorm en tactiele respons de voorkeur genoot. Onder elke knop werd een aanduiding geplaatst die visueel aangeeft welk spel ermee geactiveerd wordt. Boven de spelkeuzeknoppen werd een apart testgebied voorzien waarin verschillende varianten van aan/uit-knoppen uitwisselbaar konden worden geïntegreerd. Zo konden meerdere on/off-ontwerpen binnen hetzelfde prototype getest worden.
+
+#### Dial-interface
+De dial-interface bestond uit een ronde draaiknop met drukfunctie, verbonden met een potentiometer. Deze potentiometer detecteerde zowel rotatie als druk, wat een breed scala aan interacties mogelijk maakte. De buitenrand van de dial had een gekartelde structuur, als visuele en tactiele indicatie dat de knop gedraaid kon worden. Ook dit prototype beschikte over een vervangbare zone voor het testen van verschillende aan/uit-varianten.
+
+#### Mechanische slider
+Dit prototype maakte gebruik van een eenvoudige, lineaire schuifbeweging. Naast de slider waren aanduidingen voorzien die spel en niveau vermeldden. Aan de achterzijde van het interfacevlak werd een mechanisch onderdeel geïntegreerd dat feedback genereerde: bij het overschakelen tussen standen kon een voelbare klik of ‘snap’ worden waargenomen. Dit zorgde voor duidelijke afbakening van de verschillende selectiemomenten.
+
+#### Verzonken draaiknop
+De verzonken draaiknop bestond uit een wiel dat deels in het oppervlak was ingebouwd. Enkel de bovenrand stak boven het vlak uit, wat het draaien mogelijk maakte. Het wiel had een gekartelde structuur met afvlakking om de 72 graden. Op deze afvlakkingen stonden aanduidingen voor spel, niveau en één voor de ‘off’-stand. Door het wiel te draaien konden gebruikers gericht een specifieke combinatie van spel en niveau selecteren.
+
+#### Gamecard-interface
+De gamecard-interface maakte gebruik van een fysieke sleuf waarin smalle kaartjes konden worden geplaatst. Elke kaart vertegenwoordigde een specifiek spel; de oriëntatie van de kaart bepaalde het niveau. Op beide zijden van de kaart stonden aanduidingen, waarbij telkens de chip op de tegenovergestelde zijde werd geplaatst. Aan de achterzijde van de sleuf bevond zich een mechanisme met een ingebouwde druksluiting, wat zorgde voor feedback tijdens het insteken of teruggeven van de kaart. Deze mechaniek droeg bij aan de fysieke gebruikservaring.
+
+#### Capacitive touch-interface
+De capacitive touch-interface werd op eenvoudige wijze gesimuleerd met behulp van stickers waarop verschillende symbolen werden gedrukt. Deze benadering liet toe om snel een mock-up van een aanraakinterface te creëren en gebruikservaringen omtrent visuele interpretatie en intuïtiviteit te verzamelen. Hoewel het prototype zelf niet functioneel was, bood het voldoende basis om relevante conclusies te trekken over touch-gebaseerde interactie.
+
+#### Slider met geleiding
+Dit prototype maakte gebruik van een organisch gebogen schuifrail, waarin een beweegbaar element zich van een centrale "uit"-positie naar links of rechts kon verplaatsen. De richting stond voor de spelkeuze, terwijl de afstand tot het uiteinde de moeilijkheidsgraad bepaalde. Elke helft van de rail had twee duidelijke stops: één voor niveau 1, en verderop een tweede voor niveau 2. Bovenaan in het midden van het prototype bevond zich de aan/uit-positie: zodra de slider hiervan werd verplaatst, werd het systeem geactiveerd.
+
+#### Aan/uit-modules
+Voor het testen van aan/uit-functionaliteiten werden vijf bestaande knoppen en schuifelementen verzameld en verwerkt in verwisselbare modules. Deze modules konden eenvoudig geplaatst worden in de verschillende *planes* van het centrale prototypevolume, wat snelle A/B-tests mogelijk maakte. 
+
+Vijf modules werden uitgewerkt:
+- Drie modules bleven behouden in hun originele vorm zoals ze beschikbaar waren.
+- Twee modules werden aangepast:
+  - Bij de _slider_ werd de vormgeving herwerkt en voorzien van een nieuw omhulsel om een betere visuele integratie te bekomen.
+  - Bij de _schakelaar (switch)_ werd een opsteekbaar element toegevoegd. Dit vergrootte het contactvlak, zodat de doelgroep deze eenvoudiger kon bedienen.
+
+#### Moodboards
+Voor de visuele en esthetische evaluatie werden vijf unieke moodboards samengesteld, elk met een eigen stijl en sfeer. Daarnaast werd ook één intern benchmark-moodboard opgesteld, gebaseerd op retro-audioapparatuur zoals radio’s en versterkers.
+
+De vijf moodboards zijn als volgt opgebouwd:
+- **Moodboard 1**: Organisch en futuristisch
+- **Moodboard 2**: Retro, poppy accenten, duidelijke segmentatie
+- **Moodboard 3**: Rustige tonen, metallic look, heldere en eenvoudige vormen
+- **Moodboard 4**: Kleurvol, retro en minimalistisch ontwerp
+- **Moodboard 5**: Retro, kleurrijk, opvallend en niet minimalistisch
+
+#### Iconografie
+De iconografie werd gepresenteerd op een visueel bord, waarop een opsplitsing werd gemaakt tussen de verschillende categorieën:
+- Aan/uit-symbolen  
+- Numerieke navigeersymbolen  
+- Alternatieve navigeersymbolen
+
+
 ### Resultaten
+De testresultaten geven een duidelijk beeld van hoe de verschillende interfaceprototypes werden ervaren. In dit onderdeel worden de voorkeuren van de gebruikers toegelicht aan de hand van hun topkeuzes, gecombineerd met inzichten uit meetdata en observaties.
+
+---
+
+#### Vier drukknoppen
+Deze interface werd door alle gebruikers opgenomen in hun persoonlijke top twee, en was samen met de dial een duidelijke favoriet. De vier drukknoppen combineerden efficiëntie met esthetische aantrekkingskracht. Testpersonen waardeerden vooral de directheid van de feedback, de duidelijke lay-out en de eenvoudige bediening. De tweede knop, iets verhoogd in het prototype, kreeg de voorkeur. Met een gemiddelde eerste interactietijd van slechts 6 seconden en een lage foutmarge scoorde dit prototype het best in de testdata. De herkenbaarheid en fysieke feedback zorgden voor een intuïtieve ervaring.
+
+#### Dial-interface
+De dial-interface was de andere vaste waarde in elke top twee. Hoewel het niet het snelste prototype was (gemiddelde tijd 38,75 seconden), was de ervaring bijzonder positief. Alle gebruikers wilden het prototype proberen, en apprecieerden de auditieve en tactiele feedback (klikjes, verbale audio en lichte weerstand bij draaien). Het prototype werd leunde volgens de gebruiker het dichtste aan bij een herkenbare _benchmark_ en werd omschreven als leuk, mooi en uitnodigend. Bovendien leverde het waardevolle co-creatie-inzichten op: gebruikers gaven aan dat visuele feedback cruciaal was, bijvoorbeeld via markeringen op de schijf die duidelijk tonen waar elk spel en elk spel-niveau zich bevindt. Ook werd extra weerstand gesuggereerd voor betere controle tijdens het draaien. Deze verbeteringen zouden het prototype efficiënter maken, zonder in te boeten op gebruiksplezier. De dial illustreert dat ervaring soms belangrijker is dan snelheid, zeker bij deze doelgroep.
+
+#### Mechanische slider
+Deze lineaire interface scoorde gemiddeld goed in de metingen (10,5 seconden), en werd als relatief efficiënt ervaren. Toch gaven testpersonen aan dat de schuifbeweging minder aangenaam was dan draaien of drukken. De vier ingebouwde stops, bedoeld om feedback te geven over de stand van de slider, waren te subtiel. Sommige gebruikers voelden de 'schokjes' niet, wat leidde tot onbedoelde overgangen. Hoewel de beweging goed begrepen werd, ontbrak een duidelijke selecteerfunctie, wat de bruikbaarheid voor spelkeuze beperkte.
+
+#### Verzonken draaiknop
+De verzonken draaiknop viel op door zijn aangename draaibeweging, maar kreeg gemengde feedback. Het smalle ontwerp werd als moeilijk hanteerbaar ervaren en de structuur van feedback was onvoldoende duidelijk. Hierdoor ontstond twijfel bij het selecteren van een spel. De testdata bevestigen dit: gemiddeld duurde het 37 seconden om een actie te voltooien. De draaiknop werd vaker benoemd als geschikt voor navigatie dan voor effectieve selectie.
+
+#### Gamecard
+De fysieke gamecard was een visueel aantrekkelijk en origineel concept. Gebruikers en leidinggevenden vonden het idee leuk, maar hadden praktische bezwaren. Het kaartje insteken vergde te veel kracht, en er was bezorgdheid over het kwijtraken van de kaartjes zeker wanneer ze meegenomen werden naar een andere kamer. Ondanks een gemiddelde tijd van 16,125 seconden bleef de feedback eerder gematigd. De interface vraagt verdere verfijning op vlak van ergonomie en duurzaamheid.
+>"Uit ervaring weten we dat zulke prulletjes als gamecards vaak verloren gaan. Iedereen pakt dat dan op, en voor je het weet zijn al je kaartjes weg."  
+> — Begeleider
+
+#### Capacitieve touch
+De touch-interface was het prototype dat het minst positief werd ontvangen. Ondanks een redelijke gemiddelde tijd (7,875 seconden), gaven gebruikers aan dat er te weinig feedback was — noch tactiel, noch visueel. Het ontbreken van fysieke interactie maakte het systeem minder aantrekkelijk en zorgde voor onzekerheid bij de bediening. Dit bevestigt dat puur digitale technologie zonder tastbare elementen minder geschikt is voor deze doelgroep.
+
+#### Slider met geleiding
+Deze interface werd als laatste getest, en kreeg de minste positieve feedback. Hoewel het visueel werd gewaardeerd, bleek de ervaring traag, omslachtig en fysiek vermoeiend. De slider vergde veel precisie en kracht. Dit zijn geen eigenschappen die geschikt zijn voor een doelgroep met verminderde motorische vaardigheden. De gemiddelde tijd bedroeg maar liefst 47,25 seconden (de hoogste van alle prototypes) en het aantal tussenkomsten (9) was significant. Bij directe vergelijking met de drukknoppen werd deze optie telkens geweigerd als favoriete keuze.
+
+#### Aan/Uit-knoppen
+Ook de eenvoudige, maar essentiële functie van het aan- en uitzetten van het systeem werd getest. De gebruikers toonden een duidelijke voorkeur voor een fysieke drukknop in plaats van een schakelaar. De populairste keuze was een **rode drukknop met blijvende feedback**: deze bleef ingedrukt en werd verlicht met een LED wanneer het systeem actief was. De combinatie van tactiele en visuele feedback zorgde voor duidelijke communicatie over de status van het systeem en werd als betrouwbaar en begrijpelijk ervaren.
 
 
 | Interface               | Meting               | Gebruiker 1 | Gebruiker 2 | Gebruiker 3 | Gebruiker 4 | Gemiddelde Tijd | Som Tussenkomsten |
@@ -581,6 +664,26 @@ De benodigde prototypes en ontwerpkeuzes worden verder toegelicht onder het punt
 | **Touch**               | Tijd 1 (seconden)     | 7           | 6           | 13          | 8           | 7,875            |                    |
 |                         | Tijd 2 (seconden)     | 5           | 4           | 9           | 11          |                  |                    |
 |                         | Tussenkomsten         | 1           | 0           | 2           | 1           |                  | 4                  |
+
+
+#### Resultaten visuele en esthetische tests
+1) **Moodboards**
+Om de visuele voorkeuren van de testpersonen te begrijpen, werden verschillende moodboards voorgelegd. _Moodboard 4_ werd unaniem als het meest aantrekkelijk ervaren. Eigenschappen zoals kleurgebruik, retro-elementen en minimalistische vormgeving spraken de doelgroep het meest aan.
+
+Ook het interne moodboard, met beelden van retro radio’s en versterkers, werd voorgelegd en positief onthaald. Eén van de gebruikers merkte zelfs op dat de interface met de dial *"eruitzag als een radio"*. Deze associatie bevestigde dat het ontwerp aansloot bij de beoogde visuele en functionele referentiekaders. Reeds in een vroege fase van Develop 2 werd actief onderzocht welke vertrouwde objecten als benchmark konden dienen voor de doelgroep. Retro-audioapparatuur kwam hierbij naar voren als een herkenbare, uitnodigende en tegelijk prikkelende referentie, een balans die als uitgangspunt diende voor het verdere ontwerpproces.
+
+2) **Iconografie en symbolen**
+Tijdens de testmomenten kregen gebruikers ook verschillende pictogrammen en symbolen te zien, met de bedoeling te peilen welke visuele elementen het meest intuïtief en aantrekkelijk waren.
+
+De gepresenteerde iconen vielen uiteen in drie categorieën:
+- **Aan/uit-symbolen**
+- **Numerieke navigeersymbolen**
+- **Alternatieve navigeersymbolen**
+
+Uit de feedback bleek dat de _klassieke_, eenvoudige iconografie het beste scoorde. De vertrouwde vormen zorgen voor onmiddellijke herkenbaarheid, wat essentieel is voor een interface die snel begrepen en bediend moet kunnen worden. Deze voorkeur bevestigt het belang van visuele duidelijkheid en het vermijden van overcomplexiteit in het ontwerp.
+
+#### Samenvattend:
+De testresultaten tonen een duidelijke voorkeur voor fysieke interfaces met directe feedback. Drukknoppen en draaiknoppen scoren het hoogst op zowel gebruikservaring als betrouwbaarheid. Gebruikers waardeerden de intuïtieve bediening, de herkenbaarheid van de elementen en de tastbare feedback die deze prototypes boden. Touch- en schuifinterfaces bleken minder geschikt, vooral vanwege het gebrek aan controle, duidelijkheid en fysieke houvast. Prototypes die kracht, precisie of abstracte interactie vereisten, werden als vermoeiend of verwarrend ervaren. Visuele en esthetische elementen spelen een grote rol: eenvoudige iconografie, retro-styling en herkenbare vormen bleken succesfactoren. Zowel in interactie als in vormgeving geldt dus hetzelfde principe: maak het tastbaar, helder en vertrouwd.
 
 ## Tussentijds Overzicht Design Requirements
 |ID|Design Requirement|Source|Date|
