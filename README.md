@@ -598,7 +598,6 @@ De capacitive touch-interface werd op eenvoudige wijze gesimuleerd met behulp va
 #### Slider met geleiding
 Dit prototype maakte gebruik van een organisch gebogen schuifrail, waarin een beweegbaar element zich van een centrale "uit"-positie naar links of rechts kon verplaatsen. De richting stond voor de spelkeuze, terwijl de afstand tot het uiteinde de moeilijkheidsgraad bepaalde. Elke helft van de rail had twee duidelijke stops: één voor niveau 1, en verderop een tweede voor niveau 2. Bovenaan in het midden van het prototype bevond zich de aan/uit-positie: zodra de slider hiervan werd verplaatst, werd het systeem geactiveerd.
 
-
 #### Aan/uit-modules
 Voor het testen van aan/uit-functionaliteiten werden vijf bestaande knoppen en schuifelementen verzameld en verwerkt in verwisselbare modules. Deze modules konden eenvoudig geplaatst worden in de verschillende *planes* van het centrale prototypevolume, wat snelle A/B-tests mogelijk maakte. 
 
@@ -638,7 +637,6 @@ De iconografie werd gepresenteerd op een visueel bord, waarop een opsplitsing we
 
 <p align="center">
   <img src="images/interface knopjes.jpg"width=80%">
-
 
 ### Resultaten
 De testresultaten geven een duidelijk beeld van hoe de verschillende interfaceprototypes werden ervaren. In dit onderdeel worden de voorkeuren van de gebruikers toegelicht aan de hand van hun topkeuzes, gecombineerd met inzichten uit meetdata en observaties.
@@ -716,6 +714,23 @@ Uit de feedback bleek dat de _klassieke_, eenvoudige iconografie het beste scoor
 De testresultaten tonen een duidelijke voorkeur voor fysieke interfaces met directe feedback. Drukknoppen en draaiknoppen scoren het hoogst op zowel gebruikservaring als betrouwbaarheid. Gebruikers waardeerden de intuïtieve bediening, de herkenbaarheid van de elementen en de tastbare feedback die deze prototypes boden. Touch- en schuifinterfaces bleken minder geschikt, vooral vanwege het gebrek aan controle, duidelijkheid en fysieke houvast. Prototypes die kracht, precisie of abstracte interactie vereisten, werden als vermoeiend of verwarrend ervaren. Visuele en esthetische elementen spelen een grote rol: eenvoudige iconografie, retro-styling en herkenbare vormen bleken succesfactoren. Zowel in interactie als in vormgeving geldt dus hetzelfde principe: maak het tastbaar, helder en vertrouwd.
 
 ### Conclusies & implicaties
+De resultaten van deze testfase hebben niet enkel waardevolle inzichten opgeleverd over de voorkeuren van de doelgroep, maar hebben ook geleid tot een concreet functioneel kader voor de centrale interface. Een duidelijke userflow werd gedestilleerd, die nu als basis dient voor de verdere uitwerking en implementatie in code.
+
+<p align="center">
+  <img src="images/Userflow.png"width=100%">
+
+De voorkeuren van onze doelgroep blijken zich duidelijk te richten op fysieke, intuïtieve interactievormen die niet alleen functioneel zijn, maar ook een zekere mate van plezier, herkenning en zintuiglijke beleving met zich meebrengen. Interfaces zoals de drukknoppen en de dial kwamen als duidelijke favorieten naar voren omdat ze een sterk evenwicht bieden tussen efficiëntie, tactiele feedback en een gevoel van controle. Gebaseerd op deze inzichten hebben we ervoor gekozen om verder te gaan met een redesign van de dial-interface. Dit redesign zal het efficiëntieniveau van de drukknoppen integreren, door het toevoegen van visuele aanduidingen aan de bovenzijde van de _dial_ en het verhogen van de draairesistentie, wat zorgt voor meer controle en een duidelijkere _signifier_ van de mogelijke interactie. Terwijl de ervaring, esthetiek en vormelijke aantrekkingskracht van de dial behouden blijft. Zo combineren we het beste van beide werelden: een duidelijke gebruikersflow die binnen de vereiste tijd tot een spelkeuze leidt, én een rijke, zintuiglijke interactie die uitnodigt tot exploratie en hergebruik.
+
+Het redesign is afgestemd op de visuele voorkeuren van de doelgroep en sluit nauw aan bij het interne benchmark-moodboard, dat retro audioapparatuur als esthetisch uitgangspunt neemt. 
+
+**afbeelding centrale interface**
+
+>  [!IMPORTANT]
+> Design Requirements:
+> - D3.6 De interface moet gebaseerd zijn op tactiele handelingen zoals drukken en draaien.
+> - D3.7 De interface moet een ervaring op zich vormen: uitnodigend, herkenbaar en stimulerend tot interactie en exploratie.
+> - D3.8 De interactie moet intuïtief en laagdrempelig zijn, met duidelijke visuele, tactiele en auditieve feedback.
+> - D3.9 De gebruiker moet binnen 40 seconden een spel kunnen selecteren.
 
 ## Tussentijds Overzicht Design Requirements
 |ID|Design Requirement|Source|Date|
@@ -738,6 +753,10 @@ De testresultaten tonen een duidelijke voorkeur voor fysieke interfaces met dire
 |3.3|De interface biedt auditieve feedback wanneer nodig.|User test W1|02/12/2024|
 |3.4|De interface biedt opbergruimte voor alle bijbehorende componenten van het product.|User test W1|02/12/2024|
 |3.5|De interface heeft een robuuste en praktische vorm, zodat deze eenvoudig kan worden opgeborgen en gestapeld.|User test W1|02/12/2024|
+|3.6|De interface moet gebaseerd zijn op tactiele handelingen zoals drukken en draaien.|Develop 2|18/04/2025|
+|3.7|De interface moet een ervaring op zich vormen: uitnodigend, herkenbaar en stimulerend tot interactie en exploratie.|Develop 2|18/04/2025|
+|3.8|De interactie moet intuïtief en laagdrempelig zijn, met duidelijke visuele, tactiele en auditieve feedback.|Develop 2|18/04/2025|
+|3.9|De gebruiker moet binnen 40 seconden een spel kunnen selecteren.|Develop 2|18/04/2025|
 |**Groep 4**|**Mobiele interface**|
 |4.1|De mobiele applicatie is overzichtelijk en efficiënt te gebruiken (binnen een tijd van..).|User test W2|10/12/2024|
 |4.2|De mobiele applicatie is compatibel met smartphones en computers.|User test W1|02/12/2024|
