@@ -586,11 +586,11 @@ De verzonken draaiknop bestond uit een wiel dat deels in het oppervlak was ingeb
 De gamecard-interface maakte gebruik van een fysieke sleuf waarin smalle kaartjes konden worden geplaatst. Elke kaart vertegenwoordigde een specifiek spel; de oriëntatie van de kaart bepaalde het niveau. Op beide zijden van de kaart stonden aanduidingen, waarbij telkens de chip op de tegenovergestelde zijde werd geplaatst. Aan de achterzijde van de sleuf bevond zich een mechanisme met een ingebouwde druksluiting, wat zorgde voor feedback tijdens het insteken of teruggeven van de kaart. Deze mechaniek droeg bij aan de fysieke gebruikservaring.
 
 <p align="center">
-  <img src="images/D2 - Slider NX - voorkant.png"height=250">
-  <img src="images/D2-slider-aanduiding.jpeg"height=250">
-  <img src="images/D2 - rotary wheel - NX.png"height=250">
-  <img src="images/D2-gamecard2.jpg"height=343">
-  <img src="images/D2 - aanduidingen.jpeg"height=343">
+  <img src="images/D2 - Slider NX - voorkant.png"height=200">
+  <img src="images/D2-slider-aanduiding.jpeg"height=200">
+  <img src="images/D2 - rotary wheel - NX.png"height=200">
+  <img src="images/D2-gamecard2.jpg"height=300">
+  <img src="images/D2 - aanduidingen.jpeg"height=300">
 
 #### Capacitive touch-interface
 De capacitive touch-interface werd op eenvoudige wijze gesimuleerd met behulp van stickers waarop verschillende symbolen werden gedrukt. Deze benadering liet toe om snel een mock-up van een aanraakinterface te creëren en gebruikservaringen omtrent visuele interpretatie en intuïtiviteit te verzamelen. Hoewel het prototype zelf niet functioneel was, bood het voldoende basis om relevante conclusies te trekken over touch-gebaseerde interactie.
