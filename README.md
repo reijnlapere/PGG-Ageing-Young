@@ -589,8 +589,9 @@ De gamecard-interface maakte gebruik van een fysieke sleuf waarin smalle kaartje
   <img src="images/D2 - Slider NX - voorkant.png"height=200">
   <img src="images/D2-slider-aanduiding.jpeg"height=200">
   <img src="images/D2 - rotary wheel - NX.png"height=200">
-  <img src="images/D2-gamecard2.jpg"height=285">
-  <img src="images/D2 - aanduidingen.jpeg"height=285">
+<p align="center">
+  <img src="images/D2-gamecard2.jpg"height=275">
+  <img src="images/D2 - aanduidingen.jpeg"height=275">
 
 #### Capacitive touch-interface
 De capacitive touch-interface werd op eenvoudige wijze gesimuleerd met behulp van stickers waarop verschillende symbolen werden gedrukt. Deze benadering liet toe om snel een mock-up van een aanraakinterface te creëren en gebruikservaringen omtrent visuele interpretatie en intuïtiviteit te verzamelen. Hoewel het prototype zelf niet functioneel was, bood het voldoende basis om relevante conclusies te trekken over touch-gebaseerde interactie.
