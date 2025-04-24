@@ -522,7 +522,65 @@ Bij het ontwerpen van het opspansysteem stond gebruiksgemak centraal. Daarom wer
 <p align="center">
   <img src="images/Tekening verbinding.png"width=45%">
 
+## Develop 2: Evaluatie van Interfaces voor Spelselectie – Human Sense & The Human Mind. (N=4)
+### Doelstellingen
+In deze ontwikkelingsfase ligt de focus op het ontwerpen en evalueren van interfacevormen die intuïtieve, plezierige en zintuiglijk rijke interacties mogelijk maken voor de gebruiker. Dit sluit aan bij de centrale ambitie om een cognitief toegankelijke, herkenbare en esthetisch aantrekkelijke gebruikerservaring te bieden, met expliciete aandacht voor de menselijke zintuigen en mentale processen.
 
+Via een reeks gebruikerstests werd geëxploreerd:
+- Bekomen van een definitief ontwerp van de centrale interface voor spelselectie.
+- Ontwikkelen van een efficiënte interface. (snelle, foutloze interactie met minimale cognitieve en motorische belasting.)
+- Ontwikkelen van een effectieve interface.
+- Garanderen van een eenvoudige interface.
+- Creëren van een onthoudbare interactie: herkenbare met consistente patronen die door de gebruiker makkelijk herinnerd worden.
+- Nieuwe inzichten verwerven in de ervaring, voorkeuren en moeilijkheden van de doelgroep.
+- Een efficiënte userflow uittekenen die leidt tot het kiezen en starten van een spel binnen de gestelde tijdslimiet.
+- Verzamelen van input voor vormelijke en zintuiglijke designkeuzes.
+
+### Materiaal & methoden
+De test werd uitgevoerd in WZC T’huis te Kortrijk met vier testpersonen uit de doelgroep. De participanten evalueerden zeven fysieke interfaceprototypes, waaronder: een drukknoppensysteem, een verzonken draaiknop, een slider met geleiding, een interface aan de hand van een gamecard, een capacitive touch interface, een mechanische slider en een interface die gebruik maakt van een _dial_. Deze prototypes worden verder toegelicht onder het hoofdstuk *Prototypes*.
+
+De test bestond uit verschillende onderdelen:
+
+1. Kwalificatie en introductie  
+2. Interface-interactietest  
+3. Evaluatie en voorkeurenscore  
+4. Moodboard- en CMF-evaluatie  
+
+De sessie startte met een eerste confrontatie: de gebruikers kregen de prototypes te zien en konden deze kort bekijken of vasthouden. Vervolgens gaven we toelichting over het doel van het project en de specifieke test, inclusief de verwachtingen en het verloop van de sessie. Daarna volgde de daadwerkelijke *interface-evaluatie*, waarbij de zeven varianten van de interfaceprototypes getest werden. De onderdelen waren ontworpen met uitwisselbare elementen, wat toeliet om verschillende combinaties efficiënt te evalueren. Tijdens deze evaluatie werden meerdere gegevens verzameld:  
+- Gemeten tijden per handeling  
+- Aantal tussenkomsten of hulpvragen  
+
+Daarnaast werd videomateriaal opgenomen om de tests later opnieuw te kunnen analyseren. Dit stelde ons in staat om specifieke gebruikersquotes nauwkeurig vast te leggen en om ontbrekende data eventueel te reconstrueren.
+Tussen de tests van de verschillende prototypes door bespraken we telkens een aantal voorbereidende vragen uit het protocol. Dit zorgde ervoor dat prototypes onmiddellijk met elkaar konden worden vergeleken, zonder dat de evaluatie beïnvloed werd door enkel de laatste (en mogelijk beste herinnerde) ervaring. Hierdoor konden we subjectieve voorkeuren betrouwbaarder vaststellen.
+
+In een laatste fase van de test werden visuele en vormgevingsaspecten op een meer objectieve manier geëvalueerd. De deelnemers kregen vijf verschillende moodboards voorgeschoteld, die ze één voor één bekeken en vervolgens met elkaar vergeleken. Het doel hiervan was om inzicht te krijgen in de esthetische voorkeuren van de doelgroep en de gewenste stijlkenmerken. Daarna volgde de evaluatie van iconografische elementen. We legden verschillende varianten van pictogrammen voor: aan/uit-knoppen, navigatiesymbolen en spelselectie-icoontjes. De bedoeling hiervan was niet alleen om te achterhalen welke ontwerpen het mooist werden gevonden, maar vooral om te bepalen welke het meest intuïtief werden begrepen. Dit is cruciaal om verwarring bij het gebruik van de centrale interface te vermijden.
+De benodigde prototypes en ontwerpkeuzes worden verder toegelicht onder het puntje *Prototypes*. 
+
+### Resultaten
+
+
+| Interface               | Meting               | Gebruiker 1 | Gebruiker 2 | Gebruiker 3 | Gebruiker 4 | Gemiddelde Tijd | Som Tussenkomsten |
+|-------------------------|----------------------|-------------|-------------|-------------|-------------|------------------|--------------------|
+| **Mechanische slider**  | Tijd 1 (seconden)     | 9           | 6           | 5           | 10          | 10,5             |                    |
+|                         | Tijd 2 (seconden)     | 27          | 6           | 17          | 4           |                  |                    |
+|                         | Tussenkomsten         | 3           | 0           | 1           | 0           |                  | 4                  |
+| **Dial**                | Tijd 1 (seconden)     | 40          | 30          | 37          | 48          | 38,75            |                    |
+|                         | Tussenkomsten         | 1           | 0           | 4           | 3           |                  | 8                  |
+| **Verzonken draaiknop** | Tijd 1 (seconden)     | 30          | 10          | 58          | 53          | 37               |                    |
+|                         | Tijd 2 (seconden)     | 64          | 48          | 18          | 15          |                  |                    |
+|                         | Tussenkomsten         | 2           | 1           | 2           | 1           |                  | 6                  |
+| **4 drukknoppen**       | Tijd 1 (seconden)     | 5           | 3           | 19          | 6           | 6                |                    |
+|                         | Tijd 2 (seconden)     | 4           | 2           | 5           | 4           |                  |                    |
+|                         | Tussenkomsten         | 1           | 1           | 3           | 0           |                  | 5                  |
+| **Game-card**           | Tijd 1 (seconden)     | 13          | 29          | 9           | 17          | 16,125           |                    |
+|                         | Tijd 2 (seconden)     | 16          | 13          | 11          | 21          |                  |                    |
+|                         | Tussenkomsten         | 1           | 2           | 0           | 3           |                  | 6                  |
+| **Slider met geleiding**| Tijd 1 (seconden)     | 8           | 110         | 12          | 38          | 47,25            |                    |
+|                         | Tijd 2 (seconden)     | 48          | 87          | 24          | 51          |                  |                    |
+|                         | Tussenkomsten         | 2           | 4           | 0           | 3           |                  | 9                  |
+| **Touch**               | Tijd 1 (seconden)     | 7           | 6           | 13          | 8           | 7,875            |                    |
+|                         | Tijd 2 (seconden)     | 5           | 4           | 9           | 11          |                  |                    |
+|                         | Tussenkomsten         | 1           | 0           | 2           | 1           |                  | 4                  |
 
 ## Tussentijds Overzicht Design Requirements
 |ID|Design Requirement|Source|Date|
