@@ -569,6 +569,13 @@ Het prototype met vier drukknoppen bestond uit vier verschillende fysieke knoppe
 #### Dial-interface
 De dial-interface bestond uit een ronde draaiknop met drukfunctie, verbonden met een potentiometer. Deze potentiometer detecteerde zowel rotatie als druk, wat een breed scala aan interacties mogelijk maakte. De buitenrand van de dial had een gekartelde structuur, als visuele en tactiele indicatie dat de knop gedraaid kon worden. Ook dit prototype beschikte over een vervangbare zone voor het testen van verschillende aan/uit-varianten.
 
+<p align="center">
+  <img src="images/D2-4knop.jpeg"width=77%">
+<p align="center">
+  <img src="images/D2 - 4knop en aanduiding.jpeg"height=200">
+  <img src="images/D2-dial.jpeg"height=200">
+  <img src="images/D2 - dial - NX.png"height=200">
+
 #### Mechanische slider
 Dit prototype maakte gebruik van een eenvoudige, lineaire schuifbeweging. Naast de slider waren aanduidingen voorzien die spel en niveau vermeldden. Aan de achterzijde van het interfacevlak werd een mechanisch onderdeel geïntegreerd dat feedback genereerde: bij het overschakelen tussen standen kon een voelbare klik of ‘snap’ worden waargenomen. Dit zorgde voor duidelijke afbakening van de verschillende selectiemomenten.
 
@@ -578,11 +585,19 @@ De verzonken draaiknop bestond uit een wiel dat deels in het oppervlak was ingeb
 #### Gamecard-interface
 De gamecard-interface maakte gebruik van een fysieke sleuf waarin smalle kaartjes konden worden geplaatst. Elke kaart vertegenwoordigde een specifiek spel; de oriëntatie van de kaart bepaalde het niveau. Op beide zijden van de kaart stonden aanduidingen, waarbij telkens de chip op de tegenovergestelde zijde werd geplaatst. Aan de achterzijde van de sleuf bevond zich een mechanisme met een ingebouwde druksluiting, wat zorgde voor feedback tijdens het insteken of teruggeven van de kaart. Deze mechaniek droeg bij aan de fysieke gebruikservaring.
 
+<p align="center">
+  <img src="images/D2 - Slider NX - voorkant.png"height=250">
+  <img src="images/D2-slider-aanduiding.jpeg"height=250">
+  <img src="images/D2 - rotary wheel - NX.png"height=250">
+  <img src="images/D2-gamecard2.jpg"height=343">
+  <img src="images/D2 - aanduidingen.jpeg"height=343">
+
 #### Capacitive touch-interface
 De capacitive touch-interface werd op eenvoudige wijze gesimuleerd met behulp van stickers waarop verschillende symbolen werden gedrukt. Deze benadering liet toe om snel een mock-up van een aanraakinterface te creëren en gebruikservaringen omtrent visuele interpretatie en intuïtiviteit te verzamelen. Hoewel het prototype zelf niet functioneel was, bood het voldoende basis om relevante conclusies te trekken over touch-gebaseerde interactie.
 
 #### Slider met geleiding
 Dit prototype maakte gebruik van een organisch gebogen schuifrail, waarin een beweegbaar element zich van een centrale "uit"-positie naar links of rechts kon verplaatsen. De richting stond voor de spelkeuze, terwijl de afstand tot het uiteinde de moeilijkheidsgraad bepaalde. Elke helft van de rail had twee duidelijke stops: één voor niveau 1, en verderop een tweede voor niveau 2. Bovenaan in het midden van het prototype bevond zich de aan/uit-positie: zodra de slider hiervan werd verplaatst, werd het systeem geactiveerd.
+
 
 #### Aan/uit-modules
 Voor het testen van aan/uit-functionaliteiten werden vijf bestaande knoppen en schuifelementen verzameld en verwerkt in verwisselbare modules. Deze modules konden eenvoudig geplaatst worden in de verschillende *planes* van het centrale prototypevolume, wat snelle A/B-tests mogelijk maakte. 
@@ -592,6 +607,10 @@ Vijf modules werden uitgewerkt:
 - Twee modules werden aangepast:
   - Bij de _slider_ werd de vormgeving herwerkt en voorzien van een nieuw omhulsel om een betere visuele integratie te bekomen.
   - Bij de _schakelaar (switch)_ werd een opsteekbaar element toegevoegd. Dit vergrootte het contactvlak, zodat de doelgroep deze eenvoudiger kon bedienen.
+
+<p align="center">
+  <img src="images/D2 - geleide slider.jpeg"height=250">
+  <img src="images/D2 - interchangable.jpeg"height=250">
 
 #### Moodboards
 Voor de visuele en esthetische evaluatie werden vijf unieke moodboards samengesteld, elk met een eigen stijl en sfeer. Daarnaast werd ook één intern benchmark-moodboard opgesteld, gebaseerd op retro-audioapparatuur zoals radio’s en versterkers.
@@ -603,12 +622,22 @@ De vijf moodboards zijn als volgt opgebouwd:
 - **Moodboard 4**: Kleurvol, retro en minimalistisch ontwerp
 - **Moodboard 5**: Retro, kleurrijk, opvallend en niet minimalistisch
 
+<p align="center">
+  <img src="images/moodboard1.jpg" width="40%">
+  <img src="images/moodboard2.jpg" width="40%">
+  <img src="images/moodboard3.jpg" width="40%">
+  <img src="images/moodboard4.jpg" width="40%">
+<p align="center">
+  <img src="images/moodboard5.jpg" width="40%">
+  
 #### Iconografie
 De iconografie werd gepresenteerd op een visueel bord, waarop een opsplitsing werd gemaakt tussen de verschillende categorieën:
 - Aan/uit-symbolen  
 - Numerieke navigeersymbolen  
 - Alternatieve navigeersymbolen
 
+<p align="center">
+  <img src="images/interface knopjes.jpg"width=80%">
 
 ### Resultaten
 De testresultaten geven een duidelijk beeld van hoe de verschillende interfaceprototypes werden ervaren. In dit onderdeel worden de voorkeuren van de gebruikers toegelicht aan de hand van hun topkeuzes, gecombineerd met inzichten uit meetdata en observaties.
