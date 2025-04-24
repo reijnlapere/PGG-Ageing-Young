@@ -639,6 +639,7 @@ De iconografie werd gepresenteerd op een visueel bord, waarop een opsplitsing we
 <p align="center">
   <img src="images/interface knopjes.jpg"width=80%">
 
+
 ### Resultaten
 De testresultaten geven een duidelijk beeld van hoe de verschillende interfaceprototypes werden ervaren. In dit onderdeel worden de voorkeuren van de gebruikers toegelicht aan de hand van hun topkeuzes, gecombineerd met inzichten uit meetdata en observaties.
 
@@ -713,6 +714,8 @@ Uit de feedback bleek dat de _klassieke_, eenvoudige iconografie het beste scoor
 
 #### Samenvattend:
 De testresultaten tonen een duidelijke voorkeur voor fysieke interfaces met directe feedback. Drukknoppen en draaiknoppen scoren het hoogst op zowel gebruikservaring als betrouwbaarheid. Gebruikers waardeerden de intuïtieve bediening, de herkenbaarheid van de elementen en de tastbare feedback die deze prototypes boden. Touch- en schuifinterfaces bleken minder geschikt, vooral vanwege het gebrek aan controle, duidelijkheid en fysieke houvast. Prototypes die kracht, precisie of abstracte interactie vereisten, werden als vermoeiend of verwarrend ervaren. Visuele en esthetische elementen spelen een grote rol: eenvoudige iconografie, retro-styling en herkenbare vormen bleken succesfactoren. Zowel in interactie als in vormgeving geldt dus hetzelfde principe: maak het tastbaar, helder en vertrouwd.
+
+### Conclusies & implicaties
 
 ## Tussentijds Overzicht Design Requirements
 |ID|Design Requirement|Source|Date|
