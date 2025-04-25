@@ -724,7 +724,12 @@ De voorkeuren van onze doelgroep blijken zich duidelijk te richten op fysieke, i
 
 Het redesign is afgestemd op de visuele voorkeuren van de doelgroep en sluit nauw aan bij het interne benchmark-moodboard, dat retro audioapparatuur als esthetisch uitgangspunt neemt. 
 
-**afbeelding centrale interface**
+<p align="center">
+  <img src="images/Render22 Fin.png"width=49%">
+  <img src="images/Render24 dial Finn.png"width=49%">
+<p align="center">
+  <img src="images/Render27 open Finnal.png"width=100%">
+
 
 >  [!IMPORTANT]
 > Design Requirements:
