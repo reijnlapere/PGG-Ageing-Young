@@ -817,3 +817,7 @@ PVDA. https://www.pvda.be/nieuws/recordaantal-woonzorgcentra-op-zwarte-lijst-doo
 - **Develop 1**
   - [protocol D1](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/PROTOCOL%20D1%20(1).docx?d=wd670608060e64fdbaccb529f3c922b15&csf=1&web=1&e=BTqGAU)
   - [report D1](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/ANALYSE%20D1.docx?d=w3240dc8576814b338d3c99e8e6cf9007&csf=1&web=1&e=Gf9v5o)
+
+- **Develop 2**
+    - [protocol D2](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/PROTOCOL%20DEVELOP%202.2%20MECHANISCHE%20INTERFACES.docx?d=w9a62e91c30be485db418c8779e6c2ca0&csf=1&web=1&e=GBJOff)
+    - [report D2](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/ANALYSE%20DEVELOP%202%20MECHANISCHE%20INTERFACES.docx?d=w82aa03cfb9954592b6fa05ab1bc5d081&csf=1&web=1&e=PIpvTK)
