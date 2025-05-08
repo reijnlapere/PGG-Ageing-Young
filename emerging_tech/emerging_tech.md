@@ -5,6 +5,6 @@ ook nog onduidelijk wat gitignore is.. dus vragen.
 
 ## Visuele weergave opstelling 
 <p align="center">
-  <img src="emerging_tech/images_ET/opstelling grafisch.jpg" width="100%">
+  <img src="emerging_tech/imgs/opstelling grafisch.jpg" width="100%">
 
 ## Bedradingsschema
