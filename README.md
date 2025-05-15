@@ -902,6 +902,15 @@ Beide LED-feedbackvormen (breathing vs. rotating) werden herkend, maar de _breat
 De dial werd efficiënt en correct gebruikt; tekstlabels versterkten het gevoel van controle. De tactiele feedback tijdens het draaien werd gewaardeerd.
 
 
+### Conclusies en Implicaties
+De testresultaten uit Develop 3 tonen aan dat vereenvoudiging, duidelijke structuur en feedback de bruikbaarheid van het systeem verhogen. Er is besloten om gebruik te maken van de “breathing” signifier en de tekstuele signifiers op de dial te behouden. Het opplooisysteem van de mat is gehandhaafd zoals getest. Er wordt gewerkt met vijf positioneringsplaatsen op de mat, aangeduid met ronde positioneringsiconen. Voor het positioneren wordt er gebruikgemaakt van app 3 en de layout van positioneringsformulier 1.4. Om een duidelijk onderscheid tussen de iconen te waarborgen, worden gelijkaardige vormen vermeden. De magneten worden behouden en versterkt. Tevens wordt er een gebruikersgeschiedenis aan de app toegevoegd en is de kleurgeving op de pods achterwege gelaten.
+
+**Kerninzichten:**
+- Less is more: een beperkte set posities verhoogt focus en mogelijkheden in simulaties.
+- Visuele eenvormigheid, geen kleurcodes, wél duidelijke iconen, is cruciaal.
+- Digitale gebruikersgeschiedenis is wenselijk voor professionele toepassing.
+- Tactiele feedback aan de hand van magneten is gewenst maar moet consistenter. (door magneten te versterken).
+- Dial met tekstuele ondersteuning is bewezen sneller en duidelijker.
 
 
 
