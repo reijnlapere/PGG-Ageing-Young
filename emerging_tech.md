@@ -2,7 +2,7 @@
 ------
 ## Opstelling, connecties en feedback.  
 <p align="center">
-  <img src="emerging_tech/imgs/schema_visual.jpg" width="100%">
+  <img src="emerging_tech/imgs/visualisatie_opbouw_UPDsysteem.jpg" width="100%">
 
 ## Bedradingsschema. 
 <p align="center">
