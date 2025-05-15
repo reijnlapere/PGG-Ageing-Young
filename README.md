@@ -766,11 +766,11 @@ De testen vonden opnieuw plaats in het woonzorgcentrum WZC T’huis te Kortrijk,
 
 De volledige testopzet werd uitgevoerd volgens vijf opeenvolgende fases, zoals gedetailleerd beschreven in het [protocol D3](), waarbij elke fase gericht was op een specifiek aspect van de gebruikerservaring.
 
-**Introductie en Kwalificatie**
+#### Introductie en Kwalificatie
 
 De testpersonen werden verwelkomd en ontvingen een korte inleiding over het project en het doel van de prototypes. Informed consent werd afgenomen. Vervolgens werden de deelnemers in een realistische gebruiksomgeving geïntroduceerd aan de verschillende prototypes, zodat ze het product in een context konden ervaren die aansluit bij hun dagelijkse praktijk.
 
-**Test van de Positioneringsmat**
+#### Test van de Positioneringsmat
 
 In dit deel werd de positioneringsmat getest door zowel senioren als begeleiders. De test richtte zich op het vergelijken van twee varianten van de mat: een met vijf en een met zes posities. De deelnemers ontvouwden en vouwden de mat op, terwijl de handelingen werden geobserveerd, getimed en gefilmd. Er werd specifiek gelet op:
   - De tijdsduur van het opzetten en opbergen.
@@ -780,7 +780,7 @@ In dit deel werd de positioneringsmat getest door zowel senioren als begeleiders
 
 Deze informatie hielp bij het evalueren van de efficiëntie en het gebruiksgemak van de mat.
 
-**Evaluatie van de App-interfaces en Positioneringsformulieren**
+#### Evaluatie van de App-interfaces en Positioneringsformulieren
 
 Kinesisten en begeleiders testten vervolgens drie verschillende app-interfaces die elk een andere benadering van de taakweergave en gebruikersinteractie boden. Elke variant werd geëvalueerd op:
   - Intuïtiviteit van het gebruik.
@@ -789,19 +789,19 @@ Kinesisten en begeleiders testten vervolgens drie verschillende app-interfaces d
 
 Parallel hiermee werden bij de senioren acht verschillende versies van positioneringsformulieren getest. De bedoeling was om te achterhalen welk formulier het best begrepen werd en welke invloed visuele elementen zoals kleurgebruik hadden op interpretatie en uitvoeringstijd.
 
-**Test van Signifiers en Dial-interface**
+#### Test van Signifiers en Dial-interface
 
 In het vierde deel werd de signifier gekoppeld aan de centrale _dial_ getest. Gebruikers kregen eerst uitleg over het doel en gebruik van de signifier, waarna ze twee varianten te zien kregen: de 'breathing' en de 'rotating' signifier. Hun voorkeur werd bevraagd, met aandacht voor aantrekkelijkheid en duidelijkheid.
 Daarna volgde een praktische test met de geoptimaliseerde _dial_ uit ‘Develop 2’. Gebruikers voerden twee verschillende acties uit via de dial. Deze handelingen werden opnieuw getimed en geobserveerd op fouten en noodzakelijke tussenkomsten. De resultaten werden vergeleken met eerdere metingen uit Develop 2.
 
-**Debriefing en Reflectie**
+#### Debriefing en Reflectie
 
 Tot slot vond een gezamenlijke debriefing plaats met de gebruikers en kinesisten. Tijdens deze sessie werden alle prototypes één voor één opnieuw besproken. De deelnemers gaven hun mening over sterke en zwakke punten van elk onderdeel, en aanvullende inzichten werden verzameld om de verdere ontwikkeling te sturen.
 
 ### Prototypes
 De prototypes zijn gebaseerd op inzichten uit eerdere ontwikkelfasen en zijn in Develop 3 verder geoptimaliseerd. De focus lag hierbij op gebruiksgemak, intuïtiviteit en compatibiliteit met de doelgroep (senioren en begeleiders/kinesisten).
 
-**Positioneringsmat** 
+#### Positioneringsmat
 De positioneringsmat werd ontworpen op basis van een reach envelope-analyse (in Siemens NX) van een mannelijke gebruiker van 65 jaar of ouder. Bij het bepalen van de afmetingen en bereikzone werd bewust gekozen voor het “design for the tall”-principe: er werd gebruik gemaakt van een P95-mannequin voor lichaamslengte om het systeem ook uitdagend te maken voor gebruikers met een groter bereik. Deze keuze werd versterkt door het feit dat mannen gemiddeld groter zijn dan vrouwen, waardoor een mannelijke mannequin de grootste reikwijdte binnen de doelgroep representeert.
 
 Voor het gewicht werd een P50-waarde gebruikt (“design for the mean”), aangezien dit minder impact heeft op de functionaliteit van het systeem. De reach enveloppes werden berekend ten opzichte van de rechter- en linkerhandpalm, wat aansluit bij de manier waarop gebruikers de fysieke pods zullen bedienen.
@@ -864,7 +864,7 @@ In lijn met de visuele stijl van de app werden meerdere varianten van het positi
 - Gebruik van kleur: om te testen of kleurcodering helpt of verwarring veroorzaakt bij senioren.
 
 <p align="center">
-  <img src="images/Breefing_positie..jpg"width=80%">
+  <img src="images/Breefing_positie2..jpg"width=80%">
 
 5. Apps (ontworpen in ProtoPie)
 Er werden drie verschillende lay-outs ontwikkeld:
@@ -873,6 +873,33 @@ Er werden drie verschillende lay-outs ontwikkeld:
 - App 3: Combineerde de functies van app 2 in één enkel scherm, waarbij de mat en het lichaam boven elkaar worden weergegeven voor een snellere navigatie.
 
 _gifs van de apps maar verkleind_
+
+### Resultaten
+
+#### Positioneringsmat
+Drie gebruikers testten de positioneringsmat op uitvouwbaarheid, opberggemak en voorkeur in layout. De versie met vijf posities werd het duidelijkst verkozen: eenvoudiger en visueel beter gestructureerd. Ook waren cirkelvormige iconen favoriet, omdat ze de vorm van de pod het beste representeren. Magnetische feedback werd opgemerkt, al was de intensiteit wisselend.
+
+| Gebruiker    | Tijd uitvouwen | Tijd opbergen          | Hulp bij uitvouwen | Hulp bij opbergen |
+|--------------|----------------|------------------------|---------------------|--------------------|
+| Gebruiker 1  | 37 s           | 24 s                   | 1                   | 1                  |
+| Gebruiker 2  | 12 s           | Actie 1: 20 s<br>Actie 2: 11 s | 0                   | 0                  |
+| Gebruiker 3  | 28 s           | 16 s                   | 1                   | 0                  |
+
+#### App-interface & printfunctie
+Van de drie interfaces werd App 3 duidelijk verkozen. Gebruikers vonden de combinatie van matvisualisatie en lichaamsbeeld intuïtiever. Bij eerste App zorgden het linken van iconen aan de pods voor verwarring. Daarnaast gaven alle deelnemers aan dat een digitale geschiedenis van oefeningen wenselijk is.
+
+positioneringsformulier _1.4_ scoorde het hoogst dankzij duidelijk zichtbare iconen, meervoudige perspectieven en goede plaatsingsoverdracht. De kleurcodes op pods werden als verwarrend en overbodig ervaren.
+
+#### Signifiers & Dial
+Beide LED-feedbackvormen (breathing vs. rotating) werden herkend, maar de _breathing ligh_ werd als neutraler ervaren. De toevoeging van tekstlabels aan de dial leidde tot snellere en meer accurate bediening, met minder twijfel over de juiste keuze.
+
+| Gebruiker | Actie 1 | Actie 2 | Gemiddelde |
+|-----------|---------|---------|------------|
+| 1         | 33 s    | 28 s    | 30.5       |
+| 2         | 25 s    | 21 s    | 23         |
+| **Gemiddelde** | **29**     | **24.5**   | **26.75**     |
+
+De dial werd efficiënt en correct gebruikt; tekstlabels versterkten het gevoel van controle. De tactiele feedback tijdens het draaien werd gewaardeerd.
 
 
 
