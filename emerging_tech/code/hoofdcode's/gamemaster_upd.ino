@@ -1,0 +1,63 @@
+#include <WiFiNINA.h>
+#include <WiFiUdp.h>
+
+// WiFi-gegevens
+const char* ssid = "your_SSID";
+const char* password = "your_PASSWORD";
+
+// Array van IP-adressen van de peripherals
+const char* peripheralIPs[] = {"192.168.40.78", "192.168.40.31", "192.168.40.137", "192.168.40.42"};
+const int numPeripherals = 4;
+
+WiFiUDP udp;
+const unsigned int udpPort = 8888;
+
+void setup() {
+  Serial.begin(9600);
+  while (!Serial);
+
+  // Verbinden met WiFi
+  Serial.print("Connecting to WiFi...");
+  WiFi.begin(ssid, password);
+  while (WiFi.status() != WL_CONNECTED) {
+    delay(1000);
+    Serial.print(".");
+  }
+  Serial.println("Connected!");
+
+  // Start UDP
+  udp.begin(udpPort);
+}
+
+void loop() {
+  // Kies een willekeurige peripheral
+  int randomIndex = random(numPeripherals);
+  const char* peripheralIP = peripheralIPs[randomIndex];
+
+  // Stuur commando om LED aan te zetten
+
+  udp.beginPacket(peripheralIP, udpPort);
+  udp.print("TURN_ON_LED");
+  udp.endPacket();
+
+  // Wacht op de respons van de knop
+  while (true) {
+    int packetSize = udp.parsePacket();
+    if (packetSize) {
+      char response[packetSize + 1]; // Zorg ervoor dat de buffer groot genoeg is
+      udp.read(response, packetSize);
+      response[packetSize] = '\0'; // Voeg een null-terminator toe aan de string
+      String responseStr = String(response);
+      responseStr.trim(); // Corrigeer type conversie
+      Serial.print("Received response: ");
+      Serial.println(responseStr);
+      if (responseStr == "BUTTON_PRESSED") {
+        Serial.println("Button pressed, choosing new peripheral...");
+        break; // Verlaat de lus om een nieuwe peripheral te kiezen
+      }
+    }
+  }
+
+  // Wacht even voordat je een nieuwe peripheral kiest
+  delay(1000);
+}
