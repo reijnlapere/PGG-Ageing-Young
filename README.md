@@ -744,6 +744,140 @@ Het redesign is afgestemd op de visuele voorkeuren van de doelgroep en sluit nau
 > - D3.8 De interactie moet intuïtief en laagdrempelig zijn, met duidelijke visuele, tactiele en auditieve feedback.
 > - D3.9 De gebruiker moet binnen 40 seconden een spel kunnen selecteren.
 
+## Develop 3 - The body, Apps & Signifiers. (N=6)
+### Doelstellingen. 
+Develop 3 focust zich op het integreren en evalueren van de fysieke componenten van de interface, digitale ondersteuning, en visuele signifiers. Deze fase werd opgezet om gebruikservaringen, voorkeuren en interpretatievermogen van eindgebruikers (senioren) en begeleiders te testen.
+de test vloeide voort uit de volgende onderzoeksvragen: 
+- Wat is de voorkeur van de kinesist met betrekking tot het aantal positioneringsplaatsen op de mat (5 versus 6 posities)?
+  _Doel: een zo breed mogelijk spectrum aan oefenvariaties kunnen simuleren._
+- Hoelang duurt het opzetten en opbergen van de positioneringsmat, en hoe efficiënt verloopt dit proces?
+- Hoe wordt de tactiele feedback van de magneten door de gebruikers ervaren?
+- Op welke manier kan de positionering van de pods zo eenvoudig en intuïtief mogelijk verlopen voor de eindgebruiker?
+- Hoe kan het product visueel aangeven dat het zich in een ‘kiesmodus’ bevindt?
+
+De doelstellingen van deze test waren:
+- Het evalueren van bruikbaarheid en feedback van de vernieuwde positioneringsmat.
+- Het achterhalen van de meest intuïtieve en efficiënte app-interface.
+- Het testen van de begrijpelijkheid en voorkeur van visuele LED-signifiers bij de dial.
+- Het valideren van het effect van toegevoegde tekstuele labels op de dial-interface op gebruikstijd en interpretatie.
+
+### Materiaal en Methoden
+De testen vonden opnieuw plaats in het woonzorgcentrum WZC T’huis te Kortrijk, met deelname van zes testpersonen: drie senioren en drie professionals (kinesisten en begeleiders). Het doel van de testreeks was om inzichten te verwerven in de gebruiksvriendelijkheid, interpretatie en voorkeuren rond verschillende aspecten van het product. De test was opgebouwd rond vijf onderzoeksvragen (zie boven), en werd uitgevoerd aan de hand van observaties, tijdmetingen, interviews, foutenanalyses en vragenlijsten.
+
+De volledige testopzet werd uitgevoerd volgens vijf opeenvolgende fases, zoals gedetailleerd beschreven in het [protocol D3](), waarbij elke fase gericht was op een specifiek aspect van de gebruikerservaring.
+
+**Introductie en Kwalificatie**
+
+De testpersonen werden verwelkomd en ontvingen een korte inleiding over het project en het doel van de prototypes. Informed consent werd afgenomen. Vervolgens werden de deelnemers in een realistische gebruiksomgeving geïntroduceerd aan de verschillende prototypes, zodat ze het product in een context konden ervaren die aansluit bij hun dagelijkse praktijk.
+
+**Test van de Positioneringsmat**
+
+In dit deel werd de positioneringsmat getest door zowel senioren als begeleiders. De test richtte zich op het vergelijken van twee varianten van de mat: een met vijf en een met zes posities. De deelnemers ontvouwden en vouwden de mat op, terwijl de handelingen werden geobserveerd, getimed en gefilmd. Er werd specifiek gelet op:
+  - De tijdsduur van het opzetten en opbergen.
+  - Het aantal keren dat hulp van de begeleider nodig was.
+  - De voorkeur voor het aantal posities (5 vs 6).
+  - De interpretatie van iconen en positioneringselementen aan beide zijden van de mat.
+
+Deze informatie hielp bij het evalueren van de efficiëntie en het gebruiksgemak van de mat.
+
+**Evaluatie van de App-interfaces en Positioneringsformulieren**
+
+Kinesisten en begeleiders testten vervolgens drie verschillende app-interfaces die elk een andere benadering van de taakweergave en gebruikersinteractie boden. Elke variant werd geëvalueerd op:
+  - Intuïtiviteit van het gebruik.
+  - Voorkeur van de gebruikers.
+  - Tijd die nodig was om eenzelfde taak uit te voeren binnen de app.
+
+Parallel hiermee werden bij de senioren acht verschillende versies van positioneringsformulieren getest. De bedoeling was om te achterhalen welk formulier het best begrepen werd en welke invloed visuele elementen zoals kleurgebruik hadden op interpretatie en uitvoeringstijd.
+
+**Test van Signifiers en Dial-interface**
+
+In het vierde deel werd de signifier gekoppeld aan de centrale _dial_ getest. Gebruikers kregen eerst uitleg over het doel en gebruik van de signifier, waarna ze twee varianten te zien kregen: de 'breathing' en de 'rotating' signifier. Hun voorkeur werd bevraagd, met aandacht voor aantrekkelijkheid en duidelijkheid.
+Daarna volgde een praktische test met de geoptimaliseerde _dial_ uit ‘Develop 2’. Gebruikers voerden twee verschillende acties uit via de dial. Deze handelingen werden opnieuw getimed en geobserveerd op fouten en noodzakelijke tussenkomsten. De resultaten werden vergeleken met eerdere metingen uit Develop 2.
+
+**Debriefing en Reflectie**
+
+Tot slot vond een gezamenlijke debriefing plaats met de gebruikers en kinesisten. Tijdens deze sessie werden alle prototypes één voor één opnieuw besproken. De deelnemers gaven hun mening over sterke en zwakke punten van elk onderdeel, en aanvullende inzichten werden verzameld om de verdere ontwikkeling te sturen.
+
+### Prototypes
+De prototypes zijn gebaseerd op inzichten uit eerdere ontwikkelfasen en zijn in Develop 3 verder geoptimaliseerd. De focus lag hierbij op gebruiksgemak, intuïtiviteit en compatibiliteit met de doelgroep (senioren en begeleiders/kinesisten).
+
+**Positioneringsmat** 
+De positioneringsmat werd ontworpen op basis van een reach envelope-analyse (in Siemens NX) van een mannelijke gebruiker van 65 jaar of ouder. Bij het bepalen van de afmetingen en bereikzone werd bewust gekozen voor het “design for the tall”-principe: er werd gebruik gemaakt van een P95-mannequin voor lichaamslengte om het systeem ook uitdagend te maken voor gebruikers met een groter bereik. Deze keuze werd versterkt door het feit dat mannen gemiddeld groter zijn dan vrouwen, waardoor een mannelijke mannequin de grootste reikwijdte binnen de doelgroep representeert.
+
+Voor het gewicht werd een P50-waarde gebruikt (“design for the mean”), aangezien dit minder impact heeft op de functionaliteit van het systeem. De reach enveloppes werden berekend ten opzichte van de rechter- en linkerhandpalm, wat aansluit bij de manier waarop gebruikers de fysieke pods zullen bedienen.
+De mannequin werd zittend gepositioneerd aan een tafel met een standaard tafelhoogte van 750 mm en een stoelhoogte van 450 mm, overeenkomstig met gemiddelde meubelafmetingen [^5], [^6]. De uitgangshouding was de “seated relaxed”-houding, een ingebouwde standaard in Siemens NX.
+
+<p align="center">
+  <img src="images/Schermafbeelding 2025-05-03 114542.png"width=35%">
+<p align="center">
+  <img src="images/Schermafbeelding 2025-05-03 114111.png"width=35%">
+<p align="center">
+  <img src="images/Schermafbeelding 2025-05-03 113127.png"width=35%">
+<p align="center">
+  <img src="images/Schermafbeelding 2025-05-03 114508.png"width=35%">
+
+Uit deze analyse werd geconcludeerd dat de maximale comfortabele reikwijdte van een gebruiker 700 mm vanaf het lichaamscentrum bedraagt. Dit impliceert dat de uiterste middelpunten van de pods zich idealiter op 1400 mm van elkaar bevinden voor optimale toegankelijkheid en consistentie tijdens het spelverloop. De exacte afmetingen van de mat zijn:
+<p align="center">
+  <img src="images/Schermafbeelding 2025-05-15 223320.png"width=50%">
+
+Naast het bepalen van de afmetingen, werden ook de visuele markering van posities voorgelegd. 
+<p align="center">
+  <img src="images/POSITIE_ICONEN.jpg"height=200">
+  <img src="images/POSITIE_ICONEN2.jpg"height=200">
+  
+Een waardevol inzicht uit de Definition-fase kwam van een kinesist die het potentieel zag in het gebruik van pods op verticale oppervlakken, zoals muren rondom de gebruiker. Hoewel dit concept in Develop 3 nog niet getest werd (om focus te bewaren), werd het ontwerpmatig voorbereid:
+- Aan elke hoek van de mat werd een ronde uitsparing voorzien voor zuignappen met montageclips, wat het mogelijk maakt om de pods verticaal te positioneren.
+- De reeds aanwezige magneten bieden naast tactiele feedback ook structurele bevestiging bij het ophangen van de pods.
+
+_(figuur zuignap)_
+
+Daarnaast werd ook nagedacht over de opvouwbaarheid en het transportgemak van de mat. Het ontwerp is daarom opgedeeld in tien gelijke segmenten, die onderling verbonden zijn door een elastische (rekkende) stof. Deze opdeling maakt het mogelijk om de mat steeds op een eenduidige en compacte manier op te vouwen, waardoor ze eenvoudig kan worden opgeborgen en meegenomen zonder dat het formaat of de vorm onvoorspelbaar verandert.
+
+_(Figuur van mat)_
+
+2. LED Signifier Test
+Om visuele terugkoppeling te verbeteren, werden twee lichtsignalen ontwikkeld die aangeven wanneer het systeem zich in een kiesmodus bevindt. Deze signifiers werden ontwikkeld in ProtoPie en geïntegreerd via een doorzichtige ring rond de dial, waarin een smartphone werd geplaatst die de animaties kon tonen.
+
+De twee geteste animaties waren:
+- Breathing light: Een pulserende, langzaam oplichtende animatie die een rustgevende aanduiding geeft van de actieve modus.
+- Rotating light: Een voortdurend draaiende lichtcirkel die dynamisch aangeeft dat de dial zich in een interactieve staat bevindt.
+
+![Breathing GIF](images/GIF%20Breathing.gif)
+<img src="images/GIF%20Rotating.gif" alt="Rotating GIF" width="80%">
+
+_(foto dial signifier interface)_
+
+3. Vernieuwde Dial met Tekstuele Signifiers
+De dial werd verder geoptimaliseerd op basis van de feedback uit Develop 2. Nieuwe toevoegingen zijn:
+- Tekstuele feedback rond de dial die het geselecteerde spel toont.
+- Een centrale signifier (tekst op het middenvlak van de dial) die aangeeft dat de knop zowel kan draaien als indrukbaar is.
+
+<p align="center">
+  <img src="images/NIEUWE_DIAL.jpeg"width=50%">
+
+4. Positioneringsformulieren
+In lijn met de visuele stijl van de app werden meerdere varianten van het positioneringsformulier ontwikkeld. De formulieren verschilden op vier vlakken:
+
+- Aanzicht van de mannequin: vooraanzicht, bovenaanzicht.
+- Al dan niet zichtbare mat. 
+- Iconen zichtbaar of verborgen: afhankelijk van koppelingsstatus.
+- Gebruik van kleur: om te testen of kleurcodering helpt of verwarring veroorzaakt bij senioren.
+
+<p align="center">
+  <img src="images/Breefing_positie..jpg"width=80%">
+
+5. Apps (ontworpen in ProtoPie)
+Er werden drie verschillende lay-outs ontwikkeld:
+- App 1: Twee tabbladen, één voor de mat, één voor het lichaam. Pods kunnen op de mat of het lichaam worden geplaatst door middel van een sleepfunctie. Iconen worden afzonderlijk toegewezen   aan de juiste pods.
+- App 2: Ook twee tabbladen, maar de matweergave is hier visueel aangepast met een visualisatie van de mat, waarop pods direct gesleept kunnen worden naar specifieke posities.
+- App 3: Combineerde de functies van app 2 in één enkel scherm, waarbij de mat en het lichaam boven elkaar worden weergegeven voor een snellere navigatie.
+
+_gifs van de apps maar verkleind_
+
+
+
+
+
 ## Tussentijds Overzicht Design Requirements
 |ID|Design Requirement|Source|Date|
 |:---|:---|:---|:---|
@@ -787,6 +921,11 @@ PVDA. https://www.pvda.be/nieuws/recordaantal-woonzorgcentra-op-zwarte-lijst-doo
 ![image](https://github.com/user-attachments/assets/baa2000e-2909-43cf-a9a6-97b5d82d9014)
 
 [^4]: Ouderen lichaamsafmetingen. (n.d.). https://www.dinbelg.be/ouderentotaal.htm
+
+[^5]: Rootsmann. (n.d.). Hoe hoog moet een eettafel zijn? Rootsmann.nl. https://www.rootsmann.nl/blogs/blog/hoe-hoog-moet-een-eettafel-zijn/#:~:text=De%20hoogte%20van%20een%20gemiddelde,75%20tot%2080%20centimeter%20hoog.
+
+[^6]: Buro. (2024, January 3). Zo bepaal je de ideale hoogte voor je eettafel en eetkamerstoelen. Wiegers XL Meubels En Tuinmeubelen. https://www.wiegersxl.nl/advies/hoogte-eettafel-en-eetkamerstoelen/#:~:text=De%20gemiddelde%20zithoogte%20van%20een,zithoogte%20rond%20de%2040%20cm.
+
 
 
 
