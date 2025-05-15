@@ -326,170 +326,176 @@ De constructie van de pod is schematisch weergegeven in onderstaande figuur.
 <p align="center">
   <img src="images/explodedview_constructie_pod.jpeg" width="70%">
 
-Hierin wordt de gelaagde opbouw geïllustreerd, inclusief de integratie van een deel van het opspansysteem aan de onderzijde van de pod. De pod maakt gebruik van drie veren, die indrukking van het drukvlak mogelijk maken. Daarnaast is een specifiek ontwerp voorzien voor de positionering van het drukoppervlak, evenals een trilmotor die aan de binnenzijde van de pod is vastgeklemd. Hierdoor kunnen trillingen efficiënt door het materiaal worden overgedragen. De trilmotor is verbonden met een Arduino Nano 33 IoT, die extern aan de pod werd bevestigd tijdens de tests vanwege plaatsgebrek in de pod zelf. De Arduino is geprogrammeerd om via Bluetooth verbinding te maken, waardoor een signaal vanuit de "LightBlue"-applicatie op een smartphone kan worden doorgestuurd. Dit signaal activeert een vooraf geprogrammeerde trilling in de trilmotor. De bijbehorende code wordt hieronder weergegeven. 
+Hierin wordt de gelaagde opbouw geïllustreerd, inclusief de integratie van een deel van het opspansysteem aan de onderzijde van de pod. De pod maakt gebruik van drie veren, die indrukking van het drukvlak mogelijk maken. Daarnaast is een specifiek ontwerp voorzien voor de positionering van het drukoppervlak, evenals een trilmotor die aan de binnenzijde van de pod is vastgeklemd. Hierdoor kunnen trillingen efficiënt door het materiaal worden overgedragen. De trilmotor is verbonden met een Arduino Nano 33 IoT, die extern aan de pod werd bevestigd tijdens de tests vanwege plaatsgebrek in de pod zelf. De Arduino is geprogrammeerd om via Bluetooth verbinding te maken, waardoor een signaal vanuit de "LightBlue"-applicatie op een smartphone kan worden doorgestuurd. Dit signaal activeert een vooraf geprogrammeerde trilling in de trilmotor. De bijbehorende code wordt hieronder weergegeven.
+
+<details>
+<summary>Arduino-code voor het testen van de trilpatronen.</summary>
+<br>
+<pre>
   
-```c++
-#include <ArduinoBLE.h>
-
-long previousMillis = 0;
-int interval = 0;
-int trilstate = 0;
-
-BLEService ledService("180A");  // BLE LED Service
-
-// BLE LED Switch Characteristic - custom 128-bit UUID, read and writable by central
-BLEByteCharacteristic switchCharacteristic("2A57", BLERead | BLEWrite);
-
-void setup() {
-  // Serial.begin(9600);
-  // while (!Serial)
-  ;
-
-  // set built in LED pin to output mode
-  pinMode(6, OUTPUT);
-
-  // begin initialization
-  if (!BLE.begin()) {
-    // Serial.println("starting Bluetooth® 0 Energy failed!");
-
-    while (1)
-      ;
-  }
-
-  // set advertised local name and service UUID:
-  BLE.setLocalName("Nano 33 IoT TRILMOTOR");
-  BLE.setAdvertisedService(ledService);
-
-  // add the characteristic to the service
-  ledService.addCharacteristic(switchCharacteristic);
-
-  // add service
-  BLE.addService(ledService);
-
-  // set the initial value for the characteristic:
-  switchCharacteristic.writeValue(0);
-
-  // start advertising
-  BLE.advertise();
-
-  // Serial.println("BLE LED Peripheral");
-}
-
-void loop() {
-  // listen for BLE peripherals to connect:
-  BLEDevice central = BLE.central();
-
-  // if a central is connected to peripheral:
-  if (central) {
-    // Serial.print("Connected to central: ");
-    // print the central's MAC address:
-    // Serial.println(central.address());
-
-    // while the central is still connected to peripheral:
-    while (central.connected()) {
-      // if the remote device wrote to the characteristic,
-      // use the value to control the LED:
-      if (switchCharacteristic.written()) {
-        switch (switchCharacteristic.value()) {  // any value other than 0
-          case 01:
-            analogWrite(6, 255);
-            break;
-          case 02:
-            analogWrite(6, 255);
-            delay(500);
-            analogWrite(6, 0);
-            delay(500);
-            analogWrite(6, 255);
-            delay(500);
-            analogWrite(6, 0);
-            break;
-          case 03:
-            analogWrite(6, 255);
-            delay(1000);
-            analogWrite(6, 0);
-            delay(1000);
-            analogWrite(6, 255);
-            delay(1000);
-            analogWrite(6, 0);
-            break;
-          case 04:
-            analogWrite(6, 100);
-            delay(400);
-            analogWrite(6, 255);
-            delay(300);
-            analogWrite(6, 0);
-            delay(800);
-            analogWrite(6, 100);
-            delay(400);
-            analogWrite(6, 255);
-            delay(300);
-            analogWrite(6, 0);
-            break;
-          case 05:
-            analogWrite(6, 100);
-            delay(200);
-            analogWrite(6, 255);
-            delay(100);
-            analogWrite(6, 0);
-            delay(300);
-            analogWrite(6, 100);
-            delay(200);
-            analogWrite(6, 255);
-            delay(100);
-            analogWrite(6, 0);
-            break;
-          case 06:
-            analogWrite(6, 255);
-            delay(250);
-            analogWrite(6, 150);
-            delay(200);
-            analogWrite(6, 0);
-            delay(300);
-            analogWrite(6, 255);
-            delay(250);
-            analogWrite(6, 150);
-            delay(200);
-            analogWrite(6, 0);
-            break;
-          case 07:
-            analogWrite(6, 150);
-            delay(150);
-            analogWrite(6, 255);
-            delay(300);
-            analogWrite(6, 150);
-            delay(150);
-            analogWrite(6, 0);
-            delay(300);
-            analogWrite(6, 150);
-            delay(150);
-            analogWrite(6, 255);
-            delay(300);
-            analogWrite(6, 150);
-            delay(150);
-            analogWrite(6, 0);
-            break;
-          case 8:
-            for (int i = 0; i<10; i++){
-              analogWrite(6, 255);
-              delay(100);
-              analogWrite(6, 0);
-              delay(100);
-            }
-            break;
-          default:
-            analogWrite(6, 0);
-            break;
+        #include <ArduinoBLE.h>
+        long previousMillis = 0;
+        int interval = 0;
+        int trilstate = 0;
+        
+        BLEService ledService("180A");  // BLE LED Service
+        
+        // BLE LED Switch Characteristic - custom 128-bit UUID, read and writable by central
+        BLEByteCharacteristic switchCharacteristic("2A57", BLERead | BLEWrite);
+        
+        void setup() {
+          // Serial.begin(9600);
+          // while (!Serial)
+          ;
+        
+          // set built in LED pin to output mode
+          pinMode(6, OUTPUT);
+        
+          // begin initialization
+          if (!BLE.begin()) {
+            // Serial.println("starting Bluetooth® 0 Energy failed!");
+        
+            while (1)
+              ;
+          }
+        
+          // set advertised local name and service UUID:
+          BLE.setLocalName("Nano 33 IoT TRILMOTOR");
+          BLE.setAdvertisedService(ledService);
+        
+          // add the characteristic to the service
+          ledService.addCharacteristic(switchCharacteristic);
+        
+          // add service
+          BLE.addService(ledService);
+        
+          // set the initial value for the characteristic:
+          switchCharacteristic.writeValue(0);
+        
+          // start advertising
+          BLE.advertise();
+        
+          // Serial.println("BLE LED Peripheral");
         }
-      }
-    }
+        
+        void loop() {
+          // listen for BLE peripherals to connect:
+          BLEDevice central = BLE.central();
+        
+          // if a central is connected to peripheral:
+          if (central) {
+            // Serial.print("Connected to central: ");
+            // print the central's MAC address:
+            // Serial.println(central.address());
+        
+            // while the central is still connected to peripheral:
+            while (central.connected()) {
+              // if the remote device wrote to the characteristic,
+              // use the value to control the LED:
+              if (switchCharacteristic.written()) {
+                switch (switchCharacteristic.value()) {  // any value other than 0
+                  case 01:
+                    analogWrite(6, 255);
+                    break;
+                  case 02:
+                    analogWrite(6, 255);
+                    delay(500);
+                    analogWrite(6, 0);
+                    delay(500);
+                    analogWrite(6, 255);
+                    delay(500);
+                    analogWrite(6, 0);
+                    break;
+                  case 03:
+                    analogWrite(6, 255);
+                    delay(1000);
+                    analogWrite(6, 0);
+                    delay(1000);
+                    analogWrite(6, 255);
+                    delay(1000);
+                    analogWrite(6, 0);
+                    break;
+                  case 04:
+                    analogWrite(6, 100);
+                    delay(400);
+                    analogWrite(6, 255);
+                    delay(300);
+                    analogWrite(6, 0);
+                    delay(800);
+                    analogWrite(6, 100);
+                    delay(400);
+                    analogWrite(6, 255);
+                    delay(300);
+                    analogWrite(6, 0);
+                    break;
+                  case 05:
+                    analogWrite(6, 100);
+                    delay(200);
+                    analogWrite(6, 255);
+                    delay(100);
+                    analogWrite(6, 0);
+                    delay(300);
+                    analogWrite(6, 100);
+                    delay(200);
+                    analogWrite(6, 255);
+                    delay(100);
+                    analogWrite(6, 0);
+                    break;
+                  case 06:
+                    analogWrite(6, 255);
+                    delay(250);
+                    analogWrite(6, 150);
+                    delay(200);
+                    analogWrite(6, 0);
+                    delay(300);
+                    analogWrite(6, 255);
+                    delay(250);
+                    analogWrite(6, 150);
+                    delay(200);
+                    analogWrite(6, 0);
+                    break;
+                  case 07:
+                    analogWrite(6, 150);
+                    delay(150);
+                    analogWrite(6, 255);
+                    delay(300);
+                    analogWrite(6, 150);
+                    delay(150);
+                    analogWrite(6, 0);
+                    delay(300);
+                    analogWrite(6, 150);
+                    delay(150);
+                    analogWrite(6, 255);
+                    delay(300);
+                    analogWrite(6, 150);
+                    delay(150);
+                    analogWrite(6, 0);
+                    break;
+                  case 8:
+                    for (int i = 0; i<10; i++){
+                      analogWrite(6, 255);
+                      delay(100);
+                      analogWrite(6, 0);
+                      delay(100);
+                    }
+                    break;
+                  default:
+                    analogWrite(6, 0);
+                    break;
+                }
+              }
+            }
+        
+            // when the central disconnects, print it out:
+            // Serial.print(F("Disconnected from central: "));
+            // Serial.println(central.address());
+            analogWrite(6, 0);
+          }
+        }
+</pre>
+</details>
 
-    // when the central disconnects, print it out:
-    // Serial.print(F("Disconnected from central: "));
-    // Serial.println(central.address());
-    analogWrite(6, 0);
-  }
-}
-```
+---
 
 De verschillende trillingen die naar de pod worden gestuurd, worden grafisch weergegeven in onderstaande figuren. Op de y-as worden de Pulse Width Modulation (PWM)-waarden uitgezet, die evenredig zijn met de trillingsintensiteit van de motor. De x-as vertegenwoordigt de tijd in milliseconden (ms). Door deze grafische voorstelling wordt het eenvoudiger om visueel te interpreteren hoe de trillingen zich voordeden, werden opgewekt en varieerden tijdens de tests.
 
