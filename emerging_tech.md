@@ -17,4 +17,7 @@ Voor het simuleren van het spel met toevoeging van auditieve feedback werd een a
 
 Tijdens de simulatie werden twee audiobestanden (genummerd 003 en 004) op een microSD-kaart geplaatst. Bestand 003 bevat een geluidseffect dat een correcte actie signaleert, terwijl bestand 004 een foutieve actie aangeeft.
 
-De stapsgewijze opbouw van de code is terug te vinden in de map [Graduele opbouw DFPlayer simulatie](https://github.com/your-username/your-repo-name/tree/main/emerging_tech/code/hoofdcode's/Graduele%20opbouw%20simulatie%20DFPlayer%20met%20arduino%20Nano)
+De stapsgewijze opbouw van de code is terug te vinden in de map [Graduele opbouw DFPlayer simulatie](https://github.com/your-username/your-repo-name/tree/main/emerging_tech/code/hoofdcode's/Graduele%20opbouw%20simulatie%20DFPlayer%20met%20arduino%20Nano).
+Alle hoofdcodes zijn terug te vinden in de map [hoofdcode](https://github.com/your-username/your-repo-name/tree/main/emerging_tech/code/hoofdcode's).
+Alle basiscodes, ontwikkeld om snel de schakelingen te testen, zijn beschikbaar in de map [basiscodes](https://github.com/your-username/your-repo-name/tree/main/emerging_tech/code/basisprogramma's).
+
