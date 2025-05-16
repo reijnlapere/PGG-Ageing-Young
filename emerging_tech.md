@@ -13,7 +13,7 @@ Dit schema wordt viermaal herhaald, één keer voor elke pod. Elke pod bestaat u
 Voor het simuleren van het spel met toevoeging van auditieve feedback werd een alternatieve opstelling gebruikt, gebaseerd op een standaard Arduino Nano. Deze keuze werd gemaakt vanwege compatibiliteitsproblemen tussen de Arduino Nano 33 IoT en de DFPlayer Mini module.
 
 <p align="center">
-  <img src="emerging_tech/imgs/Schermafbeelding 2025-05-15 162107.png" width="75%">
+  <img src="emerging_tech/imgs/ARDUINO_NANO_DFPLAYER.png" width="75%">
 
 Tijdens de simulatie werden twee audiobestanden (genummerd 003 en 004) op een microSD-kaart geplaatst. Bestand 003 bevat een geluidseffect dat een correcte actie signaleert, terwijl bestand 004 een foutieve actie aangeeft.
 
