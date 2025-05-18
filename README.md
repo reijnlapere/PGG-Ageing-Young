@@ -831,7 +831,7 @@ Een waardevol inzicht uit de Definition-fase kwam van een kinesist die het poten
 
 _(figuur zuignap)_
 
-Daarnaast werd ook nagedacht over de opvouwbaarheid en het transportgemak van de mat. Het ontwerp is daarom opgedeeld in tien gelijke segmenten, die onderling verbonden zijn door een elastische (rekkende) stof. Deze opdeling maakt het mogelijk om de mat steeds op een eenduidige en compacte manier op te vouwen, waardoor ze eenvoudig kan worden opgeborgen en meegenomen zonder dat het formaat of de vorm onvoorspelbaar verandert.
+Daarnaast werd ook nagedacht over de opvouwbaarheid en het transportgemak van de mat. Het ontwerp is daarom opgedeeld in tien gelijke segmenten, die onderling verbonden zijn door een elastische (rekkende) stof. Deze opdeling maakt het mogelijk om de mat steeds op een eenduidige en compacte manier op te vouwen, waardoor ze eenvoudig kan worden opgeborgen en meegenomen zonder dat het formaat of de vorm verandert.
 
 _(Figuur van mat)_
 
@@ -842,8 +842,9 @@ De twee geteste animaties waren:
 - Breathing light: Een pulserende, langzaam oplichtende animatie die een rustgevende aanduiding geeft van de actieve modus.
 - Rotating light: Een voortdurend draaiende lichtcirkel die dynamisch aangeeft dat de dial zich in een interactieve staat bevindt.
 
-![Breathing GIF](images/GIF%20Breathing.gif)
-<img src="images/GIF%20Rotating.gif" alt="Rotating GIF" width="80%">
+<p align="center">
+  <img src="images/GIF Breathing.gif" width="250" />
+  <img src="images/GIF Rotating.gif" width="250" />
 
 _(foto dial signifier interface)_
 
@@ -868,14 +869,18 @@ In lijn met de visuele stijl van de app werden meerdere varianten van het positi
 
 5. Apps (ontworpen in ProtoPie)
 Er werden drie verschillende lay-outs ontwikkeld:
-- App 1: Twee tabbladen, één voor de mat, één voor het lichaam. Pods kunnen op de mat of het lichaam worden geplaatst door middel van een sleepfunctie. Iconen worden afzonderlijk toegewezen   aan de juiste pods.
+- App 1: Twee tabbladen, één voor de mat, één voor het lichaam. Pods kunnen op de mat of het lichaam worden geplaatst door middel van een sleepfunctie. Iconen worden afzonderlijk toegewezen aan de juiste pods.
 - App 2: Ook twee tabbladen, maar de matweergave is hier visueel aangepast met een visualisatie van de mat, waarop pods direct gesleept kunnen worden naar specifieke posities.
 - App 3: Combineerde de functies van app 2 in één enkel scherm, waarbij de mat en het lichaam boven elkaar worden weergegeven voor een snellere navigatie.
 
-_gifs van de apps maar verkleind_
+<p align="center">
+  <img src="images/GIF Tab en logo van mat toekenen.gif" width="250" />
+  <img src="images/GIF Tab en visuele mat.gif" width="250" />
+  <img src="images/GIF Zonder Tab.gif" width="250" />
+  
 
 ### Resultaten
-
+Alle ruwe date is terug te vinden in [Analyse D3]().
 #### Positioneringsmat
 Drie gebruikers testten de positioneringsmat op uitvouwbaarheid, opberggemak en voorkeur in layout. De versie met vijf posities werd het duidelijkst verkozen: eenvoudiger en visueel beter gestructureerd. Ook waren cirkelvormige iconen favoriet, omdat ze de vorm van de pod het beste representeren. Magnetische feedback werd opgemerkt, al was de intensiteit wisselend.
 
