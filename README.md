@@ -924,8 +924,8 @@ De testresultaten uit Develop 3 tonen aan dat vereenvoudiging, duidelijke struct
 ### Code 
 Alle ontwikkelde code in het kader van dit project is terug te vinden in de submap [Selicode](emerging_tech/code), binnen de folder [Emerging Tech](emerging_tech) . De bedradingsschema’s en toelichting over de opbouw zijn opgenomen in het README-bestand [Emerging_Tech.md](emerging_tech.md)
 
-
-## Tussentijds Overzicht Design Requirements
+## Conclusie
+### Overzicht Design Requirements
 |ID|Design Requirement|Source|Date|
 |:---|:---|:---|:---|
 |**Groep 1**|**Algemeen**|
@@ -961,6 +961,26 @@ Alle ontwikkelde code in het kader van dit project is terug te vinden in de subm
 |5.3|Het systeem ondersteunt maximaal vijf posities om eenvoud en gebruiksgemak te garanderen.|Develop 3|12/05/2025|
 |5.4|De mat biedt duidelijke tactiele feedback bij plaatsing van pods.|Develop 3|12/05/2025|
 
+
+## Kritische reflectie
+Gedurende het volledige academiejaar werd gewerkt aan het Selico-project, met focus op iteratief ontwerpen, testen en verfijnen. Waar in het eerste semester de discovery- en definition-fase centraal stonden, werd in het tweede semester toegewerkt naar concrete prototyping en validatie.
+
+Een sterke projectaanpak lag opnieuw aan de basis: duidelijke taakverdeling, planning en naleving hiervan gecombineerd met heldere communicatie droegen bij aan de algemene voortgang. Het belang van ruwe data en multimodale observatie (audio, video, lichaamstaal) werd vanaf het eerste semester erkend en consequent toegepast in het tweede semester. Elke test werd gefilmd, wat een diepere analyse van gebruikersgedrag mogelijk maakte.
+
+In het eerste semester werd vastgesteld dat de onderzoeksvragen soms te vaag waren geformuleerd. Vanaf het tweede semester werden deze doelgericht geformuleerd en gekoppeld aan de drie develop-fasen, elk met focus op een afgebakend deelaspect van het product. Dit verbeterde de diepgang van de resultaten. Toch bleek het opstellen en hanteren van protocollen in het begin een uitdaging; het grote aantal vragen leidde soms tot onoverzichtelijke tests. In develop 3 werd dit opgelost door het opstellen van een spiekbrief opgemaakt a.d.h.v. bullet points, wat de efficiëntie aanzienlijk verhoogde.
+Wat betreft de prototypes: deze evolueerden van snelle modellen naar meer doordachte uitvoeringen met MDF, 3D-print en Arduino. Vanaf semester 2 werd het werken met karton of papier bewust vermeden, omdat het gebruikte materiaal een invloed uitoefent op de perceptie van testpersonen, en dus niet louter als ontwerpfactor maar als testvariabele werd beschouwd. Hoewel er geen high-end eindprototype werd gerealiseerd, zijn we tevreden over de variatie, technische diepgang en onderbouwde keuzes die gemaakt werden. Ook werden de speedgame-simulatie en Arduino-trilfunctie uitgewerkt, wat veel leerwinst opleverde en een basis vormde voor smart prototyping.
+
+Belangrijk was het vermogen tot kritisch redeneren en itereren. Een voorbeeld hiervan is:  inzichten uit develop 2 werden meegenomen naar develop 3, ondanks dat ze niet meteen eenduidige resultaten opleverden. Dit werd ervaren als een waardevol leerproces.
+
+De gehanteerde methodologie bood een goede balans tussen iteratie, voortgang en revisie. Indien er meer tijd beschikbaar was geweest, hadden we graag dieper ingezoomd op de centrale interface uit develop 2.
+
+Tot slot blijven er enkele onderzoeksvragen openstaan:
+- Hoe wordt gebruikersdata beheerd, en welke impact heeft dit op privacy, toegankelijkheid en gebruiksvriendelijkheid?
+- Kan de centrale interface in de toekomst via een server/cloud geüpdatet worden (remote system adaptability)?
+- Hoe kan het product geïntegreerd worden in de ruimte, zonder de vaste posities opgelegd door de kinesist te verliezen?
+- Hoe kunnen onderdelen verder geoptimaliseerd en verkleind worden?
+
+Over het geheel zijn we zeer tevreden met het resultaat. Het project heeft geleid tot tastbare, onderbouwde en realistische prototypes, en tot een sterke basis voor verdere ontwikkeling.
 
 ## Bronnen
 [^1]: Van Cauwenberge, G. (2024, July 22). Uitdagingen en opportuniteiten in de ouderenzorg: de visie van Johan Staes (VLOZO). NextConomy. 
