@@ -208,7 +208,7 @@ Over het geheel genomen wordt het verloop van het semester als positief ervaren 
 
 ## Develop 1 - Sensorische en Fysieke Evaluatie voor Ergonomische Optimalisatie. (N=5)
 
-Het eindpunt van deze ontwikkelingsfase is een geoptimaliseerd ontwerp van de pods, waarbij we op basis van sensorische en fysieke tests kunnen aantonen welke verbeteringen zijn aangebracht op het gebied van ergonomie en gebruiksgemak.
+Het eindpunt van deze ontwikkelingsfase is een antwoord op de onderzoeksvragen, terug te vinden in [Protocol Develop 1](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/PROTOCOL%20D1%20(1).docx?d=wd670608060e64fdbaccb529f3c922b15&csf=1&web=1&e=BTqGAU), te beantwoorden en een geoptimaliseerd ontwerp van de pods te bekomen, waarbij we op basis van sensorische en fysieke tests kunnen aantonen welke verbeteringen zijn aangebracht op het gebied van ergonomie en gebruiksgemak.
 
 ### Doelstellingen. 
 - De optimale grootte van de pod bepalen op basis van ergonomische en antropometrische analyses.
@@ -521,7 +521,7 @@ Bij het ontwerpen van het opspansysteem stond gebruiksgemak centraal. Daarom wer
 ### Doelstellingen
 In deze ontwikkelingsfase ligt de focus op het ontwerpen en evalueren van interfacevormen die intuïtieve, plezierige en zintuiglijk rijke interacties mogelijk maken voor de gebruiker. Dit sluit aan bij de centrale ambitie om een cognitief toegankelijke, herkenbare en esthetisch aantrekkelijke gebruikerservaring te bieden, met expliciete aandacht voor de menselijke zintuigen en mentale processen.
 
-Via een reeks gebruikerstests werd geëxploreerd:
+Via een reeks gebruikerstests werd getracht de onderzoeksvragen uit [protocol Develop 2](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/PROTOCOL%20DEVELOP%202.2%20MECHANISCHE%20INTERFACES.docx?d=w9a62e91c30be485db418c8779e6c2ca0&csf=1&web=1&e=GBJOff) te beantwoorden, met als doel::
 - Bekomen van een definitief ontwerp van de centrale interface voor spelselectie.
 - Ontwikkelen van een efficiënte interface. (snelle, foutloze interactie met minimale cognitieve en motorische belasting.)
 - Ontwikkelen van een effectieve interface.
@@ -532,7 +532,7 @@ Via een reeks gebruikerstests werd geëxploreerd:
 - Verzamelen van input voor vormelijke en zintuiglijke designkeuzes.
 
 ### Materiaal & methoden
-De test werd uitgevoerd in WZC T’huis te Kortrijk met vier testpersonen uit de doelgroep aan de hand van [protocol Develop 2](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/PROTOCOL%20DEVELOP%202.2%20MECHANISCHE%20INTERFACES.docx?d=w9a62e91c30be485db418c8779e6c2ca0&csf=1&web=1&e=GBJOff). De participanten evalueerden zeven fysieke interfaceprototypes, waaronder: een drukknoppensysteem, een verzonken draaiknop, een slider met geleiding, een interface aan de hand van een gamecard, een capacitive touch interface, een mechanische slider en een interface die gebruik maakt van een _dial_. Deze prototypes worden verder toegelicht onder het hoofdstuk *Prototypes*.
+De test werd uitgevoerd in WZC T’huis te Kortrijk met vier testpersonen uit de doelgroep. De participanten evalueerden zeven fysieke interfaceprototypes, waaronder: een drukknoppensysteem, een verzonken draaiknop, een slider met geleiding, een interface aan de hand van een gamecard, een capacitive touch interface, een mechanische slider en een interface die gebruik maakt van een _dial_. Deze prototypes worden verder toegelicht onder het hoofdstuk *Prototypes*.
 
 De test bestond uit verschillende onderdelen:
 
@@ -818,9 +818,9 @@ Een waardevol inzicht uit de Definition-fase kwam van een kinesist die het poten
 - Aan elke hoek van de mat werd een ronde uitsparing voorzien voor zuignappen met montageclips, wat het mogelijk maakt om de pods verticaal te positioneren.
 - De reeds aanwezige magneten bieden naast tactiele feedback ook structurele bevestiging bij het ophangen van de pods.
 
-_(figuur zuignap)_
 <p align="center">
   <img src="images/Afbeelding van WhatsApp op 2025-05-18 om 19.23.48_5bd1572a.jpg" height="300" />
+  <img src="images/Schermafbeelding 2025-05-18 213117.png" height="300" />
 
 Daarnaast werd ook nagedacht over de opvouwbaarheid en het transportgemak van de mat. Het ontwerp is daarom opgedeeld in tien gelijke segmenten, die onderling verbonden zijn door een elastische (rekkende) stof. Deze opdeling maakt het mogelijk om de mat steeds op een eenduidige en compacte manier op te vouwen, waardoor ze eenvoudig kan worden opgeborgen en meegenomen zonder dat het formaat of de vorm verandert.
 
@@ -915,11 +915,11 @@ De testresultaten uit Develop 3 tonen aan dat vereenvoudiging, duidelijke struct
 
 >  [!IMPORTANT]
 > Design Requirements:
-> D5.2 De positioneringspunten moeten visueel helder zijn.
-> D5.3 Het systeem ondersteunt maximaal vijf posities om eenvoud en gebruiksgemak te garanderen.
-> D5.4 De mat biedt duidelijke tactiele feedback bij plaatsing van pods.
-> D1.3 Iconen zijn uniek en visueel niet overlappend.
-> D4.4 De applicatie beschikt digitale gebruikersgeschiedenis voor professionele opvolging.
+> - D5.2 De positioneringspunten moeten visueel helder zijn.
+> - D5.3 Het systeem ondersteunt maximaal vijf posities om eenvoud en gebruiksgemak te garanderen.
+> - D5.4 De mat biedt duidelijke tactiele feedback bij plaatsing van pods.
+> - D1.3 Iconen zijn uniek en visueel niet overlappend.
+> - D4.4 De applicatie beschikt digitale gebruikersgeschiedenis voor professionele opvolging.
 
 
 
