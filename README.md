@@ -2,7 +2,7 @@
 Met ons product kan de gebruiker (65+ in een woonzorgcentrum) zelfstandig de motoriek en het cognitief vermogen verbeteren aan de hand van de voorgeschreven oefeningen van de kinesist.
 
 Projectteam: Bojan Ronsijn; Reijn Lapere
-Datum: 05/12/2024
+Datum: 20/05/2025
 
 ## Samenvatting
 Het groeiende tekort aan personeel in zorg- en revalidatiecentra, in combinatie met de stijgende vraag naar effectieve revalidatie- en stimulatiemethoden, vraagt om innovatieve oplossingen. Hedendaagse methoden vereisen vaak begeleiding, waardoor de werkdruk voor zorgverleners toeneemt en de autonomie van gebruikers wordt beperkt [^1], [^2], [^3].
@@ -830,11 +830,16 @@ Een waardevol inzicht uit de Definition-fase kwam van een kinesist die het poten
 - De reeds aanwezige magneten bieden naast tactiele feedback ook structurele bevestiging bij het ophangen van de pods.
 
 _(figuur zuignap)_
+<p align="center">
+  <img src="images/Afbeelding van WhatsApp op 2025-05-18 om 19.23.48_5bd1572a.jpg" height="300" />
 
 Daarnaast werd ook nagedacht over de opvouwbaarheid en het transportgemak van de mat. Het ontwerp is daarom opgedeeld in tien gelijke segmenten, die onderling verbonden zijn door een elastische (rekkende) stof. Deze opdeling maakt het mogelijk om de mat steeds op een eenduidige en compacte manier op te vouwen, waardoor ze eenvoudig kan worden opgeborgen en meegenomen zonder dat het formaat of de vorm verandert.
 
-_(Figuur van mat)_
-
+<p align="center">
+  <img src="images/Afbeelding van WhatsApp op 2025-05-18 om 20.24.47_040c60c5.jpg" height="300" />
+  <img src="images/Afbeelding van WhatsApp op 2025-05-18 om 20.24.47_f5fdd366.jpg" height="300" />
+  <img src="images/Afbeelding van WhatsApp op 2025-05-18 om 19.23.48_f6d60581.jpg" height="300" />
+  
 2. LED Signifier Test
 Om visuele terugkoppeling te verbeteren, werden twee lichtsignalen ontwikkeld die aangeven wanneer het systeem zich in een kiesmodus bevindt. Deze signifiers werden ontwikkeld in ProtoPie en geïntegreerd via een doorzichtige ring rond de dial, waarin een smartphone werd geplaatst die de animaties kon tonen.
 
@@ -846,7 +851,9 @@ De twee geteste animaties waren:
   <img src="images/GIF Breathing.gif" width="250" />
   <img src="images/GIF Rotating.gif" width="250" />
 
-_(foto dial signifier interface)_
+<p align="center">
+  <img src="images/Afbeelding van WhatsApp op 2025-05-18 om 19.23.48_1daddd38.jpg" width="250" />
+  <img src="images/Afbeelding van WhatsApp op 2025-05-18 om 19.23.48_844a9431.jpg" width="250" />
 
 3. Vernieuwde Dial met Tekstuele Signifiers
 De dial werd verder geoptimaliseerd op basis van de feedback uit Develop 2. Nieuwe toevoegingen zijn:
