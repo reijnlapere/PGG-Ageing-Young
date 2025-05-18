@@ -921,7 +921,8 @@ De testresultaten uit Develop 3 tonen aan dat vereenvoudiging, duidelijke struct
 > - D1.3 Iconen zijn uniek en visueel niet overlappend.
 > - D4.4 De applicatie beschikt digitale gebruikersgeschiedenis voor professionele opvolging.
 
-
+### Code 
+Alle ontwikkelde code in het kader van dit project is terug te vinden in de submap [Selicode](emerging_tech/code), binnen de folder [Emerging Tech](emerging_tech) . De bedradingsschema’s en toelichting over de opbouw zijn opgenomen in het README-bestand [Emerging_Tech.md](emerging_tech.md)
 
 
 ## Tussentijds Overzicht Design Requirements
