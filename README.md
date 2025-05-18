@@ -179,8 +179,7 @@ Uit de puntenmatrix blijkt dat kinesisten de voorkeur geven aan het gebruik van 
 
 >  [!IMPORTANT]
 > Design Requirements:
-> - D1.2 De positiemat is optioneel beschikbaar en ontworpen voor middelmatige bewegingen te ondersteunen. 
-> - D1.3 De moeilijkheidsgraad van de spellen neemt progressief toe naarmate de gebruiker langer bezig is.
+> - D1.2 De moeilijkheidsgraad van de spellen neemt progressief toe naarmate de gebruiker langer bezig is.
 > - D2.1 De pods moeten opgemerkt worden door de gebruiker zowel op de tafel als op de ledematen.
 > - D2.2 De pods zijn eenvoudig te positioneren.
 > - D2.3 De pods zijn eenvoudig in te drukken en reageren gevoelig op druk voor een intuïtieve gebruikerservaring.
@@ -191,19 +190,8 @@ Uit de puntenmatrix blijkt dat kinesisten de voorkeur geven aan het gebruik van 
 > - D4.1 De mobiele applicatie is overzichtelijk en efficiënt te gebruiken (binnen een tijd van..).
 > - D4.2 De mobiele applicatie is compatibel met smartphones en computers.
 > - D4.3 De mobiele applicatie beschikt over een printfunctie.
+> - D5.1 De positioneringsmat voor de voeten is optioneel beschikbaar en ontworpen voor middelmatige bewegingen te ondersteunen.
 
-
-### Bill of materials
-- Force Sense Resistors (FSRs)
-- RGB Led's
-- Processor (Arduino)
-- Versterker (MP3-Module)
-- Voeding
-- ERM-motor
-- Antis-slip (rubber, PVC)
-- Scharnieren
-- Kabels (geleiders)
-  
 
 ### Kritische reflectie
 Tijdens het eerste semester is gewerkt aan het project Selico, waarbij de focus lag op de discovery- en definition-fase. Dit proces heeft niet alleen geleid tot waardevolle resultaten, maar ook tot belangrijke inzichten in de werkwijze en aanpak.
@@ -229,7 +217,7 @@ Het eindpunt van deze ontwikkelingsfase is een geoptimaliseerd ontwerp van de po
 - De krachtregistratie tijdens het gebruik analyseren om optimale drukverdeling te verzekeren.
 
 ### Materiaal en methoden 
-Deze test richtte zich voornamelijk op de sensorische en fysieke aspecten van de pods, oftewel "the sense" en "the body", met als doel de ergonomie te verbeteren. Dit werd onderzocht aan de hand van antropometrische berekeningen, gebruikmakend van de DINBelg-database[^4], en verschillende tests, waaronder: welke pod-grootte het meest geschikt is, hoe goed gebruikers de trillingen waarnemen, hoe eenvoudig de pods te bevestigen zijn en hoeveel druk erop wordt uitgeoefend tijdens het gebruik. De test werd uitgevoerd met vijf deelnemers: Christina, Francine, Armand, Robert en Walter, allen ouder dan 65 jaar en met uiteenlopende motorische beperkingen
+Deze test richtte zich voornamelijk op de sensorische en fysieke aspecten van de pods, oftewel "the sense" en "the body", met als doel de ergonomie te verbeteren. Dit werd onderzocht aan de hand van antropometrische berekeningen, gebruikmakend van de DINBelg-database[^4], en verschillende tests, waaronder: welke pod-grootte het meest geschikt is, hoe goed gebruikers de trillingen waarnemen, hoe eenvoudig de pods te bevestigen zijn en hoeveel druk erop wordt uitgeoefend tijdens het gebruik. De test werd uitgevoerd met vijf deelnemers: Christina, Francine, Armand, Robert en Walter, allen ouder dan 65 jaar en met uiteenlopende motorische beperkingen. De structuur van de test is terug te vinden in het [Protocol Develop 1](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/PROTOCOL%20D1%20(1).docx?d=wd670608060e64fdbaccb529f3c922b15&csf=1&web=1&e=BTqGAU)
 
 - Pod 1 – Design for the Mean. 
 - Pod 2 – Design for the Tall. 
@@ -247,6 +235,7 @@ De benodigde prototypes en bijbehorende designkeuzes worden hieronder uitgebreid
 kon de drukkracht worden berekend en vervolgens de benodigde veerconstante worden bepaald. Dit was essentieel om te garanderen dat de pod correct werd ingedrukt en het signaal succesvol werd doorgegeven aan de centrale interface. Daarnaast zijn verschillende handelingen, zoals het gebruik van de opspanband, getimed. Dit diende als indicator voor de gebruiksvriendelijkheid en intuïtiviteit van het product. De metingen zijn telkens uitgevoerd zonder voorafgaande instructie aan de gebruiker over de werking van het systeem. Ten slotte zijn diverse resultaten vastgelegd met behulp van een SUS-systeem (System Usability Scale), waarbij gebruikers verschillende aspecten van het product hebben beoordeeld op een schaal van 1 tot 5. Dit maakt het mogelijk om subjectieve voorkeuren en ervaringen te analyseren en bredere trends in de gebruiksvriendelijkheid van het ontwerp vast te stellen.
 
 ### Resultaten
+Alle ruwe data afkomstig uit de test is terug te vinden in [Report Develop 1](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/ANALYSE%20D1.docx?d=w3240dc8576814b338d3c99e8e6cf9007&csf=1&web=1&e=Gf9v5o)
 Grootte van de Pods
 Uit de testresultaten (Tabel 1) blijkt dat Pod 1 het best werd beoordeeld met een gemiddelde score van 4,2/5. Pod 3 behaalde een 3,8/5 en Pod 2 had de laagste score 3,0/5.  
 
@@ -543,7 +532,7 @@ Via een reeks gebruikerstests werd geëxploreerd:
 - Verzamelen van input voor vormelijke en zintuiglijke designkeuzes.
 
 ### Materiaal & methoden
-De test werd uitgevoerd in WZC T’huis te Kortrijk met vier testpersonen uit de doelgroep. De participanten evalueerden zeven fysieke interfaceprototypes, waaronder: een drukknoppensysteem, een verzonken draaiknop, een slider met geleiding, een interface aan de hand van een gamecard, een capacitive touch interface, een mechanische slider en een interface die gebruik maakt van een _dial_. Deze prototypes worden verder toegelicht onder het hoofdstuk *Prototypes*.
+De test werd uitgevoerd in WZC T’huis te Kortrijk met vier testpersonen uit de doelgroep aan de hand van [protocol Develop 2](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/PROTOCOL%20DEVELOP%202.2%20MECHANISCHE%20INTERFACES.docx?d=w9a62e91c30be485db418c8779e6c2ca0&csf=1&web=1&e=GBJOff). De participanten evalueerden zeven fysieke interfaceprototypes, waaronder: een drukknoppensysteem, een verzonken draaiknop, een slider met geleiding, een interface aan de hand van een gamecard, een capacitive touch interface, een mechanische slider en een interface die gebruik maakt van een _dial_. Deze prototypes worden verder toegelicht onder het hoofdstuk *Prototypes*.
 
 De test bestond uit verschillende onderdelen:
 
@@ -646,7 +635,7 @@ De iconografie werd gepresenteerd op een visueel bord, waarop een opsplitsing we
   <img src="images/interface knopjes.jpg"width=80%">
 
 ### Resultaten
-De testresultaten geven een duidelijk beeld van hoe de verschillende interfaceprototypes werden ervaren. In dit onderdeel worden de voorkeuren van de gebruikers toegelicht aan de hand van hun topkeuzes, gecombineerd met inzichten uit meetdata en observaties.
+De testresultaten, terug te vinden [Report Develop 2](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/ANALYSE%20DEVELOP%202%20MECHANISCHE%20INTERFACES.docx?d=w82aa03cfb9954592b6fa05ab1bc5d081&csf=1&web=1&e=PIpvTK), geven een duidelijk beeld van hoe de verschillende interfaceprototypes werden ervaren. In dit onderdeel worden de voorkeuren van de gebruikers toegelicht aan de hand van hun topkeuzes, gecombineerd met inzichten uit meetdata en observaties.
 
 ---
 
@@ -764,7 +753,7 @@ De doelstellingen van deze test waren:
 ### Materiaal en Methoden
 De testen vonden opnieuw plaats in het woonzorgcentrum WZC T’huis te Kortrijk, met deelname van zes testpersonen: drie senioren en drie professionals (kinesisten en begeleiders). Het doel van de testreeks was om inzichten te verwerven in de gebruiksvriendelijkheid, interpretatie en voorkeuren rond verschillende aspecten van het product. De test was opgebouwd rond vijf onderzoeksvragen (zie boven), en werd uitgevoerd aan de hand van observaties, tijdmetingen, interviews, foutenanalyses en vragenlijsten.
 
-De volledige testopzet werd uitgevoerd volgens vijf opeenvolgende fases, zoals gedetailleerd beschreven in het [protocol D3](), waarbij elke fase gericht was op een specifiek aspect van de gebruikerservaring.
+De volledige testopzet werd uitgevoerd volgens vijf opeenvolgende fases, zoals gedetailleerd beschreven in het [protocol Develop 3](), waarbij elke fase gericht was op een specifiek aspect van de gebruikerservaring.
 
 #### Introductie en Kwalificatie
 
@@ -887,7 +876,7 @@ Er werden drie verschillende lay-outs ontwikkeld:
   
 
 ### Resultaten
-Alle ruwe date is terug te vinden in [Analyse D3]().
+Alle ruwe date is terug te vinden in [Report Develop 3]().
 #### Positioneringsmat
 Drie gebruikers testten de positioneringsmat op uitvouwbaarheid, opberggemak en voorkeur in layout. De versie met vijf posities werd het duidelijkst verkozen: eenvoudiger en visueel beter gestructureerd. Ook waren cirkelvormige iconen favoriet, omdat ze de vorm van de pod het beste representeren. Magnetische feedback werd opgemerkt, al was de intensiteit wisselend.
 
@@ -924,6 +913,15 @@ De testresultaten uit Develop 3 tonen aan dat vereenvoudiging, duidelijke struct
 - Tactiele feedback aan de hand van magneten is gewenst maar moet consistenter. (door magneten te versterken).
 - Dial met tekstuele ondersteuning is bewezen sneller en duidelijker.
 
+>  [!IMPORTANT]
+> Design Requirements:
+> D5.2 De positioneringspunten moeten visueel helder zijn.
+> D5.3 Het systeem ondersteunt maximaal vijf posities om eenvoud en gebruiksgemak te garanderen.
+> D5.4 De mat biedt duidelijke tactiele feedback bij plaatsing van pods.
+> D1.3 Iconen zijn uniek en visueel niet overlappend.
+> D4.4 De applicatie beschikt digitale gebruikersgeschiedenis voor professionele opvolging.
+
+
 
 
 ## Tussentijds Overzicht Design Requirements
@@ -931,15 +929,15 @@ De testresultaten uit Develop 3 tonen aan dat vereenvoudiging, duidelijke struct
 |:---|:---|:---|:---|
 |**Groep 1**|**Algemeen**|
 |1.1|De spellen maken onderscheid tussen het onthouden en reproduceren van acties.|Expert interview|16/10/2024|
-|1.2|De positiemat is optioneel beschikbaar en ontworpen voor middelmatige bewegingen te ondersteunen. |User test W2|10/12/2024|
-|1.3|De moeilijkheidsgraad van de spellen neemt progressief toe naarmate de gebruiker langer bezig is.|User test W2|10/12/2024|
+|1.2|De moeilijkheidsgraad van de spellen neemt progressief toe naarmate de gebruiker langer bezig is.|User test W2|10/12/2024|
+|1.3|Iconen zijn uniek en visueel niet overlappend.|Develop 3|12/05/2025|
 |**Groep 2**|**Pods**|
 |2.1|De pods moeten opgemerkt worden door de gebruiker zowel op de tafel als op de ledematen.|User test W2|10/12/2024|
 |2.2|De pods zijn eenvoudig te positioneren.|User test W1|02/12/2024|
 |2.3|De pods zijn eenvoudig in te drukken en reageren gevoelig op druk voor een intuïtieve gebruikerservaring.|User test W1|02/12/2024|
 |2.4|De Pods moeten afgestemd zijn op de gemiddelde gebruiker, _design for the mean_ voor het optimaliseren van de ergonomie.|Develop 1|10/03/2025|
 |2.5|De pods moeten beschikken over zowel visueel als sensorische signalen die direct opgemerkt moet kunnen worden.|Develop 1|10/03/2025|
-|2.6|Het opspannen en verwijderen van de band moet vlot en intuïtief verlopen en binnen 45 seconden voltooid zijn.|Develop 1|10/03/2025|
+|2.6|Het opspannen en verwijderen van de band moet binnen 45 seconden voltooid zijn.|Develop 1|10/03/2025|
 |2.7|De pods moeten bestand zijn tegen uiteenlopende drukwaarden (variërend van lichte aanrakingen tot stevige indrukken).|Develop 1|10/03/2025|
 |**Groep 3**|**Centrale interface en componenten**|
 |3.1|De interface kan worden bediend binnen het bereik van de gebruiker (percentage).|User test W2|10/12/2024|
@@ -952,9 +950,17 @@ De testresultaten uit Develop 3 tonen aan dat vereenvoudiging, duidelijke struct
 |3.8|De interactie moet intuïtief en laagdrempelig zijn, met duidelijke visuele, tactiele en auditieve feedback.|Develop 2|18/04/2025|
 |3.9|De gebruiker moet binnen 40 seconden een spel kunnen selecteren.|Develop 2|18/04/2025|
 |**Groep 4**|**Mobiele interface**|
-|4.1|De mobiele applicatie is overzichtelijk en efficiënt te gebruiken (binnen een tijd van..).|User test W2|10/12/2024|
-|4.2|De mobiele applicatie is compatibel met smartphones en computers.|User test W1|02/12/2024|
-|4.3|De mobiele applicatie beschikt over een printfunctie.|User test W1|02/12/2024|
+|4.1|De mobiele applicatie is overzichtelijk en efficiënt te gebruiken (binnen een tijd van 20 sec).|User test W2|10/12/2024|
+|4.2|De applicatie is compatibel met smartphones en computers.|User test W1|02/12/2024|
+|4.3|De applicatie beschikt over een printfunctie.|User test W1|02/12/2024|
+|4.4|De applicatie beschikt digitale gebruikersgeschiedenis voor professionele opvolging.|Develop 3|12/05/2025|
+|**Groep 5**|**Positioneringsmat**|
+|5.1|De positioneringsmat voor de voeten is optioneel beschikbaar en ontworpen voor middelmatige bewegingen te ondersteunen. |User test W2|10/12/2024|
+|5.2|De positioneringspunten moeten visueel helder zijn.|Develop 3|12/05/2025|
+|5.3|Het systeem ondersteunt maximaal vijf posities om eenvoud en gebruiksgemak te garanderen.|Develop 3|12/05/2025|
+|5.4|De mat biedt duidelijke tactiele feedback bij plaatsing van pods.|Develop 3|12/05/2025|
+
+
 ## Bronnen
 [^1]: Van Cauwenberge, G. (2024, July 22). Uitdagingen en opportuniteiten in de ouderenzorg: de visie van Johan Staes (VLOZO). NextConomy. 
 https://www.nextconomy.be/2024/07/uitdagingen-en-opportuniteiten-in-de-ouderenzorg-de-visie-van-johan-staes-vlozo/ 
