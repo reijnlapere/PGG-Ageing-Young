@@ -925,6 +925,7 @@ De testresultaten uit Develop 3 tonen aan dat vereenvoudiging, duidelijke struct
 Alle ontwikkelde code in het kader van dit project is terug te vinden in de submap [Selicode](emerging_tech/code), binnen de folder [Emerging Tech](emerging_tech) . De bedradingsschema’s en toelichting over de opbouw zijn opgenomen in het README-bestand [Emerging_Tech.md](emerging_tech.md)
 
 ## Conclusie
+_slotbevinding adhv renders_
 ### Overzicht Design Requirements
 |ID|Design Requirement|Source|Date|
 |:---|:---|:---|:---|
@@ -981,6 +982,10 @@ Tot slot blijven er enkele onderzoeksvragen openstaan:
 - Hoe kunnen onderdelen verder geoptimaliseerd en verkleind worden?
 
 Over het geheel zijn we zeer tevreden met het resultaat. Het project heeft geleid tot tastbare, onderbouwde en realistische prototypes, en tot een sterke basis voor verdere ontwikkeling.
+
+## Technische beschrijving
+...
+
 
 ## Bronnen
 [^1]: Van Cauwenberge, G. (2024, July 22). Uitdagingen en opportuniteiten in de ouderenzorg: de visie van Johan Staes (VLOZO). NextConomy. 
