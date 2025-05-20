@@ -992,15 +992,15 @@ Let op: de vermelde prijzen zijn indicatief en gebaseerd op marktonderzoek op he
 | 1  | MDF plaat (3 mm, gelasercut)              | 1      | €5,00            | €5,00        | Behuizing (18x20x22 cm)                |
 | 2  | 3D-geprinte dial                          | 1      | €2,00            | €2,00        | PLA                                    |
 | 3  | Rotary encoder module                     | 1      | €1,50            | €1,50        | Bron [^7]                              |
-| 4  | Rode drukknop (vergrendelend)             | 1      | €5,50            | €5,50        | On/Off schakelaar [bron "On/off"]      |
-| 5  | Arduino Nano                              | 1      | €4,00            | €4,00        | [bron "Arduino Nano"]                  |
-| 6  | DFPlayer Mini MP3 module                  | 1      | €3,00            | €3,00        | [bron "Dfplayer"]                      |
-| 7  | Mini speaker (3W, 8Ω)                     | 1      | €1,50            | €1,50        | [bron "Speaker"]                       |
+| 4  | Rode drukknop (vergrendelend)             | 1      | €5,50            | €5,50        | On/Off schakelaar Bron [^12]      |
+| 5  | Arduino Nano                              | 1      | €4,00            | €4,00        | Bron [^8]                  |
+| 6  | DFPlayer Mini MP3 module                  | 1      | €3,00            | €3,00        | Bron [^9]                      |
+| 7  | Mini speaker (3W, 8Ω)                     | 1      | €1,50            | €1,50        | Bron [^10]                       |
 | 8  | Antislip voetjes (rubber)                 | 4      | €0,25            | €1,00        | Voor stabiliteit                       |
 | 9  | Ladegeleiders                             | 1 set  | €2,00            | €2,00        | Voor mat-lade                          |
 | 10 | Schuifmechanisme (voor pods)              | 1      | €2,00            | €2,00        | Kan ook 3D-geprint zijn                |
 | 11 | Voedingsadapter 5V/2A (USB/barrel jack)   | 1      | €5,00            | €5,00        | Voor voeding via stopcontact           |
-| 12 | Ring-LED                                  | 1      | €5,00            | €5,00        | [bron "Ringled"]                       |
+| 12 | Ring-LED                                  | 1      | €5,00            | €5,00        | Bron [^11]                       |
 | 13 | Plexiglas ring                            | 1      | €1,00            | €1,00        | Zelf gelasercut                        |
 
 **Totale geschatte kostprijs centrale interface:** ± €39,50
@@ -1013,10 +1013,10 @@ Let op: de vermelde prijzen zijn indicatief en gebaseerd op marktonderzoek op he
 | 2  | 3D-geprinte buitenring                    | 1      | €1,00            | €1,00        | PLA                                     |
 | 3  | Plexiglas bovenkant (drukvlak)            | 1      | €1,00            | €1,00        | Ø 10 cm, 3 mm dik                        |
 | 4  | Drukveren                                 | 3      | €0,30            | €0,90        | Kleine metalen veren                    |
-| 5  | Trilmotor (vibration motor v1.3)          | 1      | €2,50            | €2,50        | [bron "Bibration"]                      |
-| 6  | Ring-LED                                  | 1      | €5,00            | €5,00        | [bron "Ringled"]                        |
+| 5  | Trilmotor (vibration motor v1.3)          | 1      | €2,50            | €2,50        | Bron [^13]                      |
+| 6  | Ring-LED                                  | 1      | €5,00            | €5,00        | Bron [^11]                        |
 | 7  | Drukknop (tactile switch)                 | 1      | €0,20            | €0,20        | 6x6mm of gelijkaardig                   |
-| 8  | Arduino Nano 33 IoT                       | 1      | €18,00           | €18,00       | [bron "Arduino Nano 33 IoT"]           |
+| 8  | Arduino Nano 33 IoT                       | 1      | €18,00           | €18,00       | Bron [^8]           |
 | 9  | 9V batterij                               | 1      | €5,70            | €5,70        | Alkaline batterij                       |
 | 10 | 9V batterijclip met connector             | 1      | €0,50            | €0,50        | Voor aansluiting Arduino                |
 | 11 | Magneetje                                 | 1      | €0,50            | €0,50        | Voor klikmechanisme                     |
@@ -1029,7 +1029,7 @@ Voor 4 pods: ± €147,60
 | Nr | Component                     | Aantal | Richtprijs/stuk | Totaalprijs | Opmerkingen                             |
 |----|-------------------------------|--------|------------------|--------------|------------------------------------------|
 | 1  | Stof (1550 mm x 335 mm)       | 1      | €6,00            | €6,00        | Polyester of canvas                      |
-| 2  | Magneetjes                    | 5      | €0,50            | €2,00        | Innaaien of lijmen tussen stoflagen      |
+| 2  | Magneetjes                    | 5      | €0,50            | €2,00        | Bron [^14]      |
 | 3  | Bedrukking/markering          | 1      | €3,00            | €3,00        | Textielstift, flexfolie of zeefdruk      |
 
 **Totale geschatte kostprijs mat:** ± €11,00
@@ -1065,36 +1065,42 @@ Voor 4 pods: ± €147,60
 Alle ontwikkelde code in het kader van dit project is terug te vinden in de submap [Selicode](emerging_tech/code), binnen de folder [Emerging Tech](emerging_tech) . De bedradingsschema’s en toelichting over de opbouw zijn opgenomen in het README-bestand [Emerging_Tech.md](emerging_tech.md)
 
 
-## Bronnen
-[1]: Van Cauwenberge, G. (2024, July 22). Uitdagingen en opportuniteiten in de ouderenzorg: de visie van Johan Staes (VLOZO). NextConomy. 
+
+[^1]: Van Cauwenberge, G. (2024, July 22). Uitdagingen en opportuniteiten in de ouderenzorg: de visie van Johan Staes (VLOZO). NextConomy. 
 https://www.nextconomy.be/2024/07/uitdagingen-en-opportuniteiten-in-de-ouderenzorg-de-visie-van-johan-staes-vlozo/ 
 ![image](https://github.com/user-attachments/assets/10a75d03-0ad0-4445-872b-5197d7b23676)
 
-[2]: Personeelstekort dwingt Vlaamse ziekenhuizen en woonzorgcentra om zorgaanbod af te bouwen - Zorgnet-Icuro. (n.d.-b). Zorgnet-Icuro.
+[^2]: Personeelstekort dwingt Vlaamse ziekenhuizen en woonzorgcentra om zorgaanbod af te bouwen - Zorgnet-Icuro. (n.d.-b). Zorgnet-Icuro.
  https://www.zorgneticuro.be/nieuws/personeelstekort-dwingt-vlaamse-ziekenhuizen-en-woonzorgcentra-om-zorgaanbod-af-te-bouwen 
 ![image](https://github.com/user-attachments/assets/dbe41b5f-4a3f-4836-806c-c5027ac03125)
 
-[3]: Recordaantal woonzorgcentra op zwarte lijst door personeelstekort. (n.d.). 
+[^3]: Recordaantal woonzorgcentra op zwarte lijst door personeelstekort. (n.d.). 
 PVDA. https://www.pvda.be/nieuws/recordaantal-woonzorgcentra-op-zwarte-lijst-door-personeelstekort 
 ![image](https://github.com/user-attachments/assets/baa2000e-2909-43cf-a9a6-97b5d82d9014)
 
-[4]: Ouderen lichaamsafmetingen. (n.d.). https://www.dinbelg.be/ouderentotaal.htm
+[^4]: Ouderen lichaamsafmetingen. (n.d.). https://www.dinbelg.be/ouderentotaal.htm
 
-[5]: Rootsmann. (n.d.). Hoe hoog moet een eettafel zijn? Rootsmann.nl. https://www.rootsmann.nl/blogs/blog/hoe-hoog-moet-een-eettafel-zijn/#:~:text=De%20hoogte%20van%20een%20gemiddelde,75%20tot%2080%20centimeter%20hoog.
+[^5]: Rootsmann. (n.d.). Hoe hoog moet een eettafel zijn? Rootsmann.nl. https://www.rootsmann.nl/blogs/blog/hoe-hoog-moet-een-eettafel-zijn/#:~:text=De%20hoogte%20van%20een%20gemiddelde,75%20tot%2080%20centimeter%20hoog.
 
-[6]: Buro. (2024, January 3). Zo bepaal je de ideale hoogte voor je eettafel en eetkamerstoelen. Wiegers XL Meubels En Tuinmeubelen. https://www.wiegersxl.nl/advies/hoogte-eettafel-en-eetkamerstoelen/#:~:text=De%20gemiddelde%20zithoogte%20van%20een,zithoogte%20rond%20de%2040%20cm.
+[^6]: Buro. (2024, January 3). Zo bepaal je de ideale hoogte voor je eettafel en eetkamerstoelen. Wiegers XL Meubels En Tuinmeubelen. https://www.wiegersxl.nl/advies/hoogte-eettafel-en-eetkamerstoelen/#:~:text=De%20gemiddelde%20zithoogte%20van%20een,zithoogte%20rond%20de%2040%20cm.
 
-[7]: Rotary Encoder + extras. (n.d.). https://www.gotron.be/rotary-encoder-extras.html
+[^7]: Rotary Encoder + extras. (n.d.). https://www.gotron.be/rotary-encoder-extras.html
 
-[8]:
+[^8]: Arduino Nano - board layout, Pinout, I/O, power, and specifications. (n.d.). https://datacapturecontrol.com/articles/io-devices/microcontrollers/arduino-nano
 
-[9]:
+[^9]: DFPlayer Mini MP3 DF Player Modul Modul Musik Audio Neue SHI Stimme R5 NEU. | EBay. (n.d.). eBay. https://www.benl.ebay.be/itm/396578089783?chn=ps&norover=1&mkevt=1&mkrid=1553-169450-859802-5&mkcid=2&itemid=396578089783&targetid=295607582760&device=c&mktype=pla&googleloc=9197576&poi=&campaignid=20804073039&mkgroupid=156900513998&rlsatarget=pla-295607582760&abcId=&merchantid=661174079&gad_source=1&gad_campaignid=20804073039&gclid=CjwKCAjwravBBhBjEiwAIr30VL7FoOnO53KmbaFr-q7PCYx7LIFRsgIcEQTu1RXBRr9AsIG2g283sRoCZEwQAvD_BwE
 
-[10]:
+[^10]: Speaker 3 Watt 8 Ohm PH2.0 Interface, Compatible with Arduino Motherboard. (n.d.). Youyeetoo Geeker Shop. https://www.youyeetoo.com/products/speaker-3-watt-8-ohm
 
-[11]:
+[^11]: DollaTek WS2812 5050 RGB 24 Bit LED Ring Lamp with Integrated Drivers : Amazon.com.be: Tools & Home Improvement. (n.d.). https://www.amazon.com.be/-/en/DollaTek-WS2812-5050-Integrated-Drivers/dp/B07DKJ6SFR/ref=asc_df_B07DKJ6SFR?mcid=820612e414543b96a175f14e554e5670&tag=begogshpadde-21&linkCode=df0&hvadid=712673940425&hvpos=&hvnetw=g&hvrand=2087660315474414396&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9217373&hvtargid=pla-1415436003012&psc=1&language=en_GB&gad_source=1
 
-[12]: 
+[^12]: Brukschakelaar. https://www.allekabels.be/schakelaar/7303/1067607/drukschakelaar.html?mc=nl-be&gad_source=1&gad_campaignid=19947950068&gclid=CjwKCAjwravBBhBjEiwAIr30VI6imFZCYM1RvtZJmmqALltnbT8VFORGLBTRUsiiTuvLU6Z7FrnhYhoCcfUQAvD_BwE
+
+[^13]: Grove - vibratie motor. (n.d.). Kiwi Electronics. https://www.kiwi-electronics.com/nl/grove-vibratie-motor-2036?country=BE&gad_source=1&gad_campaignid=1016918834&gclid=CjwKCAjwravBBhBjEiwAIr30VNtFswBms1OIRngQddJxD6-9F1gNecXir2xdZShwSAOWXg2eb3Hw5hoC2_8QAvD_BwE
+
+[^14]: Vinabo 60 x Neodymium Magnets Small Round 6 x 3 mm Notice Board Magnets for DIY Office Magnetic Board Fridge Conical Magnets Notes : Amazon.com.be: Industrial & Scientific. (n.d.). https://www.amazon.com.be/-/en/Vinabo-Neodymium-Magnets-Magnetic-Conical/dp/B0B5RGXYQM/ref=sr_1_6?adgrpid=146814183315&dib=eyJ2IjoiMSJ9.q7FGEBJSrAk0IbPZi2EIStxZ_rDh_O8PWgTc06tHg_WLjmgwAfquyDfeU_kTA8bKxguyXcUXt0XZxxD2yt09816TaAYTcqC1_mysorSSCn60TYPHkazerttZjPns8gLmC0NdvJC5wYuFws2arTtcEDVi3_T9UnlFVpov5JL7nvzJAh4rASUNTl5VQSvsdQoCW4ValnTsHcQzaHdDqmVNCNFkjm_U4hvxDGENxVIN_TvYH9q77ThULRoBrguY0aVvV3oIvjsL_dSBlIpmVHGfZGBxJn9VhlLUZQRIiL5WcfU.tkrJ61J5H8yRqiQY1J-7J9PdvxF8bZ3Xt3pMR4kPsXw&dib_tag=se&hvadid=648002149854&hvdev=c&hvlocphy=9197103&hvnetw=g&hvqmt=b&hvrand=5450754438612683029&hvtargid=kwd-298464296068&hydadcr=27740_2337307&keywords=small+powerful+magnets&mcid=ff090c06778832f8b0d1161c3093b042&qid=1747762707&sr=8-6
+
+
 ## Bijlagen
 - **Discovery**
     - protocols
@@ -1132,3 +1138,5 @@ PVDA. https://www.pvda.be/nieuws/recordaantal-woonzorgcentra-op-zwarte-lijst-doo
 - **Develop 2**
     - [protocol D2](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/PROTOCOL%20DEVELOP%202.2%20MECHANISCHE%20INTERFACES.docx?d=w9a62e91c30be485db418c8779e6c2ca0&csf=1&web=1&e=GBJOff)
     - [report D2](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/ANALYSE%20DEVELOP%202%20MECHANISCHE%20INTERFACES.docx?d=w82aa03cfb9954592b6fa05ab1bc5d081&csf=1&web=1&e=PIpvTK)
+
+## Bronnen
