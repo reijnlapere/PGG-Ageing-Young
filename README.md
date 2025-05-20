@@ -923,7 +923,20 @@ De testresultaten uit Develop 3 tonen aan dat vereenvoudiging, duidelijke struct
 
 
 ## Conclusie
-_slotbevinding adhv renders_
+Na een jaar werk zijn we binnen het Selico-project tot een finaal prototype gekomen. Elk onderdeel van het ontwerp werd onderbouwd met gebruikerstesten om zo tot een product te komen dat intuïtief, aantrekkelijk, gebruiksvriendelijk en efficiënt is in zijn werking. Selico werd ontwikkeld met als doel gepersonaliseerde en stimulerende beweging aan te bieden binnen woonzorgcentra, met positieve effecten op de mentale en cognitieve gezondheid van bewoners, onafhankelijk van het aanwezige zorgpersoneel.
+
+Het systeem bestaat uit vier pods. Deze geven licht, trillen, kunnen ingedrukt worden en bieden tactiele feedback dankzij een geïntegreerde magneet. Deze pods zijn inzetbaar in de verschillende spellen, en kunnen eenvoudig bevestigd worden aan het opdraaisysteem.
+
+_foto_
+
+De centrale interface fungeert als opbergruimte en navigatiemiddel doorheen het systeem. Met behulp van een draaiknop, opberglades en een hendel is het systeem mobiel en praktisch in gebruik. Het ontwerp is geïnspireerd op het uiterlijk van een retro radio, om een gevoel van herkenning op te roepen en de gebruiker visueel te triggeren.
+
+_foto_
+
+Voor de positionering van de pods ontwikkelden we drie fysieke oplossingen: een opvouwbare mat met vaste posities, een opspansysteem dat rond armen en benen gespannen kan worden, en een bijhorende mobiele applicatie die de kinesist ondersteunt in het simuleren van haalbare oefeningen. Tot slot is er het positioneringsformulier dat eenvoudig en visueel de nodige opstellingen weergeeft per gebruiker.
+
+Selico is hiermee een modulair systeem geworden dat inspeelt op de noden van de gebruiker én het zorgpersoneel. 
+> De brug tussen beweging, spel en zorg.
 ### Overzicht Design Requirements
 |ID|Design Requirement|Source|Date|
 |:---|:---|:---|:---|
