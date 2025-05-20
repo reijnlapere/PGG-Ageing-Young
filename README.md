@@ -921,8 +921,6 @@ De testresultaten uit Develop 3 tonen aan dat vereenvoudiging, duidelijke struct
 > - D1.3 Iconen zijn uniek en visueel niet overlappend.
 > - D4.4 De applicatie beschikt digitale gebruikersgeschiedenis voor professionele opvolging.
 
-### Code 
-Alle ontwikkelde code in het kader van dit project is terug te vinden in de submap [Selicode](emerging_tech/code), binnen de folder [Emerging Tech](emerging_tech) . De bedradingsschema’s en toelichting over de opbouw zijn opgenomen in het README-bestand [Emerging_Tech.md](emerging_tech.md)
 
 ## Conclusie
 _slotbevinding adhv renders_
@@ -984,31 +982,119 @@ Tot slot blijven er enkele onderzoeksvragen openstaan:
 Over het geheel zijn we zeer tevreden met het resultaat. Het project heeft geleid tot tastbare, onderbouwde en realistische prototypes, en tot een sterke basis voor verdere ontwikkeling.
 
 ## Technische beschrijving
-...
+Onderstaand overzicht bevat alle componenten en materialen die nodig zijn om het prototype van het project te reconstrueren of verder te ontwikkelen. De bijhorende BOM-tabellen bevatten richtprijzen en verwijzingen naar de gebruikte onderdelen. 
+
+Let op: de vermelde prijzen zijn indicatief en gebaseerd op marktonderzoek op het moment van documentatie. Prijsfluctuaties zijn mogelijk afhankelijk van leverancier, locatie en beschikbaarheid.
+### Centrale Interface – Bill of Materials (BOM)
+
+| Nr | Component                                 | Aantal | Richtprijs/stuk | Totaalprijs | Opmerkingen                           |
+|----|-------------------------------------------|--------|------------------|--------------|----------------------------------------|
+| 1  | MDF plaat (3 mm, gelasercut)              | 1      | €5,00            | €5,00        | Behuizing (18x20x22 cm)                |
+| 2  | 3D-geprinte dial                          | 1      | €2,00            | €2,00        | PLA                                    |
+| 3  | Rotary encoder module                     | 1      | €1,50            | €1,50        | Bron [^7]                              |
+| 4  | Rode drukknop (vergrendelend)             | 1      | €5,50            | €5,50        | On/Off schakelaar [bron "On/off"]      |
+| 5  | Arduino Nano                              | 1      | €4,00            | €4,00        | [bron "Arduino Nano"]                  |
+| 6  | DFPlayer Mini MP3 module                  | 1      | €3,00            | €3,00        | [bron "Dfplayer"]                      |
+| 7  | Mini speaker (3W, 8Ω)                     | 1      | €1,50            | €1,50        | [bron "Speaker"]                       |
+| 8  | Antislip voetjes (rubber)                 | 4      | €0,25            | €1,00        | Voor stabiliteit                       |
+| 9  | Ladegeleiders                             | 1 set  | €2,00            | €2,00        | Voor mat-lade                          |
+| 10 | Schuifmechanisme (voor pods)              | 1      | €2,00            | €2,00        | Kan ook 3D-geprint zijn                |
+| 11 | Voedingsadapter 5V/2A (USB/barrel jack)   | 1      | €5,00            | €5,00        | Voor voeding via stopcontact           |
+| 12 | Ring-LED                                  | 1      | €5,00            | €5,00        | [bron "Ringled"]                       |
+| 13 | Plexiglas ring                            | 1      | €1,00            | €1,00        | Zelf gelasercut                        |
+
+**Totale geschatte kostprijs centrale interface:** ± €39,50
+
+### Pods – Bill of Materials per Pod
+
+| Nr | Component                                 | Aantal | Richtprijs/stuk | Totaalprijs | Opmerkingen                            |
+|----|-------------------------------------------|--------|------------------|--------------|-----------------------------------------|
+| 1  | MDF cirkels (Ø 10 cm, gelasercut)         | 3      | €0,50            | €1,50        | 3 lagen per pod                         |
+| 2  | 3D-geprinte buitenring                    | 1      | €1,00            | €1,00        | PLA                                     |
+| 3  | Plexiglas bovenkant (drukvlak)            | 1      | €1,00            | €1,00        | Ø 10 cm, 3 mm dik                        |
+| 4  | Drukveren                                 | 3      | €0,30            | €0,90        | Kleine metalen veren                    |
+| 5  | Trilmotor (vibration motor v1.3)          | 1      | €2,50            | €2,50        | [bron "Bibration"]                      |
+| 6  | Ring-LED                                  | 1      | €5,00            | €5,00        | [bron "Ringled"]                        |
+| 7  | Drukknop (tactile switch)                 | 1      | €0,20            | €0,20        | 6x6mm of gelijkaardig                   |
+| 8  | Arduino Nano 33 IoT                       | 1      | €18,00           | €18,00       | [bron "Arduino Nano 33 IoT"]           |
+| 9  | 9V batterij                               | 1      | €5,70            | €5,70        | Alkaline batterij                       |
+| 10 | 9V batterijclip met connector             | 1      | €0,50            | €0,50        | Voor aansluiting Arduino                |
+| 11 | Magneetje                                 | 1      | €0,50            | €0,50        | Voor klikmechanisme                     |
+
+**Totale geschatte kostprijs per pod:** ± €36,90  
+Voor 4 pods: ± €147,60
+
+### Mat – Bill of Materials
+
+| Nr | Component                     | Aantal | Richtprijs/stuk | Totaalprijs | Opmerkingen                             |
+|----|-------------------------------|--------|------------------|--------------|------------------------------------------|
+| 1  | Stof (1550 mm x 335 mm)       | 1      | €6,00            | €6,00        | Polyester of canvas                      |
+| 2  | Magneetjes                    | 5      | €0,50            | €2,00        | Innaaien of lijmen tussen stoflagen      |
+| 3  | Bedrukking/markering          | 1      | €3,00            | €3,00        | Textielstift, flexfolie of zeefdruk      |
+
+**Totale geschatte kostprijs mat:** ± €11,00
+
+### Draagband – Bill of Materials
+
+| Nr | Component                            | Aantal | Richtprijs/stuk | Totaalprijs | Opmerkingen                              |
+|----|--------------------------------------|--------|------------------|--------------|-------------------------------------------|
+| 1  | Stofband (± 40 cm x 5 cm)            | 1      | €1,00            | €1,00        | Nylon of elastisch textiel                |
+| 2  | Velcro klittenband (haak + lus)      | 1 set  | €0,80            | €0,80        | Verstelbare sluiting                      |
+| 3  | 3D-geprint bevestigingsstuk          | 1      | €1,00            | €1,00        | PLA, pod-kliksysteem                      |
+| 4  | Magneetje                            | 1      | €0,50            | €0,50        | Hulp bij bevestigen                       |
+
+**Totale geschatte kostprijs draagband:** ± €3,30
+
+### Mobiele App – Softwarecomponent
+
+| Eigenschap           | Beschrijving                                                            |
+|----------------------|-------------------------------------------------------------------------|
+| Platform             | Android / iOS (lokaal)                                                  |
+| Functie              | Interface voor gebruikersinteractie en printopdracht                    |
+| Printfunctionaliteit | Verbindt met bestaande printer via WiFi of Bluetooth                    |
+| Ontwikkelingskosten  | Niet inbegrepen in BOM (afhankelijk van ontwikkeltijd/licenties)        |
+
+**Opmerkingen:**
+
+- De stof van de mat en band kan eenvoudig op maat worden gesneden en indien nodig omgezoomd.
+- Magneetjes kunnen worden ingenaaid of gelijmd tussen de lagen stof.
+- Markeringen kunnen met textielstiften, flexfolie of zeefdruk worden aangebracht.
+- Gedetailleerde info over de Arduino-onderdelen staat in de map `emerging tech`.
+
+**Code** 
+Alle ontwikkelde code in het kader van dit project is terug te vinden in de submap [Selicode](emerging_tech/code), binnen de folder [Emerging Tech](emerging_tech) . De bedradingsschema’s en toelichting over de opbouw zijn opgenomen in het README-bestand [Emerging_Tech.md](emerging_tech.md)
 
 
 ## Bronnen
-[^1]: Van Cauwenberge, G. (2024, July 22). Uitdagingen en opportuniteiten in de ouderenzorg: de visie van Johan Staes (VLOZO). NextConomy. 
+[1]: Van Cauwenberge, G. (2024, July 22). Uitdagingen en opportuniteiten in de ouderenzorg: de visie van Johan Staes (VLOZO). NextConomy. 
 https://www.nextconomy.be/2024/07/uitdagingen-en-opportuniteiten-in-de-ouderenzorg-de-visie-van-johan-staes-vlozo/ 
 ![image](https://github.com/user-attachments/assets/10a75d03-0ad0-4445-872b-5197d7b23676)
 
-[^2]: Personeelstekort dwingt Vlaamse ziekenhuizen en woonzorgcentra om zorgaanbod af te bouwen - Zorgnet-Icuro. (n.d.-b). Zorgnet-Icuro.
+[2]: Personeelstekort dwingt Vlaamse ziekenhuizen en woonzorgcentra om zorgaanbod af te bouwen - Zorgnet-Icuro. (n.d.-b). Zorgnet-Icuro.
  https://www.zorgneticuro.be/nieuws/personeelstekort-dwingt-vlaamse-ziekenhuizen-en-woonzorgcentra-om-zorgaanbod-af-te-bouwen 
 ![image](https://github.com/user-attachments/assets/dbe41b5f-4a3f-4836-806c-c5027ac03125)
 
-[^3]: Recordaantal woonzorgcentra op zwarte lijst door personeelstekort. (n.d.). 
+[3]: Recordaantal woonzorgcentra op zwarte lijst door personeelstekort. (n.d.). 
 PVDA. https://www.pvda.be/nieuws/recordaantal-woonzorgcentra-op-zwarte-lijst-door-personeelstekort 
 ![image](https://github.com/user-attachments/assets/baa2000e-2909-43cf-a9a6-97b5d82d9014)
 
-[^4]: Ouderen lichaamsafmetingen. (n.d.). https://www.dinbelg.be/ouderentotaal.htm
+[4]: Ouderen lichaamsafmetingen. (n.d.). https://www.dinbelg.be/ouderentotaal.htm
 
-[^5]: Rootsmann. (n.d.). Hoe hoog moet een eettafel zijn? Rootsmann.nl. https://www.rootsmann.nl/blogs/blog/hoe-hoog-moet-een-eettafel-zijn/#:~:text=De%20hoogte%20van%20een%20gemiddelde,75%20tot%2080%20centimeter%20hoog.
+[5]: Rootsmann. (n.d.). Hoe hoog moet een eettafel zijn? Rootsmann.nl. https://www.rootsmann.nl/blogs/blog/hoe-hoog-moet-een-eettafel-zijn/#:~:text=De%20hoogte%20van%20een%20gemiddelde,75%20tot%2080%20centimeter%20hoog.
 
-[^6]: Buro. (2024, January 3). Zo bepaal je de ideale hoogte voor je eettafel en eetkamerstoelen. Wiegers XL Meubels En Tuinmeubelen. https://www.wiegersxl.nl/advies/hoogte-eettafel-en-eetkamerstoelen/#:~:text=De%20gemiddelde%20zithoogte%20van%20een,zithoogte%20rond%20de%2040%20cm.
+[6]: Buro. (2024, January 3). Zo bepaal je de ideale hoogte voor je eettafel en eetkamerstoelen. Wiegers XL Meubels En Tuinmeubelen. https://www.wiegersxl.nl/advies/hoogte-eettafel-en-eetkamerstoelen/#:~:text=De%20gemiddelde%20zithoogte%20van%20een,zithoogte%20rond%20de%2040%20cm.
 
+[7]: Rotary Encoder + extras. (n.d.). https://www.gotron.be/rotary-encoder-extras.html
 
+[8]:
 
+[9]:
 
+[10]:
+
+[11]:
+
+[12]: 
 ## Bijlagen
 - **Discovery**
     - protocols
