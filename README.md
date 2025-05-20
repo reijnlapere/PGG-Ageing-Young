@@ -17,7 +17,7 @@ Om dit probleem aan te pakken, hebben we verschillende onderzoeksactiviteiten ui
 
 > [!Note]
 > - Volledige protocollen en rapporten zijn beschikbaar in de sectie [bijlagen](https://github.com/reijnlapere/PGG-Ageing-Young/edit/main/README.md#bijlagen).
-> - Ruwe data zoals foto's, notities en video-opnames zijn terug te vinden in de protocollen en reports.
+> - Ruwe data zoals foto's en notities zijn terug te vinden in de protocollen en reports.
 > - Alle geraadpleegde bronnen zijn te vinden in de sectie [bronnen](https://github.com/reijnlapere/PGG-Ageing-Young/edit/main/README.md#bronnen).
 
 
@@ -192,19 +192,10 @@ Uit de puntenmatrix blijkt dat kinesisten de voorkeur geven aan het gebruik van 
 > - D4.3 De mobiele applicatie beschikt over een printfunctie.
 > - D5.1 De positioneringsmat voor de voeten is optioneel beschikbaar en ontworpen voor middelmatige bewegingen te ondersteunen.
 
-
-### Kritische reflectie
-Tijdens het eerste semester is gewerkt aan het project Selico, waarbij de focus lag op de discovery- en definition-fase. Dit proces heeft niet alleen geleid tot waardevolle resultaten, maar ook tot belangrijke inzichten in de werkwijze en aanpak.
-
-Een van de belangrijkste succesfactoren werd gevormd door een sterke planning, die in Trello werd opgesteld, en door effectieve communicatie. Vanaf de start zijn duidelijke afspraken gemaakt met betrekking tot deadlines, taakverdeling en werkwijzen. Door regelmatige check-ins werd ervoor gezorgd dat alle betrokkenen op de hoogte bleven van de voortgang en dat eventuele knelpunten tijdig konden worden aangepakt. Hierdoor kon het project zonder noemenswaardige vertragingen worden afgerond, wat als een groot voordeel wordt beschouwd.
-
-Tijdens de discovery-fase werd vastgesteld hoe waardevol audio-opnames en ‘rough data’ zijn en welke informatie verloren gaat indien deze niet in rekening worden gebracht. Deze bevindingen zijn meegenomen naar de definition-fase om een optimale analyse mogelijk te maken. Wat betreft de uitvoering van het onderzoek, werd vastgesteld dat de onderzoeksvragen in sommige gevallen te breed waren geformuleerd. Hoewel hierdoor een uitgebreid perspectief werd verkregen, bleek het soms een uitdaging om diepgaande analyses uit te voeren. Daarnaast werd pas in een later stadium duidelijk dat bepaalde aspecten verder hadden kunnen worden uitgediept. Desondanks is waardevolle informatie verzameld, die als een stevige basis diende voor de verdere ontwikkeling van ideeën. Deze ervaring heeft aangetoond dat in de toekomst specifieker geformuleerde onderzoeksvragen kunnen bijdragen aan gefocuste en gedetailleerde resultaten.
-
-Ook de samenwerking binnen het team werd als een sterk punt ervaren. De verschillende kwaliteiten en inzichten van de teamleden droegen bij aan een divers en creatief proces. Dit werd met name zichtbaar tijdens brainstormsessies en bij de evaluatie van onderzoeksresultaten, waarbij teamleden elkaar aanvulden en kritisch hielden. Deze samenwerking resulteerde niet alleen in kwalitatieve resultaten, maar ook in een constructieve en aangename werksfeer.
-
-Hoewel er ruimte is voor verbetering, wordt met voldoening teruggekeken op het eerste semester. Trots heerst over de behaalde resultaten en de opgedane inzichten met betrekking tot onderzoek en teamwork. De lessen die hieruit zijn getrokken, zoals het nauwkeuriger afbakenen van onderzoeksvragen en het blijven streven naar efficiëntie, zullen worden toegepast in toekomstige projecten.
-
-Over het geheel genomen wordt het verloop van het semester als positief ervaren en wordt tevredenheid uitgesproken over de behaalde resultaten binnen het project Selico. De volgende fase van het project zal worden aangegaan met de verworven inzichten en vaardigheden.
+## Tussentijdse Renders 
+<p align="center">
+  <img src="images/pods1_verbeterd.jpg" width="49%">
+  <img src="images/inti3-beter.jpg" width="49%">
 
 ## Develop 1 - Sensorische en Fysieke Evaluatie voor Ergonomische Optimalisatie. (N=5)
 
