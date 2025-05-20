@@ -753,7 +753,7 @@ De doelstellingen van deze test waren:
 ### Materiaal en Methoden
 De testen vonden opnieuw plaats in het woonzorgcentrum WZC T’huis te Kortrijk, met deelname van zes testpersonen: drie senioren en drie professionals (kinesisten en begeleiders). Het doel van de testreeks was om inzichten te verwerven in de gebruiksvriendelijkheid, interpretatie en voorkeuren rond verschillende aspecten van het product. De test was opgebouwd rond vijf onderzoeksvragen (zie boven), en werd uitgevoerd aan de hand van observaties, tijdmetingen, interviews, foutenanalyses en vragenlijsten.
 
-De volledige testopzet werd uitgevoerd volgens vijf opeenvolgende fases, zoals gedetailleerd beschreven in het [protocol Develop 3](), waarbij elke fase gericht was op een specifiek aspect van de gebruikerservaring.
+De volledige testopzet werd uitgevoerd volgens vijf opeenvolgende fases, zoals gedetailleerd beschreven in het [protocol Develop 3](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/Protocol%20Concept%20Test%20D3.docx?d=wef2382056c49430f8c1b7d504ffbd4e0&csf=1&web=1&e=JuEpiQ), waarbij elke fase gericht was op een specifiek aspect van de gebruikerservaring.
 
 #### Introductie en Kwalificatie
 
@@ -876,7 +876,7 @@ Er werden drie verschillende lay-outs ontwikkeld:
   
 
 ### Resultaten
-Alle ruwe date is terug te vinden in [Report Develop 3]().
+Alle ruwe date is terug te vinden in [Report Develop 3](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/Analyse%20Develop%203.docx?d=wac631fe1a5b94001a05f52092187cbc1&csf=1&web=1&e=OVth5e).
 #### Positioneringsmat
 Drie gebruikers testten de positioneringsmat op uitvouwbaarheid, opberggemak en voorkeur in layout. De versie met vijf posities werd het duidelijkst verkozen: eenvoudiger en visueel beter gestructureerd. Ook waren cirkelvormige iconen favoriet, omdat ze de vorm van de pod het beste representeren. Magnetische feedback werd opgemerkt, al was de intensiteit wisselend.
 
@@ -1151,5 +1151,9 @@ PVDA. https://www.pvda.be/nieuws/recordaantal-woonzorgcentra-op-zwarte-lijst-doo
 - **Develop 2**
     - [protocol D2](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/PROTOCOL%20DEVELOP%202.2%20MECHANISCHE%20INTERFACES.docx?d=w9a62e91c30be485db418c8779e6c2ca0&csf=1&web=1&e=GBJOff)
     - [report D2](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/ANALYSE%20DEVELOP%202%20MECHANISCHE%20INTERFACES.docx?d=w82aa03cfb9954592b6fa05ab1bc5d081&csf=1&web=1&e=PIpvTK)
+
+- **Develop 3**
+    - [protocol D3](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/Protocol%20Concept%20Test%20D3.docx?d=wef2382056c49430f8c1b7d504ffbd4e0&csf=1&web=1&e=JuEpiQ)
+    - [report D3](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/Analyse%20Develop%203.docx?d=wac631fe1a5b94001a05f52092187cbc1&csf=1&web=1&e=OVth5e)
 
 ## Bronnen
