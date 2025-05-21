@@ -12,8 +12,8 @@ Om dit probleem aan te pakken, hebben we verschillende onderzoeksactiviteiten ui
 "Selico" is een interactief systeem dat de gebruiker multisensorisch uitdaagt door middel van licht, trillingen en druk. Het systeem stelt kinesisten in staat om gepersonaliseerde oefeningen te ontwerpen die de gebruiker zelfstandig kan uitvoeren, zonder constante begeleiding. Door deze autonomie te vergroten, helpt het systeem zorgverleners te ontlasten, wat de werkdruk vermindert. Het biedt een innovatieve oplossing voor de huidige tekortkomingen in de zorg, waar de behoefte aan effectieve, zelfstandige therapie groeit.
 
 <p align="center">
-  <img src="images/Schermafbeelding 2025-05-21 020418.png" height="350">
-  <img src="images/pods_render01.png" height="350">
+  <img src="images/Schermafbeelding 2025-05-21 020418.png" height="300">
+  <img src="images/pods_render01.png" height="300">
   
 
 > [!Note]
