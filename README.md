@@ -1,5 +1,8 @@
 # Selico
-Met ons product kan de gebruiker (65+ in een woonzorgcentrum) zelfstandig de motoriek en het cognitief vermogen verbeteren aan de hand van de voorgeschreven oefeningen van de kinesist.
+<p align="center">
+  <img src="images/selico_banner_licht.jpg" width="100%">
+
+Met Selico kan de gebruiker (65+ in een woonzorgcentrum) zelfstandig zijn/haar motorisch en het cognitief vermogen verbeteren aan de hand van de voorgeschreven oefeningen van de kinesist.
 
 Projectteam: Bojan Ronsijn; Reijn Lapere
 Datum: 20/05/2025
