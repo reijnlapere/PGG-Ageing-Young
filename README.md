@@ -12,8 +12,9 @@ Om dit probleem aan te pakken, hebben we verschillende onderzoeksactiviteiten ui
 "Selico" is een interactief systeem dat de gebruiker multisensorisch uitdaagt door middel van licht, trillingen en druk. Het systeem stelt kinesisten in staat om gepersonaliseerde oefeningen te ontwerpen die de gebruiker zelfstandig kan uitvoeren, zonder constante begeleiding. Door deze autonomie te vergroten, helpt het systeem zorgverleners te ontlasten, wat de werkdruk vermindert. Het biedt een innovatieve oplossing voor de huidige tekortkomingen in de zorg, waar de behoefte aan effectieve, zelfstandige therapie groeit.
 
 <p align="center">
-  <img src="images/pods1_verbeterd.jpg" width="49%">
-  <img src="images/inti3-beter.jpg" width="49%">
+  <img src="images/Schermafbeelding 2025-05-21 020418.png" height="300">
+  <img src="images/pods_render01.png" height="300">
+  
 
 > [!Note]
 > - Volledige protocollen en rapporten zijn beschikbaar in de sectie [bijlagen](https://github.com/reijnlapere/PGG-Ageing-Young/edit/main/README.md#bijlagen).
@@ -918,12 +919,16 @@ Na een jaar werk zijn we binnen het Selico-project tot een finaal prototype geko
 
 Het systeem bestaat uit vier pods. Deze geven licht, trillen, kunnen ingedrukt worden en bieden tactiele feedback dankzij een geïntegreerde magneet. Deze pods zijn inzetbaar in de verschillende spellen, en kunnen eenvoudig bevestigd worden aan het opdraaisysteem.
 
-_foto_
+<p align="center">
+  <img src="images/pods_render01.png" height="350">
+  <img src="images/pods_render03.png" height="350">
 
 De centrale interface fungeert als opbergruimte en navigatiemiddel doorheen het systeem. Met behulp van een draaiknop, opberglades en een hendel is het systeem mobiel en praktisch in gebruik. Het ontwerp is geïnspireerd op het uiterlijk van een retro radio, om een gevoel van herkenning op te roepen en de gebruiker visueel te triggeren.
 
-_foto_
-
+<p align="center">
+  <img src="images/Schermafbeelding 2025-05-21 020418.png" height="315">
+  <img src="images/Schermafbeelding 2025-05-21 021357.png" height="315">
+  
 Voor de positionering van de pods ontwikkelden we drie fysieke oplossingen: een opvouwbare mat met vaste posities, een opspansysteem dat rond armen en benen gespannen kan worden, en een bijhorende mobiele applicatie die de kinesist ondersteunt in het simuleren van haalbare oefeningen. Tot slot is er het positioneringsformulier dat eenvoudig en visueel de nodige opstellingen weergeeft per gebruiker.
 
 Selico is hiermee een modulair systeem geworden dat inspeelt op de noden van de gebruiker én het zorgpersoneel. 
@@ -1145,6 +1150,6 @@ PVDA. https://www.pvda.be/nieuws/recordaantal-woonzorgcentra-op-zwarte-lijst-doo
 
 - **Develop 3**
     - [protocol D3](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/Protocol%20Concept%20Test%20D3.docx?d=wef2382056c49430f8c1b7d504ffbd4e0&csf=1&web=1&e=JuEpiQ)
-    - [report D3](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/Analyse%20Develop%203.docx?d=wac631fe1a5b94001a05f52092187cbc1&csf=1&web=1&e=OVth5e)
+    - [report D3](https://ugentbe-my.sharepoint.com/:w:/r/personal/bojan_ronsijn_ugent_be/Documents/Analyse%20Develop%203%20(1).docx?d=wdd78ac88cfe8432dbd8c37996c95445c&csf=1&web=1&e=3YWXUk)
 
 ## Bronnen
