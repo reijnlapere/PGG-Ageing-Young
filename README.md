@@ -1,8 +1,10 @@
-# Selico
 <p align="center">
   <img src="images/selico_banner_licht.jpg" width="100%">
 
-Met Selico kan de gebruiker (65+ in een woonzorgcentrum) zelfstandig zijn/haar motorisch en het cognitief vermogen verbeteren aan de hand van de voorgeschreven oefeningen van de kinesist.
+de brug tussen beweging, spel en zorg.
+
+_Een interactief spel waarmee bewoners van woonzorgcentra (65+) zelfstandig hun motorische en cognitieve vaardigheden verbeteren via op maat gemaakte oefeningen van de kinesist._
+
 
 Projectteam: Bojan Ronsijn; Reijn Lapere
 Datum: 20/05/2025
