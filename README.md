@@ -38,13 +38,18 @@ Met deze oplossing hopen we niet alleen de werkdruk in de zorg te verlichten, ma
 
 
 ## Methodologie
-Het ontwikkelingsproces van Selico volgde een iteratieve en gebruiksgerichte aanpak, waarbij de behoeften van gebruikers centraal stonden. 
+Het ontwikkelingsproces van Selico volgde een iteratieve, gebruiksgerichte aanpak met een focus op de noden van ouderen en zorgverleners. Het aangepaste Double Diamond-model werd toegepast, van exploratie tot oplevering, met continue terugkoppeling via testen en optimalisatie.
 
-In de eerste fase, de exploratiefase, onderzochten we de problematiek rondom motorische en cognitieve stimulatie bij ouderen in woonzorgcentra. Het tekort aan zorgpersoneel en de beperkte autonomie van ouderen vormden de kern van het probleem. Om dit goed te begrijpen, moesten we dieper gaan. We voerde expertinterviews uit met kinesisten, psychologen en zorgverleners. Daarnaast observeerden we een bewegingssessie in een woonzorgcentrum. Hier analyseerden we hoe visuele, auditieve en tactiele prikkels de prestaties en betrokkenheid beïnvloedden. Een benchmarkanalyse van bestaande producten, zoals de Tovertafel en Bob It, gaf inzicht in wat al beschikbaar was en waar de hiaten lagen. Deze onderzoeken resulteerden in een scherp geformuleerde probleemstelling en eerste ontwerpvereisten.
+Tijdens de exploratiefase werd de problematiek rond motorische en cognitieve stimulatie bij ouderen in woonzorgcentra onderzocht. Tekorten in zorgpersoneel en beperkte autonomie werden geïdentificeerd als kernproblemen. Inzichten werden verzameld via expertinterviews met kinesisten, psychologen en zorgverleners, aangevuld met observaties van bewegingssessies in woonzorgcentra. Benchmarkanalyses van bestaande producten, zoals de Tovertafel en Bob It, brachten markthiaten en kansen aan het licht. De fase resulteerde in een heldere probleemstelling en eerste ontwerpvereisten.
 
-In de definitiefase verdiepten we ons verder in het probleem en starten we met het opstellen van een storyboard om de volledige user journey vast te leggen. Deze aanpak bracht verschillende aspecten en componenten van het product aan het licht die nader gespecificeerd moesten worden. Het testen van deze componenten werd opgesplitst in twee afzonderlijke testfasen, waarbij voor elke fase prototypes werden ontwikkeld die gericht waren op specifieke eigenschappen of functionaliteiten van het product.
+In de definitiefase werd de probleemdefinitie verfijnd en de gebruikerservaring in kaart gebracht aan de hand van een storyboards. Dit leidde tot een indeling van het product in afzonderlijke testbare componenten. Voor elk onderdeel werden prototypes ontwikkeld en getest met minimaal vijf gebruikers en een kinesist. Feedback uit deze sessies resulteerde in bijsturingen en de formulering van cruciale ontwerpvereisten.
 
-Met deze prototypes zochten we meteen de eerste gebruikers op om feedback te verzamelen.Per testfase zochten we minimaal 5 verschillende gebruikers en een kinesist. Op basis van deze inzichten werden de nodige aanpassingen doorgevoerd, met als doel een gebruiksvriendelijk en frictieloos ontwerp te creëren dat een optimale user experience biedt. Na elke testfase werd een analyse uitgevoerd, waarbij we essentiële design requirements vaststelden. Deze requirements dienden als leidraad voor het ontwikkelen van ons finaal concept.
+De develop-fase werd opgesplitst in drie gerichte ontwikkelfases.
+Develop 1 focuste op het detailontwerp van de pods, waarbij afmetingen, feedbackmechanismen en het opspansysteem centraal stonden (the body, the sense).
+Develop 2 richtte zich op de centrale interface met nadruk op effectiviteit, efficiëntie en gebruikservaring (the mind, the sense).
+Develop 3 bouwde verder op de vorige fase, met aandacht voor interfacepositionering voor gebruiker en begeleider, en aangepaste feedback. Antropometrische analyses ondersteunden het ontwerp met betrekking tot ergonomie (the body, the mind). Elke fase bestond uit divergente prototyping, gebruikerstesten en convergentie naar een verfijnd resultaat.
+
+In de deliver-fase werd het finale concept opgeleverd. Dit omvatte het eindprototype, visueel ondersteunend materiaal en een eindvideo waarin het concept en de werking van Selico worden gepresenteerd.
 
 <p align="center">
   <img src="images/methodologie.png" width="100%">
