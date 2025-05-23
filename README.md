@@ -28,13 +28,13 @@ Om dit probleem aan te pakken, hebben we verschillende onderzoeksactiviteiten ui
 
 
 ## Introductie
-De vergrijzing en het groeiende tekort aan zorgpersoneel in woonzorgcentra en revalidatiecentra creëren een dringende behoefte aan innovatieve oplossingen die zorgvragers zelfstandiger maken en zorgverleners ontlasten. Vooral in de revalidatie en cognitieve stimulatie is de vraag naar efficiënte, toegankelijke hulpmiddelen groot.
+De vergrijzing en het groeiende tekort aan zorgpersoneel in woonzorgcentra en revalidatiecentra creëren een dringende behoefte aan innovatieve oplossingen die de zelfstandigheid van zorgvragers vergroten en de belasting voor zorgverleners verminderen. Vooral binnen revalidatie en cognitieve stimulatie is er een sterke vraag naar efficiënte en toegankelijke hulpmiddelen.
 
-Ons project richt zich op het ontwikkelen van een interactief, multisensorisch systeem dat gebruikers zelfstandig kan helpen bij het verbeteren van hun motorische, cognitieve en reactieve vaardigheden. De kern van ons systeem bestaat uit een combinatie van slim gepositioneerde pods, een centrale interface en een ondersteunende app. Deze methode combineert ritme, beweging en sensorische prikkels voor optimale activering van lichaam en geest.
+Het project richt zich op de ontwikkeling van een interactief, multisensorisch systeem dat gebruikers zelfstandig ondersteunt bij het verbeteren van motorische, cognitieve en reactieve vaardigheden. De kern van het systeem bestaat uit een combinatie van strategisch geplaatste pods, een centrale interface en een ondersteunende applicatie. Deze benadering integreert ritme, beweging en sensorische prikkels voor optimale stimulatie van lichaam en geest.
 
-De doelstelling van het project is het bieden van een gebruiksvriendelijk en flexibel systeem dat zelfstandig gebruik stimuleert. Een belangrijke voorwaarde is dat de gebruiker zonder constante begeleiding het systeem kan bedienen. Daarnaast moet het systeem eenvoudig aanpasbaar zijn aan individuele behoeften en niveaus, wat mogelijk wordt gemaakt door een door een kinesist ontworpen configuratie via een app.
+De doelstelling van het project is het aanbieden van een gebruiksvriendelijk en flexibel systeem dat zelfstandig gebruik bevordert. Een essentiële vereiste is dat de gebruiker het systeem zonder voortdurende begeleiding kan hanteren. Daarnaast moet het systeem eenvoudig kunnen worden aangepast aan individuele noden en niveaus, mogelijk gemaakt door een configuratie via een app die ontworpen is op basis van kinesitherapeutische richtlijnen.
 
-Met deze oplossing hopen we niet alleen de werkdruk in de zorg te verlichten, maar ook de levenskwaliteit en zelfstandigheid van zorgvragers te vergroten.
+Deze oplossing beoogt niet alleen een vermindering van de werkdruk in de zorgsector, maar ook een toename van de levenskwaliteit en zelfstandigheid van zorgvragers.
 
 
 ## Methodologie
