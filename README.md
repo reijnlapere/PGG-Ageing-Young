@@ -19,7 +19,8 @@ Om dit probleem aan te pakken, hebben we verschillende onderzoeksactiviteiten ui
 <p align="center">
   <img src="images/Schermafbeelding 2025-05-21 020418.png" height="300">
   <img src="images/pods_render01.png" height="300">
-  
+
+  [<img src="/images/thumbnail.png">](youtube link)
 
 > [!Note]
 > - Volledige protocollen en rapporten zijn beschikbaar in de sectie [bijlagen](https://github.com/reijnlapere/PGG-Ageing-Young/edit/main/README.md#bijlagen).
