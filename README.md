@@ -21,7 +21,7 @@ Om dit probleem aan te pakken, hebben we verschillende onderzoeksactiviteiten ui
   <img src="images/pods_render01.png" height="300">
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=X18zvjRSP4o&t=11s" target="_blank">
+  <a href="https://www.youtube.com/watch?v=X18zvjRSP4o&t" target="_blank">
     <img src="images/YTthumbnail.png" alt="Bekijk de video op YouTube" style="width:81%;">
   </a>
 </p>
