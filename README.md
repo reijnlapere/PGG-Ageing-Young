@@ -20,7 +20,11 @@ Om dit probleem aan te pakken, hebben we verschillende onderzoeksactiviteiten ui
   <img src="images/Schermafbeelding 2025-05-21 020418.png" height="300">
   <img src="images/pods_render01.png" height="300">
 
-[<img src="/images/Selico Movie Thumbnail.png">](https://youtu.be/X18zvjRSP4o)
+<p align="center">
+  <a href="https://youtu.be/X18zvjRSP4o">
+    <img src="/images/Selico Movie Thumbnail.png" style="width: 81%;">
+  </a>
+</p>
 
 > [!Note]
 > - Volledige protocollen en rapporten zijn beschikbaar in de sectie [bijlagen](https://github.com/reijnlapere/PGG-Ageing-Young/edit/main/README.md#bijlagen).
