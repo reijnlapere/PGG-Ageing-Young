@@ -20,7 +20,11 @@ Om dit probleem aan te pakken, hebben we verschillende onderzoeksactiviteiten ui
   <img src="images/Schermafbeelding 2025-05-21 020418.png" height="300">
   <img src="images/pods_render01.png" height="300">
 
-  [![Bekijk de video](https://img.youtube.com/vi/X18zvjRSP4o/maxresdefault.jpg)](https://www.youtube.com/watch?v=X18zvjRSP4o)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=X18zvjRSP4o&t=11s" target="_blank">
+    <img src="images/YTthumbnail.png" alt="Bekijk de video op YouTube" style="width:81%;">
+  </a>
+</p>
 
 
 > [!Note]
