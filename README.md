@@ -22,7 +22,8 @@ Om dit probleem aan te pakken, hebben we verschillende onderzoeksactiviteiten ui
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=X18zvjRSP4o&t" target="_blank">
-    <img src="images/YTthumbnail.png" alt="Bekijk de video op YouTube" style="width:81%;">
+    <img src="images/YTthumbnail.png" alt="Bekijk de video op YouTube" style="width:100%
+    ;">
   </a>
 </p>
 
